@@ -1,0 +1,29 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+defaults:  # The defaults key will be applied to all chapters and sub-sections
+  titlesonly: true
+
+parts: 
+- caption: Liminaire
+  chapters:
+  - file: data/yoga/remerciements  
+  - file: data/yoga/liminaire
+
+
+- caption: Mes publications de yoga
+  
+  chapters:
+  - file: data/yoga/intro/comprendre
+  - file: data/yoga/asana/asana
+  - file: data/yoga/pranayama/pranayama
+  - file: data/yoga/mudras/mudras
+  - file: data/yoga/bandhas/bandhas
+  - file: data/yoga/shatkarmas/shatkarmas
+  - file: data/yoga/index-th/index-th
+
+- caption: Modele
+  chapters:
+  - file: modele/modeleexemple
