@@ -135,3 +135,19 @@ My second tab with `some code`!
 ```{admonition} Extra credit
 An "extra credit" exercise is presented here.
 ```
+
+### Heading Level 3
+
+Try changing the number of `#`s to $n$[^math] to change the **depth** of the _heading_.
+
+1. Learn about [Markdown](https://en.wikipedia.org/wiki/Markdown)
+   - Go through a [tutorial](https://commonmark.org/help/tutorial/)
+
+[^math]: Where $n \in \mathbb{N}$ with $n \leq 6$, or between an H1 and an H6!
+
+
+:::{figure} https://source.unsplash.com/random/400x200?meditation
+:align: right
+
+The picture would look better if it is `:align: center`-ed!
+:::

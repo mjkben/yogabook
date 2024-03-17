@@ -32,7 +32,7 @@
     <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=384b581d" />
     <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
     <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="../_static/design-style.1e8bd061cd6da7fc9cf755528e8ffc24.min.css?v=0a3b3ea7" />
     <link rel="stylesheet" type="text/css" href="../_static/myfile.css?v=eadebbbc" />
@@ -60,6 +60,8 @@
     <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'modele/modeleexemple';</script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Recherche" href="../search.html" />
@@ -115,12 +117,6 @@
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
 </form></div>
   </div>
-
-
-  <div class="bd-header-announcement container-fluid bd-header-announcement">
-    <div class="bd-header-announcement__content">Cette section du site est consacrée à mes écrits sur le Yoga et l'Ayurveda.</div>
-  </div>
-
   
     <header class="bd-header navbar navbar-expand-lg bd-navbar">
     </header>
@@ -183,7 +179,7 @@
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Mes publications de yoga</span></p>
 <ul class="nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="../data/yoga/intro/comprendre.html">§1. Comprendre le yoga</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../data/yoga/intro/comprendre.html">§1. Comprendre le Yoga</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../data/yoga/asana/asana.html">§2. La science des postures</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../data/yoga/pranayama/pranayama.html">§3. La dynamique du souffle</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../data/yoga/mudras/mudras.html">§3. La gestuelle énergétique</a></li>
@@ -389,7 +385,10 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#shavasana">Shavasana</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#shavasana">Shavasana</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#heading-level-3">Heading Level 3</a></li>
+</ul>
+</li>
 </ul>
             </nav>
         </div>
@@ -551,6 +550,30 @@ Tab 2 title</label><div class="sd-tab-content docutils">
 <p class="admonition-title">Extra credit</p>
 <p>An « extra credit » exercise is presented here.</p>
 </div>
+<section id="heading-level-3">
+<h3>Heading Level 3<a class="headerlink" href="#heading-level-3" title="Link to this heading">#</a></h3>
+<p>Try changing the number of <code class="docutils literal notranslate"><span class="pre">#</span></code>s to <span class="math notranslate nohighlight">\(n\)</span><a class="footnote-reference brackets" href="#math" id="id1" role="doc-noteref"><span class="fn-bracket">[</span>1<span class="fn-bracket">]</span></a> to change the <strong>depth</strong> of the <em>heading</em>.</p>
+<ol class="arabic simple">
+<li><p>Learn about <a class="reference external" href="https://en.wikipedia.org/wiki/Markdown">Markdown</a></p>
+<ul class="simple">
+<li><p>Go through a <a class="reference external" href="https://commonmark.org/help/tutorial/">tutorial</a></p></li>
+</ul>
+</li>
+</ol>
+<figure class="align-right" id="id2">
+<img alt="https://source.unsplash.com/random/400x200?meditation" src="https://source.unsplash.com/random/400x200?meditation" />
+<figcaption>
+<p><span class="caption-text">The picture would look better if it is <code class="docutils literal notranslate"><span class="pre">:align:</span> <span class="pre">center</span></code>-ed!</span><a class="headerlink" href="#id2" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+<hr class="footnotes docutils" />
+<aside class="footnote-list brackets">
+<aside class="footnote brackets" id="math" role="doc-footnote">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id1">1</a><span class="fn-bracket">]</span></span>
+<p>Where <span class="math notranslate nohighlight">\(n \in \mathbb{N}\)</span> with <span class="math notranslate nohighlight">\(n \leq 6\)</span>, or between an H1 and an H6!</p>
+</aside>
+</aside>
+</section>
 </section>
 </section>
 
@@ -609,7 +632,10 @@ Tab 2 title</label><div class="sd-tab-content docutils">
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#shavasana">Shavasana</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#shavasana">Shavasana</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#heading-level-3">Heading Level 3</a></li>
+</ul>
+</li>
 </ul>
   </nav></div>
 
