@@ -9,6 +9,7 @@ defaults:  # The defaults key will be applied to all chapters and sub-sections
 parts: 
 - caption: Liminaire
   chapters:
+  - file: data/yoga/frontmatter
   - file: data/yoga/remerciements  
   - file: data/yoga/liminaire
 

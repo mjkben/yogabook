@@ -1,4 +1,4 @@
-#  <p align="center">Yoga: La science du bien-être </p> 
+#  <p align="center">Yoga: La science du bien-être intérieur </p> 
 
 
 ```{admonition} Citation de l'un de mes maître

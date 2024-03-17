@@ -1,3 +1,12 @@
+---
+title: Yoga: La science du bien-être intérieur
+date: 2022-05-11
+authors:
+  - name: Mason Moniker
+    affiliations:
+      - University of Europe
+---
+
 # Note au lecteur
 
 ## Le Yoga : Un Cadeau pour l'Humanité
