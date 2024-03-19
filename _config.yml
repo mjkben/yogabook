@@ -6,11 +6,17 @@
 #######################################################################################
 # Book sdefaults:
 title                       : Yoga & Ayurveda Sagar # The title of the book. Will be placed in the left navbar.
-description: Cette section du site est consacrée à mes écrits sur le yoga et l'ayurveda.
-#author                      : Marie-jacques BENARD  # The author of the book
+description                 : Cette section du site est consacrée à mes écrits sur le yoga et l'ayurveda.
+#author                     : Marie-jacques BENARD  # The author of the book
 author                      : ""
+email                       : mjknews@gmail.com
+baseurl                     : ""
 copyright                   : "2024"                # Copyright year to be placed in the footer
 logo                        : logo-yogabook.png         # A path to the book logo
+url                         : "https://samkhya.benard.cloud" # the base hostname & protocol for site
+footer_text                 : Created by Marie-jacques BENARD
+
+
 
 # Prise en charge multilingue
 languages: ["en", "fr"]
@@ -33,9 +39,41 @@ bibtex_bibfiles:
 launch_buttons:
   notebook_interface        : classic # The interface interactive links will activate ["classic", "jupyterlab"]
   binderhub_url             : "https://mybinder.org/v2/gh/mjkben/yogabook/HEAD"      # The URL of the BinderHub (e.g., https://mybinder.org)
-  jupyterhub_url            : ""      # The URL of the JupyterHub (e.g., https://datahub.berkeley.edu)
   thebe                     : false   # Add a thebe button to pages (requires the repository to run on Binder)
   colab_url                 : ""      # The URL of Google Colab (https://colab.research.google.com)
+
+# Thebelab settings
+use_thebelab_button              : true  # If 'true', display a button to allow in-page running code cells with Thebelab
+thebelab_button_text             : "Thebelab"  # The text to display inside the Thebelab initialization button
+codemirror_theme                 : "abcdef"  # Theme for codemirror cells, for options see https://codemirror.net/doc/manual.html#config
+
+# nbinteract settings
+use_show_widgets_button              : true  # If 'true', display a button to allow in-page running code cells with nbinteract
+
+# Download settings
+use_download_button              : true  # If 'true', display a button to download a zip file for the notebook
+download_button_text             : "Download" # The text that download buttons will contain
+download_page_header             : "Made with Jupyter Book" # A header that will be displayed at the top of and PDF-printed page
+
+
+
+#######################################################################################
+# Binder link settings
+use_binder_button                : true  # If 'true', add a binder button for interactive links
+binderhub_url                    : "https://mybinder.org"  # The URL for your BinderHub. If no URL, use ""
+binder_repo_base                 : "https://github.com/"  # The site on which the textbook repository is hosted
+binder_repo_org                  : "matteoacrossi"  # The username or organization that owns this repository
+binder_repo_name                 : "oqs-jupyterbook"  # The name of the repository on the web
+binder_repo_branch               : "master"  # The branch on which your textbook is hosted.
+binderhub_interact_text          : "Interact"  # The text that interact buttons will contain.
+
+
+# Jupyterhub link settings
+use_jupyterhub_button            : false  # If 'true', display a button that will direct users to a JupyterHub (that you provide)
+jupyterhub_url                   : ""  # The URL of the JupyterHub (e.g., https://datahub.berkeley.edu) If no URL, use ""
+jupyterhub_interact_text         : "Interact"  # The text that interact buttons will contain.
+
+
 
 # Information about where the book exists on the web
 repository:
@@ -58,7 +96,6 @@ html:
   baseurl                   : ""    # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/ ou "/mon-projet" # le sous-dossier relatif à votre site, si nécessaire
   url                     : ""      # l'URL de votre site
   analytics:
-
   extra_navbar: |
         <div>
             Crée par <a href="https://perso.univ-lyon1.fr/marc.buffat/">Marc BUFFAT</a><br> avec <a href="https://jupyterbook.org">Jupyter Book</a>
@@ -68,7 +105,6 @@ html:
         <div>
             Crée par <a href="https://samkhya.benard.cloud">Marie-jacques BENARd</a>
         </div>
-
 
   comments:
     hypothesis              : true
@@ -99,6 +135,7 @@ html_show_copyright: false
 myst_amsmath_enable: true
 html_theme: sizzle
 
+#######################################################################################
 # extended html
 parse:
   myst_enable_extensions:
@@ -113,9 +150,47 @@ parse:
   myst_url_schemes: [mailto, http, https] # URI schemes that will be recognised as external URLs in Markdown links
   myst_dmath_double_inline: true          # Allow display math ($$) within an inline context
 
-# Jupyter settings
 
-only_build_toc_files: true
+#######################################################################################
+# Jupyter book settings you probably don't need to change
+only_build_toc_files      : true
+content_folder_name       : "content"  # The folder where your raw content (notebooks/markdown files) are located
+images_url                : "/assets/images" # Path to static image files
+css_url                   : "/assets/css" # Path to static CSS files
+js_url                    : "/assets/js" # Path to JS files
+custom_static_url         : "/assets/custom" # Path to user's custom CSS/JS files
+use_jupyterhub_button     :  false   # Si 'true', affichez un bouton qui dirigera les utilisateurs vers un JupyterHub (que vous fournissez)
+
+# Sidebar settings
+show_sidebar              : false  # Show the sidebar. Only set to false if your only wish to host a single page.
+collapse_inactive_chapters: false  # Whether to collapse the inactive chapters in the sidebar
+collapse_inactive_sections: false  # Whether to collapse the sub-sections within a non-active section in the sidebar
+textbook_logo             : images/oqs.001.png  # A logo to be displayed at the top of your textbook sidebar. Should be square
+textbook_logo_link        : index.html  # A link for the logo.
+sidebar_footer_text       : 'Powered by <a href="https://jupyterbook.org">Jupyter Book</a>'
+number_toc_chapters       : true  # Whether to add numbers to chapterse in your Table of Contents. If true, you can control this at the Chapter level in _data/toc.yml
+
+# Search settings
+search_max_words_in_content : 100  # In the search function, use at most this many words (too many words will make search slow)
+
+# # Controlling page information
+page_titles                    : toc  # Either `None`, `infer`, or `toc`
+page_authors                   : None  # Either `None` or `infer`
+filename_title_split_character : '_'  # If inferring titles based on filename, splt on this character.
+
+#######################################################################################
+# Jupyter book extensions and additional features
+
+# Bibliography and citation settings. See https://github.com/inukshuk/jekyll-scholar#configuration for options
+# scholar:
+#   style: apa
+
+#######################################################################################
+# Option to add a Goggle analytics tracking code
+
+# Navigate to https://analytics.google.com, add a new property for your jupyter book and copy the tracking id here.
+# google_analytics:
+#   mytrackingcode: UA-52617120-7
 
 #######################################################################################
 # Jupyter book settings you probably don't need to change
@@ -125,3 +200,5 @@ images_url                : "/assets/images" # Path to static image files
 css_url                   : "/assets/css" # Path to static CSS files
 js_url                    : "/assets/js" # Path to JS files
 custom_static_url         : "/assets/custom" # Path to user's custom CSS/JS files
+
+
