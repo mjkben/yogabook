@@ -9,21 +9,21 @@ defaults:  # The defaults key will be applied to all chapters and sub-sections
 parts: 
 - caption: Liminaire
   chapters:
-  - file: data/yoga/frontmatter
-  - file: data/yoga/remerciements  
-  - file: data/yoga/liminaire
+  - file: content/yoga/frontmatter
+  - file: content/yoga/remerciements  
+  - file: content/yoga/liminaire
 
 
 - caption: Mes publications de yoga
   
   chapters:
-  - file: data/yoga/intro/comprendre
-  - file: data/yoga/asana/asana
-  - file: data/yoga/pranayama/pranayama
-  - file: data/yoga/mudras/mudras
-  - file: data/yoga/bandhas/bandhas
-  - file: data/yoga/shatkarmas/shatkarmas
-  - file: data/yoga/index-th/index-th
+  - file: content/yoga/intro/comprendre
+  - file: content/yoga/asana/asana
+  - file: content/yoga/pranayama/pranayama
+  - file: content/yoga/mudras/mudras
+  - file: content/yoga/bandhas/bandhas
+  - file: content/yoga/shatkarmas/shatkarmas
+  - file: content/yoga/index-th/index-th
 
 - caption: Modele
   chapters:
