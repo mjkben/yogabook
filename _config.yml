@@ -5,14 +5,13 @@
 
 #######################################################################################
 # Book sdefaults:
-title                       : Yoga & Ayurveda Sagar # The title of the book. Will be placed in the left navbar.
+title                       : Yoga Sagar # The title of the book. Will be placed in the left navbar.
 description                 : Cette section du site est consacrée à mes écrits sur le yoga et l'ayurveda.
-#author                     : Marie-jacques BENARD  # The author of the book
-author                      : ""
+author                      : Marie-jacques BENARD  # The author of the book
 email                       : mjknews@gmail.com
 baseurl                     : ""
 copyright                   : "2024"                # Copyright year to be placed in the footer
-logo                        : logo-yogabook.png         # A path to the book logo
+logo                        : logo-yogabook2.png         # A path to the book logo
 url                         : "https://samkhya.benard.cloud" # the base hostname & protocol for site
 footer_text                 : Created by Marie-jacques BENARD
 
@@ -48,7 +47,7 @@ thebelab_button_text             : "Thebelab"  # The text to display inside the 
 codemirror_theme                 : "abcdef"  # Theme for codemirror cells, for options see https://codemirror.net/doc/manual.html#config
 
 # nbinteract settings
-use_show_widgets_button              : true  # If 'true', display a button to allow in-page running code cells with nbinteract
+use_show_widgets_button          : true  # If 'true', display a button to allow in-page running code cells with nbinteract
 
 # Download settings
 use_download_button              : true  # If 'true', display a button to download a zip file for the notebook

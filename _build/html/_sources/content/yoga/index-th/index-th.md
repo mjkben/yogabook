@@ -9,6 +9,8 @@ d\'un thérapeute de yoga compétent et informé ou d\'un médecin avec qui
 elle peut discuter de sa symptomatologie. Cela est particulièrement vrai
 en présence de plusieurs maladies ou de conditions graves.
 
+
+
 ## Abdomen : (tonification et renforcement généraux)
 
 **Asanas** :

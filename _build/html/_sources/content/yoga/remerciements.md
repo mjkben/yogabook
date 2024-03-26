@@ -1,6 +1,11 @@
 Remerciements
 =============
 
+:::{figure} content/yoga/pictures/namaste4.jpg
+
+:::
+
+
 - Sri SWAMI Sivananda, *Bihar school of yoga, INDIA*
 - Sri SWAMI Niranianananda, *Yoga research foundation, INDIA*
 - Master B.K.S Iyengar, *Ramamani Iyengar Memorial Yoga Institute, INDIA*

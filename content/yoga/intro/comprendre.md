@@ -65,6 +65,7 @@ En abordant ces idées reçues, j'espére éclaircir certaines confusions et enc
 ```
 
 ## Les origines et la philosophie
+
 ```{figure} ../pictures/00_01-mohenjo-daro.png
 ---
 alt: mohenjodaro
@@ -228,11 +229,13 @@ Après une séance, si vous ne vous sentez pas apaisé, heureux, calme, et en ac
 
 ```{figure} ../pictures/00_03-fonction-corps-physique.png
 ---
-scale: 50%
 alt: fct-corps-physique
 name: fct-corps-physique
-align: right
+align: center
+---
+Les quatre fonctions du corps physique
 ```
+
 Notre corps est une merveille de la nature, orchestré autour de quatre fonctions vitales essentielles. Parmi celles-ci, l'alimentation et la respiration se distinguent par leur capacité à être influencées directement par notre volonté. Ces domaines cruciaux ont été au cœur de recherches approfondies, donnant naissance à deux sciences complémentaires, l'Ayurveda et le Yoga, qui partagent une philosophie commune et se concentrent respectivement sur :
 
 - **Alimentation et digestion** : L'art de nourrir le corps de manière consciente et la transformation des aliments en énergie.
@@ -260,3 +263,40 @@ Dans la perspective yogique, notre être transcende la simple dimension physique
 - **Corps divin** : Le niveau ultime, représentant la conscience pure.
 
 Cette vision holistique révèle la complexité de l'être humain au-delà de son aspect physique, offrant une compréhension profonde de notre nature multi-dimensionnelle.
+
+## Les sept niveaux de vibration
+
+Dans le vaste domaine de la mystique, on conceptualise l'existence de sept niveaux de vibration qui correspondent à sept couches d'être. Ces niveaux s'échelonnent du plus subtil au plus dense comme suit :
+
+- **Corps Divin**, qui est la quintessence de la spiritualité.
+- **Corps Spirituel**, qui sert de pont entre le divin et l'individuel.
+- **Corps Causal**, où résident les causes premières de notre existence.
+- **Corps Mental**, qui est le siège de nos pensées et de notre intellect.
+- **Corps Émotionnel**, qui englobe nos sentiments et nos émotions.
+- **Corps Éthérique**, une couche subtile qui sert de liaison avec le physique.
+- **Corps Physique**, qui est la manifestation la plus tangible et la plus dense de notre être.
+
+## Simplification en trois dimensions
+
+Pour faciliter la compréhension de ces concepts, on peut les regrouper en trois dimensions principales :
+
+1. **Dimension Physique**, qui correspond au Corps Physique et vibre à la fréquence la plus basse, rendant ainsi sa perception directe possible.
+2. **Dimension Astrale**, qui englobe les Corps Éthérique, Émotionnel et Mental. Cette dimension, bien qu'immense et prépondérante, demeure invisible à nos yeux, tout comme la partie submergée d'un iceberg.
+3. **Dimension Causale**, qui comprend les Corps Causal, Spirituel et Divin, représentant les niveaux les plus élevés de vibration et les aspects les plus sublimes de notre être.
+
+La Dimension Physique est la plus perceptible parce qu'elle vibre à la fréquence la plus basse. En revanche, les deux autres dimensions, bien qu'immenses et substantielles, restent cachées à notre vue, à l'instar de la partie immergée d'un iceberg. Pour explorer et influencer nos corps subtils, il est conseillé de commencer par notre enveloppe physique, permettant ainsi d'accéder progressivement aux dimensions plus subtiles de notre existence.
+
+## La Perspective du Yoga sur les dimensions de l'être
+
+Selon les enseignements du yoga, connus sous le nom de *darshana*, tout dysfonctionnement ou anomalie dans le corps physique est le reflet d'un déséquilibre déjà existant dans les dimensions plus subtiles de notre être. Autrement dit, les maladies physiques ne sont que la manifestation concrète de déséquilibres présents dans la dimension astrale, laquelle est constituée de nos énergies, émotions et pensées.
+
+Il est intéressant de noter que le corps physique ne représente que 10% de notre être total, englobant les sept corps. Le yoga nous enseigne que le chemin de la guérison et de l'équilibre commence par le corps physique, mais ne s'arrête pas là ; il s'étend aux dimensions plus subtiles de notre existence. En d'autres termes, nous incarnons simultanément tous ces corps, et l'approche yogique vise à traverser chacune de ces couches pour atteindre notre essence la plus pure.
+
+Le yoga nous offre une gamme complète d'outils destinés à faciliter cette quête. Contrairement à une idée reçue, l'objectif du yoga ne se limite pas à accroître la flexibilité et la malléabilité du corps physique. Bien que ces aspects soient visibles et bénéfiques, l'impact le plus significatif du yoga s'opère dans les autres dimensions, principalement sur la dimension astrale. C'est la raison pour laquelle le processus est souvent décrit comme un « travail subtil », soulignant ainsi l'importance de s'engager dans cette pratique avec une compréhension approfondie de ses effets multidimensionnels.
+
+## Perception et Connexion des Corps avec les Chakras
+
+Après avoir exploré le *comment* et le *domaine d'action*, une question se pose : sommes-nous capables de percevoir toutes ces subtilités ?
+
+Chaque couche de notre être est en lien direct avec un centre d'énergie majeur, connu sous le nom de **chakra**, un terme sanskrit signifiant *roue*. Bien que notre structure énergétique comprenne des centaines de chakras, sept d'entre eux se démarquent particulièrement. Ils sont alignés le long de la colonne vertébrale et agissent comme des hubs énergétiques majeurs. Ces chakras majeurs sont connectés à des milliers de canaux énergétiques, appelés **nadis**, qui s'étendent à travers tout le corps. C'est à travers ces nadis que circule le **prana**, ou souffle vital, essentiel à notre bien-être et à notre vitalité.
+

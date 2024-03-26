@@ -147,7 +147,9 @@ Try changing the number of `#`s to $n$[^math] to change the **depth** of the _he
 
 
 :::{figure} https://source.unsplash.com/random/400x200?meditation
-:align: right
-
-The picture would look better if it is `:align: center`-ed!
+---
+scale: 50%
+width: 75%
+align: center
+---
 :::
