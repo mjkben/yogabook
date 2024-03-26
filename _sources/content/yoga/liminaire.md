@@ -1,12 +1,3 @@
----
-title: Yoga: La science du bien-être intérieur
-date: 2024-03-10
-authors:
-  - name: Marie-jacques BENARD
-    affiliations:
-      - University of Europe
----
-
 # Note au lecteur
 
 ## Le Yoga : Un Cadeau pour l'Humanité
