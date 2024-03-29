@@ -14,7 +14,7 @@ parts:
   - file: content/yoga/liminaire
 
 
-- caption: Mes publications de yoga
+- caption: Mon expérience du Yoga
   
   chapters:
   - file: content/yoga/intro/comprendre

@@ -11,7 +11,7 @@ author                      : Marie-jacques BENARD  # The author of the book
 email                       : mjknews@gmail.com
 baseurl                     : ""
 copyright                   : "2024"                # Copyright year to be placed in the footer
-logo                        : logo-yogabook2.png         # A path to the book logo
+logo                        : logo-yogabook.png         # A path to the book logo
 url                         : "https://samkhya.benard.cloud" # the base hostname & protocol for site
 footer_text                 : Created by Marie-jacques BENARD
 
@@ -128,7 +128,7 @@ sphinx:
   config              :       # key-value pairs to directly over-ride the Sphinx configuration
     language          : fr    # passe l'IHM en francais
 parse_with_myst: true
-# exclude_patterns    :   [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", "CONTRIBUTING.md","README.md","content.md", "markdown.md", "CONDUCT.md", "markdown-notebooks.md", "notebooks.ipynb"]
+exclude_patterns    :   [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints","CONDUCT.md", "markdown-notebooks.md", "notebooks.ipynb"]
 
 html_show_copyright: false
 myst_amsmath_enable: true
