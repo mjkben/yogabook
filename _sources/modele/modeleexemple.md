@@ -153,3 +153,7 @@ width: 75%
 align: center
 ---
 :::
+
+```{sidebar} My sidebar title
+My sidebar content
+```

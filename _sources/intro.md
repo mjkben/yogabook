@@ -1,12 +1,11 @@
 #  <p align="center">Yoga: La science du bien-être intérieur </p> 
 
-:::{figure} https://filedn.eu/lSSVtdLTd7lBAgFqzGLFDE5/pictures/yoga/cours-yoga/logo-yogabook.png
+:::{figure} https://filedn.eu/lSSVtdLTd7lBAgFqzGLFDE5/pictures/yoga/cours-yoga/couverture5..png
 ---
 width: 75%
 align: center
 ---
 :::
-
 
 
 ```{epigraph}

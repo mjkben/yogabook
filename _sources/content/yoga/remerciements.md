@@ -1,10 +1,17 @@
 Remerciements
 =============
 
-:::{figure} content/yoga/pictures/namaste4.jpg
-
+:::{figure} content/yoga/pictures/namaste2.png
+---
+width: 10%
+align: center
+---
 :::
 
+```{admonition} Gratitude
+:class: note
+*Ma gratitude et mon profond respect à mes parents et aux maîtres, qui m’ont inspiré et guidé.*
+```
 
 - Sri SWAMI Sivananda, *Bihar school of yoga, INDIA*
 - Sri SWAMI Niranianananda, *Yoga research foundation, INDIA*
@@ -13,4 +20,6 @@ Remerciements
 - Sarva Atma Mithra, *Ayurvedic Vaidya Nedungolam Kollam - Kerala, INDIA*
 
 
-> Ma gratitude et mon profond respect à mes parents et aux maîtres, qui m’ont inspiré et guidé.
+```{sidebar} My sidebar title
+My sidebar content
+```
