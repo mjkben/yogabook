@@ -1,12 +1,22 @@
 Remerciements
 =============
 
-:::{figure} content/yoga/pictures/namaste2.png
+```{figure} pictures/namaste4.png
 ---
-width: 10%
+width: 50%
+alt: Namaste
+name: Namaste
 align: center
 ---
-:::
+```
+```{figure} pictures/namaste1.png
+---
+alt: Namaste
+name: Namaste
+align: center
+---
+```
+
 
 ```{admonition} Gratitude
 :class: note
@@ -19,7 +29,3 @@ align: center
 - Master Vimal CHAND, *Children yoga school, Kerala, INDIA*
 - Sarva Atma Mithra, *Ayurvedic Vaidya Nedungolam Kollam - Kerala, INDIA*
 
-
-```{sidebar} My sidebar title
-My sidebar content
-```
