@@ -1,4 +1,4 @@
-#  <p align="center">Yoga: La science du bien-être intérieur </p> 
+#  <p align="center">Yoga: La science du bien-être</p> 
 
 :::{figure} https://filedn.eu/lSSVtdLTd7lBAgFqzGLFDE5/pictures/yoga/cours-yoga/couverture5..png
 ---
