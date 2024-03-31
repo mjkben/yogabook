@@ -23,6 +23,9 @@ parts:
   - file: content/yoga/mudras/mudras
   - file: content/yoga/bandhas/bandhas
   - file: content/yoga/shatkarmas/shatkarmas
+
+- caption: Annexes
+  chapters:
   - file: content/yoga/index-th/index-th
 
 - caption: Modele
