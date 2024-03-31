@@ -148,12 +148,29 @@ Try changing the number of `#`s to $n$[^math] to change the **depth** of the _he
 
 :::{figure} https://source.unsplash.com/random/400x200?meditation
 ---
-scale: 50%
-width: 75%
 align: center
 ---
 :::
 
 ```{sidebar} My sidebar title
 My sidebar content
+```
+
+
+```{admonition} Concerne
+:class: note
+Le durcissement des artères
+```
+
+```{seealso}
+Rhume ou toux.
+```
+
+```{admonition} Rubrique liée
+:class: seealso
+Le durcissement des artères
+```
+
+```{tip}
+The note body will be hidden!
 ```

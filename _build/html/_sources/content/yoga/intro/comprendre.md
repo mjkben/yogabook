@@ -6,7 +6,7 @@
 
 ## La terminologie du Yoga
 
-### la langue du yoga
+### La langue du yoga
 
 Le yoga est intimement lié à la langue sanskrite, le berceau de toute la littérature philosophique de l'Inde. Cette section vise à vous familiariser avec certains termes clés que vous rencontrerez tout au long de ce document et dans d'autres ressources sur le yoga. Bien que nous nous efforcions de traduire la plupart des termes au fur et à mesure, connaître ces termes vous enrichira et facilitera votre pratique et votre étude du yoga.
 
@@ -250,7 +250,6 @@ Ainsi que sur les aspects tout aussi importants du :
 Dans les pages qui suivent, nous explorerons en détail le yoga et son impact sur ces fonctions vitales, en particulier comment il influence positivement le sommeil et l'élimination, régulant ainsi nos fonctions métaboliques et organiques. L'Ayurveda, avec son approche holistique de la santé et du bien-être, sera abordé dans un document dédié.
 
 
-
 ### Les dimensions du corps
 
 Dans la perspective yogique, notre être transcende la simple dimension physique pour se révéler comme un ensemble de sept corps emboîtés, similaires à des poupées russes, chacun reflétant une facette de notre existence :
@@ -263,7 +262,10 @@ Dans la perspective yogique, notre être transcende la simple dimension physique
 - **Corps spirituel** : Où réside le détachement de l'ego, l'altruisme et les croyances.
 - **Corps divin** : Le niveau ultime, représentant la conscience pure.
 
+
+```{note}
 Cette vision holistique révèle la complexité de l'être humain au-delà de son aspect physique, offrant une compréhension profonde de notre nature multi-dimensionnelle.
+```
 
 ### Les sept niveaux de vibration
 
@@ -285,7 +287,7 @@ Pour faciliter la compréhension de ces concepts, on peut les regrouper en trois
 2. **Dimension Astrale**, qui englobe les Corps Éthérique, Émotionnel et Mental. Cette dimension, bien qu'immense et prépondérante, demeure invisible à nos yeux, tout comme la partie submergée d'un iceberg.
 3. **Dimension Causale**, qui comprend les Corps Causal, Spirituel et Divin, représentant les niveaux les plus élevés de vibration et les aspects les plus sublimes de notre être.
 
-La Dimension Physique est la plus perceptible parce qu'elle vibre à la fréquence la plus basse. En revanche, les deux autres dimensions, bien qu'immenses et substantielles, restent cachées à notre vue, à l'instar de la partie immergée d'un iceberg. Pour explorer et influencer nos corps subtils, il est conseillé de commencer par notre enveloppe physique, permettant ainsi d'accéder progressivement aux dimensions plus subtiles de notre existence.
+La Dimension physique est la plus perceptible parce qu'elle vibre à la fréquence la plus basse. En revanche, les deux autres dimensions, bien qu'immenses et substantielles, restent cachées à notre vue, à l'instar de la partie immergée d'un iceberg. Pour explorer et influencer nos corps subtils, il est conseillé de commencer par notre enveloppe physique, permettant ainsi d'accéder progressivement aux dimensions plus subtiles de notre existence.
 
 ### Une nouvelle perspective
 
@@ -295,7 +297,7 @@ Il est intéressant de noter que le corps physique ne représente que 10% de not
 
 Le yoga nous offre une gamme complète d'outils destinés à faciliter cette quête. Contrairement à une idée reçue, l'objectif du yoga ne se limite pas à accroître la flexibilité et la malléabilité du corps physique. Bien que ces aspects soient visibles et bénéfiques, l'impact le plus significatif du yoga s'opère dans les autres dimensions, principalement sur la dimension astrale. C'est la raison pour laquelle le processus est souvent décrit comme un « travail subtil », soulignant ainsi l'importance de s'engager dans cette pratique avec une compréhension approfondie de ses effets multidimensionnels.
 
-### Connexion des corps 
+### LA connexion des corps 
 ```{figure} ../pictures/00/00_04-corps-sept-canaux-energie.png
 ---
 scale: 50%
@@ -319,7 +321,7 @@ align: right
 -Les 7 chakras principaux
 ```
 
-### Le réflet des corps
+### Le reflet des corps
 
 Les chakras, souvent décrits comme des "vortex" ou des "roues d'énergie" pranique, jouent un rôle clé dans la régulation du flux énergétique, ou prana, à travers le corps. Ces centres énergétiques sont principalement au nombre de sept et s'alignent le long de la colonne vertébrale, traversant le centre de la moelle épinière.
 
@@ -338,7 +340,7 @@ Chaque chakra agit comme un interrupteur énergétique, illuminant et activant d
 Les chakras font intégralement partie de notre anatomie astrale. La prise de conscience de leurs énergies et leur gestion ne peut se faire pleinement qu'à travers la méditation, permettant un accès plus profond à notre structure énergétique interne.
 
 
-## Les Chakras et les corps
+## Les chakras et les corps
 
 Dans l'univers fascinant du yoga et de la spiritualité, les chakras jouent un rôle central en tant que centres d'énergie qui orchestrent l'harmonie entre nos corps physiques, émotionnels, mentaux et spirituels. Ces roues d'énergie, situées le long de la colonne vertébrale, de la base jusqu'au sommet de la tête, agissent comme des portails par lesquels l'énergie vitale circule, influençant notre être dans son intégralité. La connaissance et l'équilibrage de ces chakras constituent une voie vers le bien-être, l'éveil spirituel et l'harmonie intérieure.
 Examinons ces centres énergétiques en détail.
@@ -378,7 +380,7 @@ Le Mooladhara chakra, ou "chakra racine", représente le fondement de l'arbre é
 
 
 ```{note}
-mon La pratique ultime du yoga vise à réveiller l'énergie kundalini présente dans ce chakra, afin de la guider ascensionnellement à travers les chakras supérieurs, jusqu'à atteindre l'éveil spirituel complet.
+La pratique ultime du yoga vise à réveiller l'énergie kundalini présente dans ce chakra, afin de la guider ascensionnellement à travers les chakras supérieurs, jusqu'à atteindre l'éveil spirituel complet.
 ```
 
 ### Svadhisthana Chakra

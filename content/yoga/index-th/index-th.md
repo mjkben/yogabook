@@ -1,5 +1,7 @@
 # Index thérapeutique
 
+
+```{warning}
 Ce chapitre fournit un guide simple et basique pour les pratiques de
 yoga favorisant la santé générale de zones spécifiques du corps et la
 prévention de maux communs. Ces pratiques ne doivent pas être
@@ -8,19 +10,23 @@ souffrant d\'une maladie ou d\'un trouble doit chercher les conseils
 d\'un thérapeute de yoga compétent et informé ou d\'un médecin avec qui
 elle peut discuter de sa symptomatologie. Cela est particulièrement vrai
 en présence de plusieurs maladies ou de conditions graves.
+```
 
 
-
-## Abdomen : (tonification et renforcement généraux)
+## Abdomen
+```{admonition} Concerne
+:class: note
+La tonification et le renforcement général
+```
 
 **Asanas** :
 
-Général - Pawanmuktasana parties 2 et 3, supta vajrasana, shashankasana,
+_Général_ - Pawanmuktasana parties 2 et 3, supta vajrasana, shashankasana,
 ushtrasana, trikonasana, yogamudrasana, matsyasana, toute asana de
 flexion arrière ou avant, ardha matsyendrasana, halasana, druta
 halasana.
 
-Avancé - Tolangulasana, merudandasana, mayurasana, niralamba
+_Avancé_ - Tolangulasana, merudandasana, mayurasana, niralamba
 paschimottanasana, hamsasana, brahmacharyasana.
 
 **Pranayama** : Bhastrika, kapalbhati.
@@ -40,7 +46,11 @@ paschimottanasana, hamsasana, brahmacharyasana.
 **Autre** : Relaxation et développement de la tranquillité mentale à
 travers le yoga nidra et la méditation.
 
-## Adénoïdes : (augmentation)
+## Adénoïdes 
+```{admonition} Concerne
+:class: note
+augmentation
+```
 
 **Asana** : Simhasana, surya namaskara.
 
@@ -51,37 +61,24 @@ travers le yoga nidra et la méditation.
 **Régime** : Éviter les aliments non végétariens, les produits laitiers
 et les aliments acides.
 
-## Glandes surrénales : (tonification générale)
 
-**Asanas** :
+## Allaitement
 
-Général - Surya namaskara, marjari-asana, shashank bhujangasana,
-ushtrasana, trikonasana, dhanurasana, bhujangasana, shalabhasana,
-paschimottanasana, chakrasana, padahastasana, ardha matsyendrasana,
-halasana.
+**Asana** : Pawanmuktasana parties 1 et 2, asanas inversés confortables.
 
-Avancé - Poorna matsyendrasana, merudandasana, niralamba
-paschimottanasana, hamsasana, mayurasana, dwi pada sirshasana.
+**Pranayama** : Prise de conscience de la respiration pendant
+l\'allaitement, nadi shodhana, bhramari.
 
-**Pranayama** : Bhastrika.
+**Régime** : Beaucoup de liquides ; aliments riches en calcium tels que
+le sésame, le lait de vache et les produits à base de lait ; fruits
+frais et légumes de saison. Éviter les aliments épicés, l\'alcool, le
+tabac, le cannabis, les conservateurs, les grandes quantités de thé et
+de café.
 
-**Mudra** : Pashinee mudra.
+**Autre** : Yoga nidra, méditation.
 
-**Bandha** : Uddiyana bandha.
+**Précautions** : Éviter les postures dynamiques. Ne pas jeûner.
 
-**Shatkarma** : Agnisar kriya, nauli.
-
-**Autre** : Style de vie régulier sans stress.
-
-## Maladie d\'Alzheimer
-
-**Asana** : Pawanmuktasana parties 1, 2 et 3.
-
-**Pranayama** : Nadi shodhana, bhramari, ujjayi.
-
-**Shatkarma** : Neti, trataka.
-
-**Autre** : Yoga nidra, ajapa japa, antar mouna.
 
 ## Anémie
 
@@ -93,25 +90,11 @@ halasana, matsyasana, paschimottanasana.
 
 **Régime** : Riche en légumes verts à feuilles et fruits frais.
 
-## Colère
-
-**Asanas** :
-
-Général - Shashankasana, yogamudrasana, paschimottanasana.
-
-Avancé - Garbhasana, koormasana.
-
-**Pranayama** : Nadi shodhana, bhramari, sheetali, seetkari,
-kalpalbhati, ujjayi.
-
-**Mudra** : Bhoochari, akashi, yoga, prana, maha, maha bheda, yoni et
-pashinee mudras.
-
-**Bandha** : Moola et maha bandhas.
-
-**Autre** : Toutes les pratiques de méditation et de relaxation.
-
-## Angine de poitrine : (douleurs dans la poitrine)
+## Angine de poitrine 
+```{admonition} Concerne
+:class: note
+Douleurs dans la poitrine
+```
 
 **Asana** : Shavasana, pawanmuktasana partie 1 et partie 3:1,
 makarasana, akarna dhanurasana, hasta utthanasana.
@@ -124,7 +107,11 @@ makarasana, akarna dhanurasana, hasta utthanasana.
 
 **Autre** : Yoga nidra, ajapa japa, antar mouna.
 
-## Anxiété : (et tension nerveuse)
+## Anxiété 
+```{admonition} Concerne
+:class: note
+La tension nerveuse
+```
 
 **Asanas** :
 
@@ -154,18 +141,11 @@ prana et yoni mudras.
 
 **Shatkarma** : Nauli.
 
-Bras (douleurs) \-\-\--
-
-**Asanas** :
-
-Général - Pawanmuktasana partie 1:12-16 et partie 3:1 - 6, akarna
-dhanurasana, surya namaskara, dhanurakarshanasana, gomukhasana,
-mayurasana.
-
-Avancé - Lolasana, baka dhyanasana, vashishthasana, dwi hasta
-bhujangasana, santolanasana, vrischikasana.
-
-## Artériosclérose : (durcissement des artères)
+## Artériosclérose 
+```{admonition} Concerne
+:class: note
+Le durcissement des artères
+```
 
 **Asana** : Pawanmuktasana partie 1.
 
@@ -211,52 +191,59 @@ surtout en hiver.
 **Autre** : Yoga nidra, ajapa japa, antar mouna et autres techniques de
 méditation et de relaxation pour éliminer la source de nervosité.
 
-## Douleurs dorsales
+## AVC
 
-**Asanas** : Pawanmuktasana partie 2 : 2-3 et partie 3 : 3-4, supta
-vajrasana, marjari-asana, shashank bhujangasana, vyaghrasana, tadasana,
-tiryaka tadasana, kati chakrasana, makarasana, toutes les asanas de
-flexion arrière, meru wakrasana, bhu namanasana.
+**Asana** : Pawanmuktasana partie 1.
 
-**Pranayama** : Ujjayi, bhramari.
+**Pranayama** : Pranayama simple et doux en position allongée.
 
-**Régime** : Régime végétarien léger.
+**Autre** : Yoga nidra, ajapa japa.
 
-**Autre** : Ajapa japa.
+## Bégaiement
+
+**Asana** : Pawanmuktasana partie 1:17, simhasana, matsyasana, supta
+vajrasana, naukasana, tous les asanas d\'équilibre, mayurasana.
+
+**Pranayama** : Bhramari, ujjayi, sheetali, seetkari.
+
+**Shatkarma** : Neti, kunjal.
+
+**Autre** : Chant de mantras, yoga nidra, méditation.
+
+```{admonition} Rubrique liée
+:class: seealso
+Anxiété.
+```
+
+## Bras 
+```{admonition} Concerne
+:class: note
+La douleur
+```
+
+**Asanas** :
+
+_Général_ - Pawanmuktasana partie 1:12-16 et partie 3:1 - 6, akarna
+dhanurasana, surya namaskara, dhanurakarshanasana, gomukhasana,
+mayurasana.
+
+_Avancé_ - Lolasana, baka dhyanasana, vashishthasana, dwi hasta
+bhujangasana, santolanasana, vrischikasana.
+
+
+## Bronchite
+```{seealso}
+Asthme.
+```
+
+## Bursite
+
+**Asanas** : Pawanmuktasana partie 1 : 1-17.
 
 ## Calvitie
 
 **Asanas** : Shashankasana, postures inversées, en particulier
 sirshasana.
-
-## Pression artérielle (élevée)
-
-**Asanas** : Pawanmuktasana partie 1, ananda madirasana, siddhasana,
-toutes les postures de relaxation.
-
-**Pranayama** : Nadi shodhana étapes 1 et 2, sheetali, seetkari, ujjayi,
-bhramari.
-
-**Autre** : Yoga nidra, méditation.
-
-## Pression artérielle (basse)
-
-**Asanas** : Surya namaskara, asanas dynamiques.
-
-**Pranayama** : Tous les pranayamas, en particulier bhastrika,
-kapalbhati, surya bheda.
-
-**Mudra** : Vipareeta karani mudra.
-
-**Bandha** : Tous les bandhas.
-
-**Régime** : Régime végétarien équilibré.
-
-## Bronchite : Voir asthme.
-
-## Bursite
-
-**Asanas** : Pawanmuktasana partie 1 : 1-17.
 
 ## Cancer
 
@@ -283,27 +270,24 @@ d\'eau.
 
 **Autre** : Yoga nidra, antar mouna, ajapa japa.
 
-## Poitrine : (tonification et renforcement)
 
-**Asana** :
+## Colère
 
-Général - Surya namaskara, pawanmuktasana partie 1:16 et partie 3, supta
-vajrasana, ushtrasana, asanas debout, matsyasana, lolasana, asanas de
-flexion arrière notamment chakrasana et dhanurasana, asanas inversées,
-baddha padmasana, natarajasana, gomukhasana.
+**Asanas** :
 
-Avancé - Kukkutasana, baka dhyanasana, vrischikasana, astavakrasana.
+_Général_ - Shashankasana, yogamudrasana, paschimottanasana.
 
-## Rhume ou toux
+_Avancé_ - Garbhasana, koormasana.
 
-**Asana** : Surya namaskara, pratique régulière d\'asanas et de
-pranayama. Simhasana est particulièrement recommandé. Pendant un rhume,
-seules les pratiques relaxantes doivent être tentées.
+**Pranayama** : Nadi shodhana, bhramari, sheetali, seetkari,
+kalpalbhati, ujjayi.
 
-**Shatkarma** : Neti, kunjal, laghoo shankhaprakshalana.
+**Mudra** : Bhoochari, akashi, yoga, prana, maha, maha bheda, yoni et
+pashinee mudras.
 
-**Régime** : Éviter les aliments producteurs de mucus tels que le lait
-et les produits laitiers, le riz et les aliments non végétariens.
+**Bandha** : Moola et maha bandhas.
+
+**Autre** : Toutes les pratiques de méditation et de relaxation.
 
 ## Concentration
 
@@ -318,6 +302,25 @@ les postures inversées et d\'équilibre.
 
 **Autre** : Méditation, yoga nidra.
 
+## Conditions de la peau
+```{admonition} Concerne
+:class: note
+ L'eczéma, l'acné, la dermatite
+```
+
+**Asana** : Surya namaskara (autant de tours que possible sans forcer),
+sarvangasana, halasana, mayurasana.
+
+**Pranayama** : Tous les pranayamas.
+
+**Mudra** : Vipareeta karani mudra.
+
+**Shatkarma** : Laghoo shankhaprakshalana.
+
+**Régime** : Éviter le café, le thé, les aliments épicés, non
+végétariens, les sucreries, les aliments frits ou gras.
+
+
 ## Constipation
 
 **Asana** : Tadasana, tiryaka tadasana, kati chakrasana, surya
@@ -326,9 +329,10 @@ shashankasana, ushtrasana, trikonasana, yogamudrasana, matsyasana,
 toutes les asanas de flexion avant et arrière, toutes les asanas de
 torsion de la colonne vertébrale, halasana, druta halasana.
 
-Boire 2 à 3 verres d\'eau tiède avant la pratique matinale.
-
-S\'asseoir en vajrasana pendant au moins 10 minutes après chaque repas.
+```{note}
+* Boire 2 à 3 verres d\'eau tiède avant la pratique matinale.
+* S\'asseoir en vajrasana pendant au moins 10 minutes après chaque repas.
+```
 
 **Pranayama** : Nadi shodhana.
 
@@ -342,16 +346,21 @@ S\'asseoir en vajrasana pendant au moins 10 minutes après chaque repas.
 
 **Autre** : Yoga nidra.
 
-Thrombose coronaire : Voir angine de poitrine, pression artérielle,
-artériosclérose. \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+## Cou 
+```{admonition} Concerne
+:class: note
+La tonification générale, les faiblesses, les douleurs, la stimulation nerveuse
+```
 
-## Surdité : (pas pendant les conditions inflammatoires et de décharge)
+**Asana** : Pawanmuktasana partie 1:16-17, advasana, jyestikasana,
+makarasana, bhujangasana, gomukhasana, supta vajrasana matsyasana,
+grivasana, kandharasana, toutes les asanas de torsion de la colonne
+vertébrale.
 
-**Asana** : Simhasana, toutes les asanas inversées.
+**Pranayama** : Ujjayi.
 
-**Pranayama** : Bhramari.
-
-**Shatkarma** : Neti.
+**Autre** : Ajapa japa. Réduire le travail de bureau, éviter les
+oreillers épais.
 
 ## Dépression
 
@@ -367,15 +376,23 @@ flexion arrière, debout et de torsion.
 **Précautions** : Éviter le yoga nidra, la méditation et le pranayama
 bhramari, car ils peuvent causer une introversion supplémentaire.
 
+## Diarrhée
+
+**Asana** : Pawanmuktasana partie 2, série vajrasana, surya namaskara.
+
+**Pranayama** : Nadi shodhana, bhramari, sheetali, seetkari.
+
+**Régime** : Dal de moong, khichari, yaourt, lait battu.
+
 ## Diabète
 
 **Asana** :
 
-Général - Surya namaskara, tadasana, yogamudrasana, shashankasana, supta
+_Général_ - Surya namaskara, tadasana, yogamudrasana, shashankasana, supta
 vajrasana, paschimottanasana, bhujangasana, ardha matsyendrasana,
 halasana, sarvangasana, matsyasana, gomukhasana, shavasana.
 
-Avancé - Dwi hasta bhujangasana, vatayanasana.
+_Avancé_ - Dwi hasta bhujangasana, vatayanasana.
 
 **Pranayama** : Nadi shodhana, bhramari, bhastrika, ujjayi.
 
@@ -385,13 +402,19 @@ Avancé - Dwi hasta bhujangasana, vatayanasana.
 
 **Autre** : Ajapa japa, yoga nidra.
 
-## Diarrhée
 
-**Asana** : Pawanmuktasana partie 2, série vajrasana, surya namaskara.
+## Douleurs dorsales
 
-**Pranayama** : Nadi shodhana, bhramari, sheetali, seetkari.
+**Asanas** : Pawanmuktasana partie 2 : 2-3 et partie 3 : 3-4, supta
+vajrasana, marjari-asana, shashank bhujangasana, vyaghrasana, tadasana,
+tiryaka tadasana, kati chakrasana, makarasana, toutes les asanas de
+flexion arrière, meru wakrasana, bhu namanasana.
 
-**Régime** : Dal de moong, khichari, yaourt, lait battu.
+**Pranayama** : Ujjayi, bhramari.
+
+**Régime** : Régime végétarien léger.
+
+**Autre** : Ajapa japa.
 
 ## Dysenterie
 
@@ -400,9 +423,27 @@ Avancé - Dwi hasta bhujangasana, vatayanasana.
 **Précautions** : Éviter les asanas dynamiques, les asanas inversées et
 nauli.
 
-Dyspepsie : (indigestion chronique) Voir abdomen, anxiété, acidité.
+## Dyspepsie (indigestion chronique)
+```{seealso}
+abdomen, anxiété, acidité.
+```
 
-Eczéma : Voir conditions de la peau.
+
+## Dystrophie musculaire
+
+**Asana** : Pawanmuktasana partie 1.
+
+**Pranayama** : Nadi shodhana, bhramari.
+
+**Autre** : Yoga nidra, ajapa japa, amaroli.
+
+
+## Eczéma
+```{seealso}
+Conditions de la peau.
+```
+
+
 
 ## Épilepsie
 
@@ -413,60 +454,33 @@ toutes les asanas de relaxation.
 
 **Autre** : Yoga nidra, ajapa japa, antar
 
-## Reins : (tonification et élimination des maladies)
 
-**Asana** :
 
-Général - Surya namaskara, supta vajrasana, shashankasana,
-marjari-asana, shashank bhujangasana, vyaghrasana, trikonasana,
-matsyasana, toutes les asanas de flexion arrière, paschimottanasana,
-ardha matsyendrasana, halasana, gomukhasana, ushtrasana.
+## Fausses couches
+```{admonition} Concerne
+:class: note
+La récupération
+```
 
-Avancé - Merudandasana, hamsasana, mayurasana, koormasana, dwi pada
-sirasana.
+**Asana** : Pawanmuktasana parties 2 et 3, surya namaskara.
 
 **Pranayama** : Bhastrika.
 
-**Bandha** : Uddiyana bandha.
+**Bandha** : Moola, uddiyana et maha bandhas.
 
-**Shatkarma** : Laghoo shankhaprakshalana, agnisar kriya, nauli.
+**Mudra** : Vajroli, ashwini et vipareeta karani mudras.
 
-**Régime** : Réduire l\'apport en sel et boire plus d\'eau.
+**Shatkarma** : Nauli.
 
-**Précautions** : Ne pas tenter d\'asanas ou de shatkarmas trop
-exigeants.
+**Précautions** : Toute posture d\'accroupissement ou pratiques
+exigeantes doivent être évitées pendant la grossesse.
 
-## Allaitement
 
-**Asana** : Pawanmuktasana parties 1 et 2, asanas inversés confortables.
-
-**Pranayama** : Prise de conscience de la respiration pendant
-l\'allaitement, nadi shodhana, bhramari.
-
-**Régime** : Beaucoup de liquides ; aliments riches en calcium tels que
-le sésame, le lait de vache et les produits à base de lait ; fruits
-frais et légumes de saison. Éviter les aliments épicés, l\'alcool, le
-tabac, le cannabis, les conservateurs, les grandes quantités de thé et
-de café.
-
-**Autre** : Yoga nidra, méditation.
-
-**Précautions** : Éviter les postures dynamiques. Ne pas jeûner.
-
-## Jambes : (tonification et renforcement)
-
-**Asana** :
-
-Général - Surya namaskara, pawanmuktasana partie 1:1-11 et partie 2:1-3,
-udarakarshanasana, utthanasana, shalabhasana, dhanurasana, setuasana,
-ardha chandrasana, toutes les asanas de flexion avant, eka pada
-pranamasana, garudasana, nataraja asana, sirsha padasana, bakasana,
-vashishthasana, utthita hasta padangushthasana, vatayanasana.
-
-Avancé - Eka pada sirasana, koormasana, mayurasana, hanumanasana, dwi
-pada sirasana et dwi pada kandharasana.
-
-## Foie : (tonification générale et élimination de certains troubles associés, par ex. foie paresseux)
+## Foie
+```{admonition} Concerne
+:class: note
+La tonification générale et l'élimination de certains troubles associés, par ex. foie paresseux.
+```
 
 **Asana** : Paschimottanasana, meru wakrasana, bhu namanasana, ardha
 matsyendrasana, merudandasana, utthita hasta merudandasana et ardha
@@ -477,15 +491,216 @@ padma padmottanasana.
 **Régime** : Éviter les aliments gras, frits, l\'alcool, le tabac et le
 cannabis.
 
-Lombalgie : Voir douleurs dorsales.
 
-## Poumons : (amélioration générale)
+## Gaz intestinaux
+```{admonition} Concerne
+:class: note
+L'élimination
+```
 
-**Asana** : Surya namaskara, supta vajrasana, akarna dhanurasana,
-ushtrasana, hasta uttanasana, utthita lolasana, matsyasana, baddha
-padmasana, toutes les asanas de flexion arrière, sarvangasana.
+**Asana** : Pawanmuktasana partie 2, shashankasana, supta vajrasana,
+shashank bhujangasana, kati chakrasana, yogamudrasana, matsyasana, tous
+les asanas de flexion avant, halasana, druta halasana, hamsasana,
+mayurasana, utthan prishthasana. 
 
-**Pranayama** : Tous les pranayamas, respiration yogique profonde.
+```{hint}
+S\'asseoir en vajrasana pendant au moins 10 minutes après les repas.
+```
+
+**Pranayama** : Bhastrika, kapalbhati.
+
+**Mudra** : Tadagi mudra.
+
+**Bandha** : Uddiyana bandha.
+
+**Shatkarma** : Agnisar kriya, nauli, laghoo shankhaprakshalana, kunjal.
+
+**Régime** : Bien mâcher la nourriture et manger lentement. Ne pas boire
+d\'eau au moins une heure avant et après les repas. Éviter les haricots
+et les légumineuses.
+
+## Gorge
+```{admonition} Concerne
+:class: note
+L'élimination des maux et irritations
+```
+
+**Asana** : Pawanmuktasana partie 1:17, simhagarjanasana, postures
+inversées, supta vajrasana, matsyasana.
+
+**Pranayama** : Ujjayi, sheetali, seetkari, bhramari.
+
+**Shatkarma** : Neti, kunjal.
+
+## Glande de la prostate
+
+**Asana** : Pawanmuktasana partie 3, vajrasana, siddhasana.
+
+**Mudra** : Vajroli mudra.
+
+**Bandha** : Moola et maha bandhas.
+
+## Glandes pituitaire et pinéale
+```{admonition} Concerne
+:class: note
+La santé générale
+```
+
+**Asana** : Surya namaskara, tous les asanas inversés en particulier
+sirshasana, yogamudrasana, matsyasana, sumeru asana, pranamasana, pada
+hastasana.
+
+**Pranayama** : Tous les pranayamas, en particulier bhramari,
+kapalbhati.
+
+**Mudra** : Shambhavi, maha et prana mudras.
+
+**Shatkarma** : Trataka, neti.
+
+
+## Glandes surrénales 
+```{admonition} Concerne
+:class: note
+La tonification générale
+```
+
+**Asanas** :
+
+_Général_ - Surya namaskara, marjari-asana, shashank bhujangasana,
+ushtrasana, trikonasana, dhanurasana, bhujangasana, shalabhasana,
+paschimottanasana, chakrasana, padahastasana, ardha matsyendrasana,
+halasana.
+
+_Avancé_ - Poorna matsyendrasana, merudandasana, niralamba
+paschimottanasana, hamsasana, mayurasana, dwi pada sirshasana.
+
+**Pranayama** : Bhastrika.
+
+**Mudra** : Pashinee mudra.
+
+**Bandha** : Uddiyana bandha.
+
+**Shatkarma** : Agnisar kriya, nauli.
+
+**Autre** : Style de vie régulier sans stress.
+
+
+## Grossesse prénatal
+
+
+**Asana** : 
+
+* *Mois 1 à 3 - Voir organes reproducteurs.*
+
+* *Mois 4 à 6 - Pawanmuktasana partie 1, matsya kridasana, asanas de*
+méditation, vajrasana, bhadrasana, majari-asana, hasta utthanasana,
+tadasana, tiryaka tadasana, kati chakrasana, utthanasana étapes 1-3,
+meru wakrasana.
+
+* *Mois 7 à 9 - Seulement pawanmuktasana partie 1.*
+
+**Pranayama** : Nadi shodhana, bhramari, ujjayi, bhastrika léger. Après
+3 mois, arrêter bhastrika.
+
+**Mudra** : Ashwini et vajroli mudras.
+
+**Bandha** : Moola bandha.
+
+**Régime** : Alimentation végétarienne nutritive.
+
+**Shatkarma** : Kunjal pour soulager les nausées matinales, laghoo pour
+éviter la constipation. Après 3 mois, seulement faire neti.
+
+**Autre** : Yoga nidra, ajapa japa et méditation.
+
+**Précautions** : Éviter uddiyana bandha, agnisar kriya et nauli.
+Prendre un soin particulier à ne pas se surmener.
+
+## Grossesse postnatal
+
+**Asana** : 
+
+* *Semaine 1 - Asanas de relaxation.*
+
+* *Semaine 2 - Ajouter pawanmuktasana partie 1 et partie 3 : 2-7.*
+
+* *Semaine 3 - Ajouter pawanmuktasana partie 2 : 1-4, asana debout, flexions arrière, torsions de la colonne vertébrale.*
+
+* *Semaine 4 - Mettre l\'accent sur pawanmuktasana parties 2 et 3, ajouter utthanasana et surya namaskara lent.*
+
+**Pranayama** : À partir de la semaine 2 - Nadi shodhana, bhramari,
+ujjayi, bhastrika doux.
+
+**Mudra** : À partir de la semaine 3 - Ashwini et vajroli mudras.
+
+**Bandha** : À partir de la semaine 3 - Moola bandha.
+
+**Autre** : À partir de la semaine 1 - Yoga nidra, ajapa japa,
+méditation.
+
+
+## Hémorroïdes
+
+**Asana** : Sarvangasana ou vipareeta karani asana pour de longues
+périodes, ashwini mudra ou moola bandha en position inversée,
+pawanmuktasana partie 2 et partie 3:8, tadasana, tiryaka tadasana, kati
+chakrasana, shashankasana, shashank bhujangasana, supta vajrasana,
+ushtrasana, matsyasana, paschimottanasana.
+
+**Mudra** : Ashwini mudra pour de longues périodes.
+
+**Shatkarma** : Laghoo shankhaprakshalana, moola shodhanam.
+
+**Régime** : Alimentation légère et facilement digestible telle que des
+fruits frais et des légumes. Boire beaucoup d\'eau, de jus de fruits et
+de légumes, de tisanes. Éviter les aliments lourds comme la viande, le
+fromage, les aliments frits ou gras, les sauces riches, les desserts.
+
+## Hernie discale
+
+**Asana** : Advasana, jyestikasana, makarasana ou matsyakridasana pour
+de longues périodes, sphinx, tadasana, vajrasana. Prendre
+progressivement les asanas mentionnés dans la section des douleurs
+dorsales.
+
+**Pranayama** : Ujjayi.
+
+**Autre** : Yoga nidra, ajapa japa en makarasana, fomentations chaudes.
+Repos en position ventrale sur un lit dur est très important.
+
+**Précautions** : Pas d\'asanas de flexion vers l\'avant.
+
+## Jambes
+```{admonition} Concerne
+:class: note
+La tonification et le renforcement
+```
+
+**Asana** :
+
+_Général_ - Surya namaskara, pawanmuktasana partie 1:1-11 et partie 2:1-3,
+udarakarshanasana, utthanasana, shalabhasana, dhanurasana, setuasana,
+ardha chandrasana, toutes les asanas de flexion avant, eka pada
+pranamasana, garudasana, nataraja asana, sirsha padasana, bakasana,
+vashishthasana, utthita hasta padangushthasana, vatayanasana.
+
+_Avancé_ - Eka pada sirasana, koormasana, mayurasana, hanumanasana, dwi
+pada sirasana et dwi pada kandharasana.
+
+## Lombalgie
+```{seealso}
+Les douleurs dorsales.
+```
+
+## Maladie d\'Alzheimer
+
+**Asana** : Pawanmuktasana parties 1, 2 et 3.
+
+**Pranayama** : Nadi shodhana, bhramari, ujjayi.
+
+**Shatkarma** : Neti, trataka.
+
+**Autre** : Yoga nidra, ajapa japa, antar mouna.
 
 ## Ménopause
 
@@ -519,48 +734,17 @@ sirshasana, sarvangasana, halasana, hanumanasana.
 **Précautions** : Éviter les postures exigeantes et inversées, uddiyana
 bandha et nauli pendant les menstruations.
 
-## Menstruations : (crampes)
+## Menstruations crampes
 
 **Asana** : Vajrasana, shashankasana, marjari-asana, shavasana.
 
 **Pranayama** : Respiration abdominale en shavasana, ujjayi.
 
-## Fausses couches : (récupération)
-
-**Asana** : Pawanmuktasana parties 2 et 3, surya namaskara.
-
-**Pranayama** : Bhastrika.
-
-**Bandha** : Moola, uddiyana et maha bandhas.
-
-**Mudra** : Vajroli, ashwini et vipareeta karani mudras.
-
-**Shatkarma** : Nauli.
-
-**Précautions** : Toute posture d\'accroupissement ou pratiques
-exigeantes doivent être évitées pendant la grossesse.
-
-## Dystrophie musculaire
-
-**Asana** : Pawanmuktasana partie 1.
-
-**Pranayama** : Nadi shodhana, bhramari.
-
-**Autre** : Yoga nidra, ajapa japa, amaroli.
-
-## Cou : (tonification générale, faiblesses, douleurs, stimulation nerveuse)
-
-**Asana** : Pawanmuktasana partie 1:16-17, advasana, jyestikasana,
-makarasana, bhujangasana, gomukhasana, supta vajrasana matsyasana,
-grivasana, kandharasana, toutes les asanas de torsion de la colonne
-vertébrale.
-
-**Pranayama** : Ujjayi.
-
-**Autre** : Ajapa japa. Réduire le travail de bureau, éviter les
-oreillers épais.
-
-## Nerfs : (tonification générale)
+## Nerfs
+```{admonition} Concerne
+:class: note
+La tonification générale
+```
 
 **Asana** : Tous les asanas, en particulier surya namaskara.
 
@@ -583,37 +767,50 @@ ou seetkari.
 **Régime** : Éviter les aliments gras, frits ou riches en amidon,
 osciller entre le jeûne et la suralimentation, manger entre les repas.
 
-Rubrique liée : Thyroïde et parathyroïde.
+```{seealso}
+Thyroïde et parathyroïde.
+```
 
-## Hémorroïdes
 
-**Asana** : Sarvangasana ou vipareeta karani asana pour de longues
-périodes, ashwini mudra ou moola bandha en position inversée,
-pawanmuktasana partie 2 et partie 3:8, tadasana, tiryaka tadasana, kati
-chakrasana, shashankasana, shashank bhujangasana, supta vajrasana,
-ushtrasana, matsyasana, paschimottanasana.
 
-**Mudra** : Ashwini mudra pour de longues périodes.
+## Organes reproducteurs
+```{admonition} Concerne
+:class: note
+Tonification générale - homme et femme
+```
+**Asana** :
 
-**Shatkarma** : Laghoo shankhaprakshalana, moola shodhanam.
+_Général_ - Pawanmuktasana partie 1:9-11 et parties 2 et 3, surya namaskara, shashankasana, marjari-asana, shashank bhujangasana, ushtrasana, vyaghrasana, kati chakrasana, tadasana, meru prishthasana, utthanasana, trikonasana, yogamudrasana, matsyasana, tolangulasana, toutes les asanas de flexion arrière, ardha matsyendrasana, asanas inversés, kandharasana, garudasana, vashishthasana, pada angushthasana.
 
-**Régime** : Alimentation légère et facilement digestible telle que des
-fruits frais et des légumes. Boire beaucoup d\'eau, de jus de fruits et
-de légumes, de tisanes. Éviter les aliments lourds comme la viande, le
-fromage, les aliments frits ou gras, les sauces riches, les desserts.
+_Avancé_ - Moolabandhasana, dhanurakarshan asana, hanumanasana.
 
-## Glandes pituitaire et pinéale : (santé générale)
+Hommes - Mayurasana, brahmacharyasana.
 
-**Asana** : Surya namaskara, tous les asanas inversés en particulier
-sirshasana, yogamudrasana, matsyasana, sumeru asana, pranamasana, pada
-hastasana.
+**Pranayama** : Tous les pranayamas.
 
-**Pranayama** : Tous les pranayamas, en particulier bhramari,
-kapalbhati.
+**Mudra** : Ashwini, vajroli, vipareeta karani, maha et maha bheda mudras.
 
-**Mudra** : Shambhavi, maha et prana mudras.
+**Bandha** : Moola et maha bandhas.
 
-**Shatkarma** : Trataka, neti.
+**Shatkarma** : Agnisar kriya, nauli.
+
+**Autre** : Yoga nidra, méditation.
+
+## Poitrine
+```{admonition} Concerne
+:class: note
+La tonification et le renforcement
+```
+
+**Asana** :
+
+_Général_ - Surya namaskara, pawanmuktasana partie 1:16 et partie 3, supta
+vajrasana, ushtrasana, asanas debout, matsyasana, lolasana, asanas de
+flexion arrière notamment chakrasana et dhanurasana, asanas inversées,
+baddha padmasana, natarajasana, gomukhasana.
+
+_Avancé_ - Kukkutasana, baka dhyanasana, vrischikasana, astavakrasana.
+
 
 ## Polio
 
@@ -629,63 +826,41 @@ vajrasana, khandharasana, trikonasana, ashwa sanchalanasana.
 **Autre** : Prana vidya, amaroli, encouragement à maintenir la mobilité
 et la confiance en soi.
 
-## Grossesse : (prénatal)
+## Poumons
+```{admonition} Concerne
+:class: note
+L'amélioration générale
+```
 
-**Asana** : Mois 1 à 3 - Voir organes reproducteurs.
+**Asana** : Surya namaskara, supta vajrasana, akarna dhanurasana,
+ushtrasana, hasta uttanasana, utthita lolasana, matsyasana, baddha
+padmasana, toutes les asanas de flexion arrière, sarvangasana.
 
-Mois 4 à 6 - Pawanmuktasana partie 1, matsya kridasana, asanas de
-méditation, vajrasana, bhadrasana, majari-asana, hasta utthanasana,
-tadasana, tiryaka tadasana, kati chakrasana, utthanasana étapes 1-3,
-meru wakrasana.
+**Pranayama** : Tous les pranayamas, respiration yogique profonde.
 
-Mois 7 à 9 - Seulement pawanmuktasana partie 1.
 
-**Pranayama** : Nadi shodhana, bhramari, ujjayi, bhastrika léger. Après
-3 mois, arrêter bhastrika.
+## Pression artérielle elevée
 
-**Mudra** : Ashwini et vajroli mudras.
+**Asanas** : Pawanmuktasana partie 1, ananda madirasana, siddhasana,
+toutes les postures de relaxation.
 
-**Bandha** : Moola bandha.
+**Pranayama** : Nadi shodhana étapes 1 et 2, sheetali, seetkari, ujjayi,
+bhramari.
 
-**Régime** : Alimentation végétarienne nutritive.
+**Autre** : Yoga nidra, méditation.
 
-**Shatkarma** : Kunjal pour soulager les nausées matinales, laghoo pour
-éviter la constipation. Après 3 mois, seulement faire neti.
+## Pression artérielle basse
 
-**Autre** : Yoga nidra, ajapa japa et méditation.
+**Asanas** : Surya namaskara, asanas dynamiques.
 
-**Précautions** : Éviter uddiyana bandha, agnisar kriya et nauli.
-Prendre un soin particulier à ne pas se surmener.
+**Pranayama** : Tous les pranayamas, en particulier bhastrika,
+kapalbhati, surya bheda.
 
-## Grossesse : (postnatal)
+**Mudra** : Vipareeta karani mudra.
 
-**Asana** : Semaine 1 - Asanas de relaxation.
+**Bandha** : Tous les bandhas.
 
-Semaine 2 - Ajouter pawanmuktasana partie 1 et partie 3 : 2-7.
-
-Semaine 3 - Ajouter pawanmuktasana partie 2 : 1-4, asana debout,
-flexions arrière, torsions de la colonne vertébrale.
-
-Semaine 4 - Mettre l\'accent sur pawanmuktasana parties 2 et 3, ajouter
-utthanasana et surya namaskara lent.
-
-**Pranayama** : À partir de la semaine 2 - Nadi shodhana, bhramari,
-ujjayi, bhastrika doux.
-
-**Mudra** : À partir de la semaine 3 - Ashwini et vajroli mudras.
-
-**Bandha** : À partir de la semaine 3 - Moola bandha.
-
-**Autre** : À partir de la semaine 1 - Yoga nidra, ajapa japa,
-méditation.
-
-## Glande de la prostate
-
-**Asana** : Pawanmuktasana partie 3, vajrasana, siddhasana.
-
-**Mudra** : Vajroli mudra.
-
-**Bandha** : Moola et maha bandhas.
+**Régime** : Régime végétarien équilibré.
 
 ## Pyorrhée
 
@@ -693,102 +868,90 @@ méditation.
 
 **Pranayama** : Sheetali, seetkari.
 
-## Organes reproducteurs : (tonification générale - homme et femme)
+## Reins
+```{admonition} Concerne
+:class: note
+La tonification et l'élimination des maladies
+```
 
 **Asana** :
 
-Général - Pawanmuktasana partie 1:9-11 et parties 2 et 3, surya
-namaskara, shashankasana, marjari-asana, shashank bhujangasana,
-ushtrasana, vyaghrasana, kati chakrasana, tadasana, meru prishthasana,
-utthanasana, trikonasana, yogamudrasana, matsyasana, tolangulasana,
-toutes les asanas de flexion arrière, ardha matsyendrasana, asanas
-inversés, kandharasana, garudasana, vashishthasana, pada angushthasana.
+_Général_ - Surya namaskara, supta vajrasana, shashankasana,
+marjari-asana, shashank bhujangasana, vyaghrasana, trikonasana,
+matsyasana, toutes les asanas de flexion arrière, paschimottanasana,
+ardha matsyendrasana, halasana, gomukhasana, ushtrasana.
 
-Avancé - Moolabandhasana, dhanurakarshan asana, hanumanasana.
+_Avancé_ - Merudandasana, hamsasana, mayurasana, koormasana, dwi pada
+sirasana.
 
-Hommes - Mayurasana, brahmacharyasana.
+**Pranayama** : Bhastrika.
 
-**Pranayama** : Tous les pranayamas.
+**Bandha** : Uddiyana bandha.
 
-**Mudra** : Ashwini, vajroli, vipareeta karani, maha et maha bheda
-mudras.
+**Shatkarma** : Laghoo shankhaprakshalana, agnisar kriya, nauli.
 
-**Bandha** : Moola et maha bandhas.
+**Régime** : Réduire l\'apport en sel et boire plus d\'eau.
 
-**Shatkarma** : Agnisar kriya, nauli.
+**Précautions** : Ne pas tenter d\'asanas ou de shatkarmas trop
+exigeants.
 
-**Autre** : Yoga nidra, méditation.
 
-Rhumatisme : Voir arthrite.
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+## Rhumatisme
+```{seealso}
+Arthrite.
+```
 
-Sciatique : Voir hernie discale, douleurs dorsales.
-\-\-\-\-\-\-\-\-\-\--
+## Rhume ou toux
 
-Sinusite et problèmes de sinus : Voir rhume ou toux.
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+**Asana** : Surya namaskara, pratique régulière d\'asanas et de
+pranayama. Simhasana est particulièrement recommandé. Pendant un rhume,
+seules les pratiques relaxantes doivent être tentées.
 
-## Conditions de la peau : (eczéma, acné, dermatite)
+**Shatkarma** : Neti, kunjal, laghoo shankhaprakshalana.
 
-**Asana** : Surya namaskara (autant de tours que possible sans forcer),
-sarvangasana, halasana, mayurasana.
+**Régime** : Éviter les aliments producteurs de mucus tels que le lait
+et les produits laitiers, le riz et les aliments non végétariens.
 
-**Pranayama** : Tous les pranayamas.
 
-**Mudra** : Vipareeta karani mudra.
 
-**Shatkarma** : Laghoo shankhaprakshalana.
+## Sciatique
+```{seealso}
+Hernie discale, Douleurs dorsales.
+```
 
-**Régime** : Éviter le café, le thé, les aliments épicés, non
-végétariens, les sucreries, les aliments frits ou gras.
+## Sinusite et problèmes de sinus 
+```{seealso}
+Rhume ou toux.
+```
 
-## Hernie discale
+## Stress et tension
+```{seealso}
+Anxiété.
+```
 
-**Asana** : Advasana, jyestikasana, makarasana ou matsyakridasana pour
-de longues périodes, sphinx, tadasana, vajrasana. Prendre
-progressivement les asanas mentionnés dans la section des douleurs
-dorsales.
+## Surdité
+```{warning}
+:class: warning
+pas pendant les conditions inflammatoires et de décharge
+```
 
-**Pranayama** : Ujjayi.
+**Asana** : Simhasana, toutes les asanas inversées.
 
-**Autre** : Yoga nidra, ajapa japa en makarasana, fomentations chaudes.
-Repos en position ventrale sur un lit dur est très important.
+**Pranayama** : Bhramari.
 
-**Précautions** : Pas d\'asanas de flexion vers l\'avant.
+**Shatkarma** : Neti.
 
-## Bégaiement
 
-**Asana** : Pawanmuktasana partie 1:17, simhasana, matsyasana, supta
-vajrasana, naukasana, tous les asanas d\'équilibre, mayurasana.
+## Thrombose coronaire
+```{seealso}
+Angine de poitrine, pression artérielle, artériosclérose.
+```
 
-**Pranayama** : Bhramari, ujjayi, sheetali, seetkari.
-
-**Shatkarma** : Neti, kunjal.
-
-**Autre** : Chant de mantras, yoga nidra, méditation.
-
-Rubrique liée : Anxiété.
-
-Stress et tension : Voir anxiété. \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
-
-## AVC
-
-**Asana** : Pawanmuktasana partie 1.
-
-**Pranayama** : Pranayama simple et doux en position allongée.
-
-**Autre** : Yoga nidra, ajapa japa.
-
-## Gorge : (élimination des maux et irritations)
-
-**Asana** : Pawanmuktasana partie 1:17, simhagarjanasana, postures
-inversées, supta vajrasana, matsyasana.
-
-**Pranayama** : Ujjayi, sheetali, seetkari, bhramari.
-
-**Shatkarma** : Neti, kunjal.
-
-## Thyroïde et parathyroïde : (tonification générale)
+## Thyroïde et parathyroïde
+```{admonition} Concerne
+:class: note
+La tonification générale
+```
 
 **Asana** : Surya namaskara, pawanmuktasana partie 1:17, asanas inversés
 surtout sarvangasana, halasana, matsyasana, supta vajrasana,
@@ -805,7 +968,11 @@ avec bandhas, moorchha pranayama.
 
 **Autre** : Yoga nidra, ajapa japa.
 
-## Ulcères : (peptiques et duodénaux)
+## Ulcères
+```{admonition} Concerne
+:class: note
+La peptiques et les duodénaux
+```
 
 **Asana** : Postures de relaxation, pawanmuktasana partie 1 et série
 vajrasana.
@@ -828,6 +995,13 @@ graisses et les aliments lourds en général.
 **Asana** : Tous les asanas inversés, pawanmuktasana partie 1:1-11 et
 partie 2:1-3.
 
+
+## Vers
+
+**Asana** : Naukasana.
+
+**Shatkarma** : Laghoo shankhaprakshalana.
+
 ## Vertige
 
 **Asana** : Asanas d\'équilibre.
@@ -835,29 +1009,3 @@ partie 2:1-3.
 **Pranayama** : Bhramari.
 
 **Shatkarma** : Trataka, jala neti.
-
-## Gaz intestinaux : (élimination)
-
-**Asana** : Pawanmuktasana partie 2, shashankasana, supta vajrasana,
-shashank bhujangasana, kati chakrasana, yogamudrasana, matsyasana, tous
-les asanas de flexion avant, halasana, druta halasana, hamsasana,
-mayurasana, utthan prishthasana. S\'asseoir en vajrasana pendant au
-moins 10 minutes après les repas.
-
-**Pranayama** : Bhastrika, kapalbhati.
-
-**Mudra** : Tadagi mudra.
-
-**Bandha** : Uddiyana bandha.
-
-**Shatkarma** : Agnisar kriya, nauli, laghoo shankhaprakshalana, kunjal.
-
-**Régime** : Bien mâcher la nourriture et manger lentement. Ne pas boire
-d\'eau au moins une heure avant et après les repas. Éviter les haricots
-et les légumineuses.
-
-## Vers
-
-**Asana** : Naukasana.
-
-**Shatkarma** : Laghoo shankhaprakshalana.

@@ -11,7 +11,7 @@ author                      : Marie-jacques BENARD  # The author of the book
 email                       : mjknews@gmail.com
 baseurl                     : ""
 copyright                   : "2024"                # Copyright year to be placed in the footer
-logo                        : logo-yogabook.png         # A path to the book logo
+logo                        : assets/images/logo-yogabook.png         # A path to the book logo
 url                         : "https://samkhya.benard.cloud" # the base hostname & protocol for site
 footer_text                 : Created by Marie-jacques BENARD
 
