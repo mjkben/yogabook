@@ -1,6 +1,7 @@
 #!/bin/bash
 
 cd ~/Documents/MES-COURS/JUPYTER/book/
+jupyter-book clean .
 jupyter-book build .
 cp -r ~/Documents/MES-COURS/JUPYTER/book/* ~/Git-Local_Repo/github/yogabook
 
