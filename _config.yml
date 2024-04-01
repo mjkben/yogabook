@@ -29,6 +29,7 @@ execute:
   execute_notebooks: force
 
 
+
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:
   - bibliography/references.bib
@@ -38,6 +39,8 @@ bibtex_bibfiles:
 launch_buttons:
   notebook_interface        : classic # The interface interactive links will activate ["classic", "jupyterlab"]
   binderhub_url             : "https://mybinder.org/v2/gh/mjkben/yogabook/HEAD"      # The URL of the BinderHub (e.g., https://mybinder.org)
+  jupyterhub_url            : ""
+  deepnote_url              : "https://deepnote.com"
   thebe                     : false   # Add a thebe button to pages (requires the repository to run on Binder)
   colab_url                 : ""      # The URL of Google Colab (https://colab.research.google.com)
 
@@ -53,7 +56,6 @@ use_show_widgets_button          : true  # If 'true', display a button to allow 
 use_download_button              : true  # If 'true', display a button to download a zip file for the notebook
 download_button_text             : "Download" # The text that download buttons will contain
 download_page_header             : "Made with Jupyter Book" # A header that will be displayed at the top of and PDF-printed page
-
 
 
 #######################################################################################
@@ -85,6 +87,8 @@ repository:
 html:
   favicon                   : ""    # A path to a favicon image
   use_edit_page_button      : false # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
+
+
 
 # Add GitHub buttons to your book
   use_repository_button     : true  # Whether to add a link to your repository button
@@ -201,5 +205,4 @@ images_url                : "/assets/images" # Path to static image files
 css_url                   : "/assets/css" # Path to static CSS files
 js_url                    : "/assets/js" # Path to JS files
 custom_static_url         : "/assets/custom" # Path to user's custom CSS/JS files
-
 

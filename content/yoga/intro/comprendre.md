@@ -69,11 +69,12 @@ En abordant ces idées reçues, j'espére éclaircir certaines confusions et enc
 
 ```{figure} ../pictures/00/00_01-mohenjo-daro.png
 ---
+figclass: margin
 alt: mohenjodaro
 name: mohenjodaro
 align: right
 ---
-Mohenjo Daro (vallée de l’Indus)
+Mohenjo Daro
 ```
 
 :::{admonition} Civilisation tantrique
@@ -241,12 +242,12 @@ Après une séance, si vous ne vous sentez pas apaisé, heureux, calme, et en ac
 
 ```{figure} ../pictures/00/00_03-fonction-corps-physique.png
 ---
-scale: 50%
+figclass: margin
 alt: fct-corps-physique
 name: fct-corps-physique
 align: right
 ---
-Les quatre fonctions du corps physique
+Les 4 fonctions du corps physique
 ```
 
 Notre corps est une merveille de la nature, orchestré autour de quatre fonctions vitales essentielles. Parmi celles-ci, l'alimentation et la respiration se distinguent par leur capacité à être influencées directement par notre volonté. Ces domaines cruciaux ont été au cœur de recherches approfondies, donnant naissance à deux sciences complémentaires, l'Ayurveda et le Yoga, qui partagent une philosophie commune et se concentrent respectivement sur :
@@ -312,7 +313,7 @@ Le yoga nous offre une gamme complète d'outils destinés à faciliter cette qu�
 ### La connexion des corps 
 ```{figure} ../pictures/00/00_04-corps-sept-canaux-energie.png
 ---
-scale: 50%
+figclass: margin
 alt: sept-canaux energie
 name: sept-canaux energie
 align: right
@@ -325,12 +326,12 @@ Chaque couche de notre être est en lien direct avec un centre d'énergie majeur
 
 ```{figure} ../pictures/00/00_05-sept-chakra.png
 ---
-scale: 70%
+figclass: margin
 alt: sept-chakra
 name: sept-chakra
 align: right
 ---
--Les 7 chakras principaux
+-Les 7 chakras
 ```
 
 ### Le reflet des corps
@@ -361,7 +362,7 @@ Examinons ces centres énergétiques en détail.
 
 ```{figure} ../pictures/00/00_06-mooladhara.png
 ---
-scale: 50%
+figclass: margin
 alt: Mooladhara-chakra
 name: Mooladhara-chakra
 align: right
@@ -399,7 +400,7 @@ La pratique ultime du yoga vise à réveiller l'énergie kundalini présente dan
 
 ```{figure} ../pictures/00/00_07-svadhisthana.png
 ---
-scale: 50%
+figclass: margin
 alt: Svadhisthana-chakra
 name: Svadhisthana-chakra
 align: right
@@ -430,7 +431,7 @@ Localisé dans l'axe de la colonne vertébrale, ce chakra se trouve précisémen
 ### Manipura Chakra
 ```{figure} ../pictures/00/00_08-manipura.png
 ---
-scale: 50%
+figclass: margin
 alt: Manipura-chakra
 name: Manipura-chakra
 align: right
@@ -465,7 +466,7 @@ La réflexion sur les réactions corporelles à la peur souligne l'importance du
 ### Anahata Chakra
 ```{figure} ../pictures/00/00_09-anahata.png
 ---
-scale: 50%
+figclass: margin
 alt: Anahata-chakra
 name: Anahata-chakra
 align: right
@@ -499,7 +500,7 @@ L'Anahata joue un rôle essentiel dans le développement des qualités d'amour, 
 ### Vishuddha Chakra
 ```{figure} ../pictures/00/00_10-vishuddha.png
 ---
-scale: 50%
+figclass: margin
 alt: Vishuddha-chakra
 name: Vishuddha-chakra
 align: right
@@ -532,7 +533,7 @@ Le Chakra Vishuddha joue un rôle fondamental dans notre capacité à communique
 ### Ajna Chakra
 ```{figure} ../pictures/00/00_11-ajna.png
 ---
-scale: 50%
+figclass: margin
 alt: Ajna-chakra
 name: Ajna-chakra
 align: right
@@ -566,7 +567,7 @@ Le Chakra Ajna est essentiel pour développer une compréhension profonde de soi
 ### Sahasrara Chakra
 ```{figure} ../pictures/00/00_12-sahasrara.png
 ---
-scale: 50%
+figclass: margin
 alt: Sahasrara-chakra
 name: Sahasrara-chakra
 align: right
@@ -632,7 +633,7 @@ Les dysfonctionnements chakriques mettent en lumière l'importance de maintenir 
 ### Relation chakras-corps-energie
 ```{figure} ../pictures/00/00_14-relationchakracorpsenergie.png
 ---
-scale: 50%
+figclass: margin
 alt: Relationchakracorpsenergie
 name: Relationchakracorpsenergie
 align: right
@@ -695,7 +696,7 @@ Dans le contexte des enseignements yogiques, l'activation des nadis Sushumna, Id
 
 ```{figure} ../pictures/00/00_15-idapingala.png
 ---
-scale: 70%
+figclass: margin
 alt: Ida-pingala
 name: Ida-pingala
 align: right
