@@ -4,11 +4,9 @@
 :depth: 2
 ```
 
-## La terminologie du Yoga
+## La sémantique du Yoga
 
-### La langue du yoga
-
-Le yoga est intimement lié à la langue sanskrite, le berceau de toute la littérature philosophique de l'Inde. Cette section vise à vous familiariser avec certains termes clés que vous rencontrerez tout au long de ce document et dans d'autres ressources sur le yoga. Bien que nous nous efforcions de traduire la plupart des termes au fur et à mesure, connaître ces termes vous enrichira et facilitera votre pratique et votre étude du yoga.
+Le yoga est intimement lié à la langue sanskrite, le berceau de toute la littérature philosophique et spirituelle de l'Inde. Cette section vise à vous familiariser avec certains termes clés que vous rencontrerez tout au long de ce document et dans d'autres ressources sur le yoga. Bien que je m'efforce de traduire la plupart des termes au fur et à mesure, connaître ces termes vous enrichira et facilitera votre pratique et votre étude du yoga.
 
 - **Asana**  
   **Traduction littérale** : posture.  
@@ -30,7 +28,7 @@ Le yoga est intimement lié à la langue sanskrite, le berceau de toute la litt�
 Le sanskrit, avec son riche héritage, est essentiel pour approfondir la compréhension et la pratique du yoga. Même une connaissance de base de ces termes peut enrichir significativement votre expérience.
 ```
 
-### Démanteler les préjugés.
+## Démanteler les préjugés.
 
 De nombreux stéréotypes et conceptions erronées entourent le yoga, ce qui peut intimider les novices ou altérer la compréhension de cette pratique millénaire. C'est la raison pour laquelle cette section ouvre le bal, afin de passer au crible et corriger quelques-uns de ces malentendus répandus.
 
@@ -77,19 +75,33 @@ align: right
 ---
 Mohenjo Daro (vallée de l’Indus)
 ```
-Le yoga que nous connaissons aujourd'hui a été développé à partir de la civilisation tantrique qui a existé en Inde il y a 10000 ans. Les fouilles archéologiques effectuées dans la vallée de l'Indus ont permis d’exhumer de nombreuses statues de divinités ressemblant à Shiva et Parvati (son épouse) en train de jouer aux divers asanas (postures de yoga) et pratiques de la méditation. Selon la tradition mythique, Shiva est considéré comme le fondateur du yoga et Parvati, son premier disciple.
+
+:::{admonition} Civilisation tantrique
+:class: margin
+Le tantrisme est une tradition spirituelle riche et complexe qui utilise des rituels, des mantras, et des méditations pour explorer les dimensions profondes de la conscience et atteindre l'éveil spirituel.
+:::
+
+Le yoga que nous connaissons aujourd'hui a été développé à partir de la **civilisation tantrique** qui a existé en Inde il y a 10000 ans. Les fouilles archéologiques effectuées dans la vallée de l'Indus ont permis d’exhumer de nombreuses statues de divinités ressemblant à Shiva et Parvati (son épouse) en train de jouer aux divers asanas (postures de yoga) et pratiques de la méditation. Selon la tradition mythique, Shiva est considéré comme le fondateur du yoga et Parvati, son premier disciple.
 
 
+:::{admonition} Rishis
+:class: margin
+Les rishis sont des sages védiques de l'ancienne Inde, crédités de la réception et de la transmission des hymnes védiques, agissant comme ponts entre le divin et l'humain.
+:::
 
-La civilisation de l'Indus considère le yoga non seulement comme un héritage précieux mais comme un don sacré, révélé aux sages ancestraux, ou Rishis, de l'époque pré-védique. Cette révélation avait pour but ultime de permettre à l'humanité d'atteindre la compréhension de sa véritable essence divine.
+La civilisation de l'Indus considère le yoga non seulement comme un héritage précieux mais comme un don sacré, révélé aux sages ancestraux, ou **Rishis**, de l'époque pré-védique. Cette révélation avait pour but ultime de permettre à l'humanité d'atteindre la compréhension de sa véritable essence divine.
 
 ### Transmission des techniques
 
 Initialement, l'enseignement et les pratiques du yoga étaient enveloppés d'un voile de mystère, gardés secrets et transmis exclusivement de maître (guru) à disciple de manière orale. Cette méthode de transmission orale garantissait la précision et la clarté de l'enseignement, préservant ainsi l'intégrité de cette discipline spirituelle.
 
 ### Les premières références écrites 
+:::{admonition} Védisme
+:class: margin
+Le védisme est l'ancienne religion de l'Inde basée sur les Védas, privilégiant les rituels et sacrifices pour harmoniser l'ordre cosmique, précurseur direct de l'hindouisme.
+:::
 
-Les tantras anciens, suivis par les textes védiques découverts dans la vallée de l'Indus, constituent les premières références écrites mentionnant le yoga. Ces textes sont aujourd'hui reconnus comme les fondements de l'hindouisme.
+Les tantras anciens, suivis par les textes **védiques** découverts dans la vallée de l'Indus, constituent les premières références écrites mentionnant le yoga. Ces textes sont aujourd'hui reconnus comme les fondements de l'hindouisme.
 
 Ce n'est qu'au début de notre ère que le sage Patanjali, après une vie dédiée à l'étude des textes sacrés, rédige les Yoga Sutras. Ces versets marquent la première tentative de systématisation du yoga, offrant un cadre définitif, unifié et complet pour la pratique. Les Yoga Sutras introduisent notamment le concept du chemin des huit voies, une approche holistique du yoga qui sera développée plus en détail ultérieurement.
 
@@ -121,7 +133,7 @@ Dans le cas d'un déséquilibre, des systèmes tels que l'endocrinien peuvent de
 Le yoga, un mot qui évoque l'« unité », provient du sanskrit "Yuj", signifiant 'rejoindre'. Cette union, d'un point de vue spirituel, représente la fusion de la conscience individuelle avec la conscience universelle, illustrant la profonde intégration de soi avec le cosmos.
 
 
-**Leq racines**
+**Les racines**
 
 Le yoga s'ancre profondément dans l'hindouisme, étant l'une des six principales écoles de pensée philosophique indienne, ou Darshana. "Darshana" signifie « ce à travers lequel vous pouvez voir », suggérant une manière de percevoir et de comprendre la réalité et les résultats de nos actions, à l'instar de l'image que renvoie un miroir.
 
@@ -143,7 +155,7 @@ Toutes nos actions entraînent des conséquences (bonnes ou mauvaises)
 ce principe simple est à la base de l’un des fondements de la philosophie indienne : le Karma.
 ```
 
-**La Doctrine mystifiée**
+**La doctrine mystifiée**
 
 ```{admonition} Je m'interroge
 :class: note
@@ -221,7 +233,7 @@ Abordez le yoga en gardant à l'esprit les points suivants :
 - **Au-delà des postures** : Le yoga commence souvent par des pratiques physiques, mais ne le réduisez pas seulement aux postures. Avec le temps, vous découvrirez que son spectre est bien plus large.
 - **Introspection** : Le yoga préconise l'introspection individuelle pour comprendre et agir sur notre individualité. Ouvrez vos sens et restez à l'écoute de votre corps.
 
-```{tip}
+```{note}
 Après une séance, si vous ne vous sentez pas apaisé, heureux, calme, et en accord avec vous-même, alors la séance n'était peut-être pas adaptée pour vous. Pour ceux qui ressentent ces bienfaits, vous entamez un voyage intérieur avec plusieurs facettes de vous-même. Détendez-vous, c'est une exploration de vous, sous plusieurs formes... C'est parti !
 ```
 ## Le corps: une poupée russe
@@ -279,25 +291,25 @@ Dans le vaste domaine de la mystique, on conceptualise l'existence de sept nivea
 - **Corps Éthérique**, une couche subtile qui sert de liaison avec le physique.
 - **Corps Physique**, qui est la manifestation la plus tangible et la plus dense de notre être.
 
-### Simplification en trois dimensions
+### La simplification en trois dimensions
 
 Pour faciliter la compréhension de ces concepts, on peut les regrouper en trois dimensions principales :
 
-1. **Dimension Physique**, qui correspond au Corps Physique et vibre à la fréquence la plus basse, rendant ainsi sa perception directe possible.
-2. **Dimension Astrale**, qui englobe les Corps Éthérique, Émotionnel et Mental. Cette dimension, bien qu'immense et prépondérante, demeure invisible à nos yeux, tout comme la partie submergée d'un iceberg.
-3. **Dimension Causale**, qui comprend les Corps Causal, Spirituel et Divin, représentant les niveaux les plus élevés de vibration et les aspects les plus sublimes de notre être.
+1. **Dimension Physique**, qui correspond au Corps physique et vibre à la fréquence la plus basse, rendant ainsi sa perception directe possible.
+2. **Dimension Astrale**, qui englobe les corps éthérique, émotionnel et mental. Cette dimension, bien qu'immense et prépondérante, demeure invisible à nos yeux, tout comme la partie submergée d'un iceberg.
+3. **Dimension Causale**, qui comprend les corps causal, spirituel et divin, représentant les niveaux les plus élevés de vibration et les aspects les plus sublimes de notre être.
 
-La Dimension physique est la plus perceptible parce qu'elle vibre à la fréquence la plus basse. En revanche, les deux autres dimensions, bien qu'immenses et substantielles, restent cachées à notre vue, à l'instar de la partie immergée d'un iceberg. Pour explorer et influencer nos corps subtils, il est conseillé de commencer par notre enveloppe physique, permettant ainsi d'accéder progressivement aux dimensions plus subtiles de notre existence.
+La dimension physique est la plus perceptible parce qu'elle vibre à la fréquence la plus basse. En revanche, les deux autres dimensions, bien qu'immenses et substantielles, restent cachées à notre vue, à l'instar de la partie immergée d'un iceberg. Pour explorer et influencer nos corps subtils, il est conseillé de commencer par notre enveloppe physique, permettant ainsi d'accéder progressivement aux dimensions plus subtiles de notre existence.
 
 ### Une nouvelle perspective
 
-Selon les enseignements du yoga, connus sous le nom de *darshana*, tout dysfonctionnement ou anomalie dans le corps physique est le reflet d'un déséquilibre déjà existant dans les dimensions plus subtiles de notre être. Autrement dit, les maladies physiques ne sont que la manifestation concrète de déséquilibres présents dans la dimension astrale, laquelle est constituée de nos énergies, émotions et pensées.
+Selon les enseignements du yoga, connus sous le nom de *Darshana*, tout dysfonctionnement ou anomalie dans le corps physique est le reflet d'un déséquilibre déjà existant dans les dimensions plus subtiles de notre être. Autrement dit, les maladies physiques ne sont que la manifestation concrète de déséquilibres présents dans la dimension astrale, laquelle est constituée de nos énergies, émotions et pensées.
 
 Il est intéressant de noter que le corps physique ne représente que 10% de notre être total, englobant les sept corps. Le yoga nous enseigne que le chemin de la guérison et de l'équilibre commence par le corps physique, mais ne s'arrête pas là ; il s'étend aux dimensions plus subtiles de notre existence. En d'autres termes, nous incarnons simultanément tous ces corps, et l'approche yogique vise à traverser chacune de ces couches pour atteindre notre essence la plus pure.
 
 Le yoga nous offre une gamme complète d'outils destinés à faciliter cette quête. Contrairement à une idée reçue, l'objectif du yoga ne se limite pas à accroître la flexibilité et la malléabilité du corps physique. Bien que ces aspects soient visibles et bénéfiques, l'impact le plus significatif du yoga s'opère dans les autres dimensions, principalement sur la dimension astrale. C'est la raison pour laquelle le processus est souvent décrit comme un « travail subtil », soulignant ainsi l'importance de s'engager dans cette pratique avec une compréhension approfondie de ses effets multidimensionnels.
 
-### LA connexion des corps 
+### La connexion des corps 
 ```{figure} ../pictures/00/00_04-corps-sept-canaux-energie.png
 ---
 scale: 50%
@@ -331,11 +343,11 @@ Chaque chakra agit comme un interrupteur énergétique, illuminant et activant d
 
 ### Des caractéristiques uniques
 
-- **Couleur et Élément**: Chaque chakra est associé à une couleur spécifique ainsi qu'à un élément de la nature.
-- **Fonctions Physiques et Émotionnelles**: Ils régissent des aspects précis de notre santé physique et émotionnelle.
-- **Fréquence de Vibration**: Chaque chakra vibre à une fréquence unique, ce qui affecte son fonctionnement et son influence sur notre corps.
+- **Couleur et élément**: Chaque chakra est associé à une couleur spécifique ainsi qu'à un élément de la nature.
+- **Fonctions physiques et émotionnelles**: Ils régissent des aspects précis de notre santé physique et émotionnelle.
+- **Fréquence de vibration**: Chaque chakra vibre à une fréquence unique, ce qui affecte son fonctionnement et son influence sur notre corps.
 
-### Conscience astrale et méditation
+### La conscience astrale
 
 Les chakras font intégralement partie de notre anatomie astrale. La prise de conscience de leurs énergies et leur gestion ne peut se faire pleinement qu'à travers la méditation, permettant un accès plus profond à notre structure énergétique interne.
 
@@ -484,16 +496,16 @@ L'Anahata joue un rôle essentiel dans le développement des qualités d'amour, 
 ```
 
 
-### Vishuddhi Chakra
-```{figure} ../pictures/00/00_10-vishuddhi.png
+### Vishuddha Chakra
+```{figure} ../pictures/00/00_10-vishuddha.png
 ---
 scale: 50%
-alt: Vishuddhi-chakra
-name: Vishuddhi-chakra
+alt: Vishuddha-chakra
+name: Vishuddha-chakra
 align: right
 ---
 ```
-Le Chakra Vishuddhi, connu comme "chakra de la purification" ou "chakra de la gorge", est le centre énergétique associé à la communication et à l'expression de soi.
+Le Chakra Vishuddha, connu comme "chakra de la purification" ou "chakra de la gorge", est le centre énergétique associé à la communication et à l'expression de soi.
 
 **Position**
 
@@ -505,7 +517,7 @@ Ce chakra se trouve à l'arrière du cou, juste derrière la gorge, jouant un r�
 
 **Fonction**
 
-- **Centre de communication et d'inspiration**: Vishuddhi chakra est essentiel pour l'expression des émotions et des pensées, gouvernant les cordes vocales, la région du larynx, et la thyroïde.
+- **Centre de communication et d'inspiration**: Vishuddha chakra est essentiel pour l'expression des émotions et des pensées, gouvernant les cordes vocales, la région du larynx, et la thyroïde.
 - **Expression non-verbale**: Au-delà des mots, ce chakra influence également nos gestes, expressions faciales, et tout ce que nous communiquons, consciemment ou inconsciemment.
 
 **Déséquilibres**
@@ -513,7 +525,7 @@ Ce chakra se trouve à l'arrière du cou, juste derrière la gorge, jouant un r�
 - **En Excès**: Les déséquilibres peuvent se manifester par un bavardage excessif, de la duplicité, ou une tendance à l'hypocondrie.
 
 ```{note}
-Le Chakra Vishuddhi joue un rôle fondamental dans notre capacité à communiquer clairement et authentiquement. Il nous rappelle l'importance de la purification de nos paroles et de nos intentions pour maintenir l'harmonie dans nos interactions et notre bien-être intérieur.
+Le Chakra Vishuddha joue un rôle fondamental dans notre capacité à communiquer clairement et authentiquement. Il nous rappelle l'importance de la purification de nos paroles et de nos intentions pour maintenir l'harmonie dans nos interactions et notre bien-être intérieur.
 ```
 
 
@@ -585,7 +597,7 @@ Ce centre n'est pas considéré comme un chakra traditionnel mais plutôt comme 
 Le Chakra Sahasrara symbolise le point culminant de la quête spirituelle, où l'individu expérimente une union complète avec le tout, réalisant la nature ultime de la réalité.
 ```
 
-## Caractéristiques intrinsèques
+## Les caractéristiques intrinsèques
 
 
 ### Tableau de correspondance
@@ -602,7 +614,7 @@ align: center
 
 ### Dysfonctionnement des Chakras
 
-Les chakras, centres énergétiques de notre corps, peuvent parfois fonctionner de manière suboptimale, affectant notre bien-être physique et émotionnel. Deux principales causes de dysfonctionnement sont identifiées :
+Les chakras, peuvent parfois fonctionner de manière suboptimale, affectant notre bien-être physique et émotionnel. Deux principales causes de dysfonctionnement sont identifiées :
 
 **Causes du dysfonctionnement**
 
@@ -630,7 +642,7 @@ Il est essentiel de comprendre que les chakras ne sont pas seulement connectés 
 
 **Autres traits des Chakras**
 
-- **Taille, Rayonnement, et Vitesse de Rotation**: Ces aspects d'un chakra reflètent la santé des organes correspondants et, par extension, l'état vibratoire du corps subtil associé (émotionnel, causal, mental, etc.).
+- **Taille, rayonnement, et vitesse de rotation**: Ces aspects d'un chakra reflètent la santé des organes correspondants et, par extension, l'état vibratoire du corps subtil associé (émotionnel, causal, mental, etc.).
 
 **Le cas du chakra Sahasrara**
 
@@ -644,7 +656,7 @@ Il est essentiel de comprendre que les chakras ne sont pas seulement connectés 
 L'interrelation entre les chakras, les corps subtils, et les flux énergétiques de conscience met en lumière un aspect fondamental de notre constitution multidimensionnelle. Cela souligne une fois de plus l'importance de maintenir un équilibre énergétique pour une santé et un bien-être optimaux.
 ```
 
-## Circulation énergétique
+## La circulation énergétique
 
 ### Conscience et énergie
 
@@ -653,7 +665,7 @@ La dynamique de la conscience et de l'énergie vitale dans le corps humain est u
 
 **Les Nadis : Canaux de vie**
 
-- **Définition et Nombre**: Le terme "nadi" se traduit par "mouvement" ou "vibration", soulignant leur rôle dans la circulation de l'énergie. Le corps psychique en contient 72 000, composés de matière astrale, distincts des nerfs physiques.
+- **Définition et nombre**: Le terme "nadi" se traduit par "mouvement" ou "vibration", soulignant leur rôle dans la circulation de l'énergie. Le corps psychique en contient 72 000, composés de matière astrale, distincts des nerfs physiques.
 - **Canaux praniques**: Contrairement aux nerfs, les nadis transportent le prana, ou énergie vitale, plutôt que des impulsions électriques.
 
 **Trois nadis principaux**
@@ -724,14 +736,14 @@ La dynamique du prana, ou énergie vitale, au sein du corps est régie par les c
 Cette compréhension des courants praniques et de leur influence sur le souffle offre des clés pour harmoniser notre énergie vitale, nos activités quotidiennes, et notre bien-être général.
 ```
 
-### Courants praniques et méditation
+### Le courants praniques et la méditation
 
 Les flux alternés des nadis Ida et Pingala jouent un rôle crucial dans toutes nos activités, y compris la pratique de la méditation. Ces flux énergétiques changent environ toutes les 60 à 90 minutes, mais il est possible de les ajuster consciemment grâce à des techniques de yoga spécifiques, telles que le Pradadhirasana et le Pranayama.
 
 **Ajustement conscient du flux pranique**
 
-- **Activité Physique**: Lorsque Ida est dominant mais qu'une activité physique s'impose, diriger consciemment le flux vers Pingala peut fournir l'énergie nécessaire.
-- **Travail Mental**: Inversement, pour des tâches intellectuelles ou d'étude, l'énergie peut être orientée vers Ida.
+- **Activité physique**: Lorsque Ida est dominant mais qu'une activité physique s'impose, diriger consciemment le flux vers Pingala peut fournir l'énergie nécessaire.
+- **Travail mental**: Inversement, pour des tâches intellectuelles ou d'étude, l'énergie peut être orientée vers Ida.
 
 **Équilibrage des énergies solaire et lunaire**
 
@@ -796,7 +808,7 @@ Cette compréhension approfondie des nadis Ida et Pingala enrichit notre approch
 
 - Les corps subtils, les nadis et les chakras constituent l'architecture énergétique de l'être humain, influençant directement notre état psychophysique, notre personnalité, et nos fonctions vitales. Ils sont au yoga ce que le squelette, les muscles, et les organes sont à notre corps physique.
 
-**Le Corps physique : Porte d'entrée du Yoga**
+**Le corps physique : Porte d'entrée du Yoga**
 
 - La pratique du yoga commence par le corps physique pour atteindre et harmoniser notre essence subtile. Elle agit sur nos muscles, nos articulations et nos organes par le biais de la respiration, stimulant ainsi le flux de prana (énergie vitale) qui se diffuse dans les nadis et active les chakras, entraînant des bienfaits physiologiques et subtils perceptibles dès les premières séances.
 
@@ -835,8 +847,6 @@ La persévérance et la régularité dans la pratique sont essentielles pour att
 ```{note}
 Ces principes fondamentaux forment la base d'une pratique yogique réussie, menant à une harmonie intérieure et à l'épanouissement spirituel. Ils rappellent que le yoga est moins une destination qu'un chemin de découverte continue de soi et de l'univers.
 ```
-
-
 
 ## Epilogue
 

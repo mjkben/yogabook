@@ -1,14 +1,62 @@
-p {
-    text-align: justify;
-}
-
-div.admonition-extra-credit {
-    border-left-color: rgba(0, 246, 16, 1);
-}
-div.admonition-extra-credit .admonition-title {
-    background-color: rgba(0, 246, 16, .1);
-}
-div.admonition-extra-credit .admonition-title:before {
-    color: rgba(0, 246, 16, 1);
-    content: '\f19d';
-}
+body {
+    font-family: 'Merriweather', serif; /* Une police élégante pour une lecture confortable */
+    color: #333; /* Couleur douce pour le texte, réduisant la fatigue oculaire */
+    background-color: #f7f2e7; /* Un arrière-plan apaisant, inspiré des couleurs naturelles */
+    line-height: 1.6; /* Espacement des lignes pour une meilleure lisibilité */
+    margin: 0;
+    padding: 0;
+    padding-top: 20px;
+  }
+  
+  header {
+    background-color: #e9ebe4; /* Couleur de fond de l'en-tête, évoquant la tranquillité */
+    color: #3e4c59; /* Couleur du texte pour un contraste doux mais lisible */
+    padding: 20px 0;
+    text-align: center;
+    font-size: 24px;
+  }
+  
+  main {
+    max-width: auto; /* Largeur maximale pour la partie centrale, pour un confort de lecture */
+    margin: 0 left; /* Centrage du contenu */
+    padding: 20px;
+  }
+  
+  h1, h2, h3 {
+    color: #4a5d70; /* Couleurs des titres, légèrement plus foncées pour se démarquer */
+  }
+  
+  h1 {
+    margin-top: 0;
+  }
+  
+  p {
+    margin-bottom: 20px; /* Espacement entre les paragraphes pour une structure claire */
+  }
+  
+  a {
+    color: #1a5e63; /* Couleur des liens, inspirée de l'eau pour une sensation de fraîcheur */
+    text-decoration: none; /* Pas de soulignement pour une apparence épurée */
+  }
+  
+  a:hover {
+    text-decoration: underline; /* Soulignement au survol pour indiquer la possibilité de cliquer */
+  }
+  
+  footer {
+    background-color: #e9ebe4;
+    color: #3e4c59;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 14px;
+  }
+  
+  /* Pour améliorer l'accessibilité */
+  :focus {
+    outline: 3px solid #1a5e63;
+    outline-offset: 3px;
+  }
+  

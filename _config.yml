@@ -100,10 +100,10 @@ html:
             Crée par <a href="https://perso.univ-lyon1.fr/marc.buffat/">Marc BUFFAT</a><br> avec <a href="https://jupyterbook.org">Jupyter Book</a>
         </div>
 
-  extra_footer: |
-        <div>
-            Crée par <a href="https://samkhya.benard.cloud">Marie-jacques BENARd</a>
-        </div>
+#  extra_footer: |
+#        <div>
+#            Crée par <a href="https://samkhya.benard.cloud">Marie-jacques BENARd</a>
+#        </div>
 
   comments:
     hypothesis              : true
@@ -132,8 +132,8 @@ exclude_patterns    :   [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints","C
 
 html_show_copyright: false
 myst_amsmath_enable: true
-# html_theme: sizzle
-html_theme: monokai
+html_theme: sizzle
+
 
 
 #######################################################################################
