@@ -1,7 +1,8 @@
 #  <p align="center">Yoga: La science du bien-être</p> 
 
-:::{figure} https://filedn.eu/lSSVtdLTd7lBAgFqzGLFDE5/pictures/yoga/cours-yoga/couverture5..png
+:::{figure} https://filedn.eu/lSSVtdLTd7lBAgFqzGLFDE5/pictures/yoga/cours-yoga/couverture5.png
 ---
+scale: 50%
 width: 75%
 align: center
 ---

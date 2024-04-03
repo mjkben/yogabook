@@ -1,3 +1,12 @@
+---
+title: "Le titre de la page"
+author: "Votre Nom"
+date: "2023-01-01"
+tags:
+- Tag1
+- Tag2
+---
+
 # §1. Comprendre le Yoga
 ```{contents}
 :local:
@@ -33,31 +42,33 @@ Le sanskrit, avec son riche héritage, est essentiel pour approfondir la compré
 De nombreux stéréotypes et conceptions erronées entourent le yoga, ce qui peut intimider les novices ou altérer la compréhension de cette pratique millénaire. C'est la raison pour laquelle cette section ouvre le bal, afin de passer au crible et corriger quelques-uns de ces malentendus répandus.
 
 **Le Yoga et le sport**
-> VRAI ou FAUX: "..Le yoga, c'est comme la musculation, les étirements, la gym..."
-
+:::{admonition} Vrai ou Faux
+"..Le yoga, c'est comme la musculation, les étirements, la gym..."
+:::
 Le yoga est bien plus qu'une simple activité physique. Il s'agit d'une philosophie, d'une attitude et d'un art de vivre. Bien que les exercices de yoga puissent compléter une activité sportive, l'essence et l'approche du yoga sont beaucoup plus subtiles et profondes.
 
 **Le Yoga et la souplesse**
-> VRAI ou FAUX: "..Le yoga c'est une discipline pour les contorsionnistes..."
-
+:::{admonition} Vrai ou Faux
+"..Le yoga c'est une discipline pour les contorsionnistes..."
+:::
 La flexibilité n'est pas un prérequis pour pratiquer le yoga. La pratique régulière contribuera à améliorer votre souplesse. Le yoga est accessible et peut être adapté à tous, indépendamment de l'âge ou de la condition physique initiale. Les difficultés physiques ne sont pas un obstacle, mais une opportunité de progrès notable.
 
 **Le Yoga: une pratique mystique ?**
-> VRAI ou FAUX: "..Le yoga c'est un truc mystique pour les hippies..."
-
+:::{admonition} Vrai ou Faux
+"..Le yoga c'est un truc mystique pour les hippies..."
+:::
 Le yoga est une science qui comprend des règles, des codes, des outils et des techniques clairement définis dans les textes anciens. Il est soutenu par des centres de recherche, des fondations et des universités partout dans le monde. La manière dont chacun pratique le yoga et ce qu'il en tire relève de son choix personnel.
 
 **Le Yoga et le régime alimentaire**
-> VRAI ou FAUX: "..Il faut être végétarien ou vegan pour faire du yoga..."
-
+:::{admonition} Vrai ou Faux
+"..Il faut être végétarien ou vegan pour faire du yoga..."
+:::
 Il n'y a pas d'exigence alimentaire spécifique pour pratiquer le yoga. Bien qu'un régime végétarien puisse être recommandé dans les étapes avancées de la pratique pour des raisons éthiques et de santé, le yoga en lui-même n'impose pas de restrictions alimentaires strictes. L'approche du yoga vis-à-vis de l'alimentation est étroitement liée à la tradition ayurvédique, favorisant une alimentation saine et équilibrée adaptée à l'individu.
 
 **Le fondement scientifique du Yoga**
-
-
-> VRAI ou FAUX: "..Dans le yoga, il n'y a pas de fondement scientifique."
-
-
+:::{admonition} Vrai ou Faux
+"..Dans le yoga, il n'y a pas de fondement scientifique."
+:::
 Le débat sur le fondement scientifique du yoga nécessite une approche nuancée, reconnaissant que le yoga, ancré dans des traditions et pratiques subtiles, ne s'aligne pas toujours directement avec les méthodes scientifiques conventionnelles. Néanmoins, les avancées technologiques et la recherche actuelle commencent à mettre en lumière les bienfaits du yoga pour la santé, bien que certaines de ses aspects restent mystérieux pour la science. Cette exploration scientifique du yoga, notamment à travers les études sur les asanas, pranayamas, mudras, et bandhas, montre leur efficacité dans le maintien de la santé physique et mentale. Avec une reconnaissance croissante de son potentiel médical, notamment pour la gestion des troubles post-traumatiques et la prévention des maladies, le yoga est promis à une intégration accrue dans le domaine de la santé. Cette convergence entre yoga et science ouvre des perspectives prometteuses pour l'avenir, soulignant le rôle essentiel du yoga dans l'amélioration du bien-être et de la santé globale.
 
 
