@@ -1,5 +1,5 @@
 # §2. La science des postures
-## Introductiopn test
+## Introduction 
 ### Les origines
 
 Dans le yoga, lorsqu’on commence à évoquer les postures, elles sont généralement composées en deux ou trois mots et,
@@ -12,7 +12,7 @@ Ils ont compris par expérience les effets de certaines postures et comment les 
 contrôlées par elles.
 
 Par exemple, en imitant le lapin ou le lièvre dans shashankasana, ils ont remarqué qu’ils pouvaient influencer le flux
-d'adrénaline responsable du mécanisme de «combat ou de fuite».
+d'adrénaline responsable du mécanisme de combat ou de fuite.
 
 À travers les nombreuses postures d'animaux, les rishis ont découvert qu’ils pouvaient se maintenir en bonne santé et relever
 les défis de la nature pour l’humanité.
@@ -72,7 +72,7 @@ Exclusif au yoga, ce mouvement spécial mobilise les lombaires vers l'arrière, 
 Les asanas, en s'appuyant sur la structure de la colonne et ses mouvements, modulent la dynamique de notre physiologie. Grâce à la magie du prana, ces postures tissent des liens entre notre corps physique et les autres dimensions de notre être.
 
 
-### Ok, mais je ne vois pas leur impact sur les autres corps
+### Des Nadis aux Asanas
 
 Rappelez-vous de notre discussion sur les nadis et les canaux d'énergie, et comment nous avons souligné l'importance de leur éveil. Imaginez nos nadis comme un plat de spaghettis emmêlés, pleins de nœuds causés par notre style de vie, bloquant ainsi la circulation du prana. L'une des clés pour démêler ce plat est la pratique des asanas. Avec plus de 72 000 nadis parcourant notre corps, pensez à la variété d'asanas nécessaires pour atteindre et ouvrir chaque canal, peu importe sa taille.
 
@@ -104,7 +104,7 @@ Je me concentrerai principalement sur le raja yoga, le yoga originel tel que dé
 
 Au-delà de ces grandes voies, de nombreux autres courants yogiques se déploient à partir de ces fondements, spécialisant et approfondissant certains aspects des huit branches du yoga.
 
-### Prudence sur le type de yoga qui est fait pour vous
+### Démasquer le yoga commercial
 
 Alors, vous pensez que tous les yogas se valent ? Laissez-moi vous guider à travers le labyrinthe des "yogas à vocation commerciale", un voyage où le seul ticket nécessaire est un esprit ouvert (et peut-être un peu de souplesse) :
 
@@ -142,7 +142,7 @@ Ah, l'Inde ! Là où mes matinées débutaient par une salutation au soleil, non
 
 **La relaxation consciente :** Le grand final, où le corps savoure le repos mérité, engrangeant les bienfaits de la pratique. C'est le moment où le cerveau lance les ondes alpha, signe de relaxation et de paix intérieure.
 
-### Explorer l'univers des postures de yoga
+### L'univers des postures de yoga
 
 Le yoga, c'est bien plus qu'une simple série de mouvements ; c'est un vaste univers de postures, chacune avec sa propre histoire, sa technique, et son impact. Voici un petit guide pour naviguer dans ce cosmos postural :
 
@@ -169,7 +169,7 @@ L'héritage du yoga est riche et détaillé, offrant un impact profond sur le ph
 
 ## Les Asanas de relaxation
 
-### Les asanas de relaxation : un art subtil
+### La relaxation : un art subtil
 
 Au cœur de notre pratique du yoga, il y a les asanas de relaxation, les premières marches sur l'échelle de la tranquillité intérieure. Contrairement aux postures dynamiques, qui sollicitent notre énergie et notre force physique, les asanas de relaxation nous invitent à relâcher, à laisser s'échapper les tensions accumulées. Ne les sous-estimez pas ; ces postures sont les clés pour ouvrir les portes de la détente profonde, à pratiquer sans modération avant et après les asanas prolongés, ou dès que la fatigue pointe son nez.
 
@@ -181,12 +181,10 @@ Les asanas de relaxation, ces familiers étrangers, vous invitent à redécouvri
 
 Ces asanas, véritables balsamiques pour la colonne vertébrale, les muscles et les articulations, sont particulièrement salutaires pour apaiser les douleurs dorsales. Libre à vous de les intégrer à tout moment de votre journée, pour la durée de votre choix. Ils s'harmonisent parfaitement avec vos routines de détente, offrant une pause bienvenue dans le tumulte de la vie quotidienne.
 
-
-
 ### Shavasana: Pose du cadavre
 
 
-```{figure} ./images/img-shavasana.jpg
+```{figure} ./images/01-01_shavasana.jpg
 ---
 figclass: margin
 scale: 50%
@@ -195,20 +193,22 @@ name: directive-fig
 ---
 Shavasana
 ```
+Shavasana, aussi connu sous le nom de "la posture du cadavre", est cette partie du cours de yoga où vous pouvez enfin prouver à tous que oui, vous pouvez vous allonger au sol sans dormir (ou du moins, essayer). Cette posture, bien qu’elle semble être l’excuse parfaite pour une sieste rapide, est en réalité un moment crucial pour intégrer tous les bienfaits de votre pratique. C’est un peu comme appuyer sur "sauvegarder" après avoir travaillé pendant des heures sur un document important, sauf que là, ce sont vos muscles et votre esprit que vous sauvegardez. Shavasana est votre chance de vous étendre là, immobile, en essayant de ne penser à rien, tout en combattant l’envie irrépressible de planifier votre dîner ou de composer mentalement des emails. Alors oui, même si ça ressemble à une pause bien méritée, c’est en fait un exercice de haute voltige pour l’esprit. Mais ne vous inquiétez pas, avec un peu de pratique, vous pourriez même réussir à ne pas ronfler devant tout le monde.
+
 
 ````{tab-set}
 
 ```{tab-item} Pratique
-    - Allongez-vous à plat sur le dos avec les bras le long du corps, les paumes tournées vers le haut. 
-    - Un oreiller mince ou plié sous la tête.
-    - Laissez les doigts se recroqueviller légèrement.
-    - Gardez vos pieds légèrement écartés dans une position confortable et fermez les yeux.
-    - La tête et la colonne vertébrale doivent être alignées.
-    - Assurez-vous que la tête ne tombe pas d'un côté ou de l'autre.
-    - Détendez tout le corps et arrêtez tout mouvement physique.
-    - Prendre conscience du souffle naturel, permettez lui de devenir rythmé et détendu.
-    - Commencez à compter les respirations à l’envers de la 27ème jusqu'à 0. 
-    - Si l'esprit vagabonde et que le prochain chiffre est oublié, recommencez depuis la 27ème, progressivement le corps va se détendre.
+* Allongez-vous à plat sur le dos avec les bras le long du corps, les paumes tournées vers le haut. 
+* Un oreiller mince ou plié sous la tête.
+* Laissez les doigts se recroqueviller légèrement.
+* Gardez vos pieds légèrement écartés dans une position confortable et fermez les yeux.
+* La tête et la colonne vertébrale doivent être alignées.
+* Assurez-vous que la tête ne tombe pas d'un côté ou de l'autre.
+* Détendez tout le corps et arrêtez tout mouvement physique.
+* Prendre conscience du souffle naturel, permettez lui de devenir rythmé et détendu.
+* Commencez à compter les respirations à l’envers de la 27ème jusqu'à 0. 
+* Si l'esprit vagabonde et que le prochain chiffre est oublié, recommencez depuis la 27ème, progressivement le corps va se détendre.
 ```
 
 ```{tab-item} Durée
@@ -218,38 +218,24 @@ entre chaque asana.
 ```
 
 ```{tab-item} Conscience
-**Physique** - d'abord pour détendre le corps entier, puis
+- **Physique** - d'abord pour détendre le corps entier, puis
 sur le souffle et le comptage respiratoire.
 
-**Spirituel** - sur ajna chakra.
+- **Spirituel** - sur ajna chakra.
 ```
 
 ```{tab-item} Avantages
-Cet asana détend l'ensemble du système
-psycho-physiologique. Il devrait idéalement être pratiqué
-avant de dormir, avant, pendant et après la pratique des
-asanas, en particulier après des exercices tels que surya
-namaskara ; ou quand la pratique fatique physiquement ou
-mentalement. Il développe la conscience du corps.
-Quand le corps est complètement détendu, la conscience
-de l'esprit augment et développe le pratyahara.
+Cet asana détend l'ensemble du système psycho-physiologique. Il devrait idéalement être pratiqué avant de dormir, avant, pendant et après la pratique des asanas, en particulier après des exercices tels que surya namaskara ; ou quand la pratique fatique physiquement ou mentalement. Il développe la conscience du corps. Quand le corps est complètement détendu, la conscience de l'esprit augment et développe le pratyahara.
 ```
 
 ```{tab-item} Remarques
-Essayez de ne pas bouger le corps pendant la
-pratique car le moindre mouvement créera une contraction
-musculaire.
-Un mantra personnel (une ou plusieurs syllabes vibratoires)
-peut être répété à chaque inspiration et expiration.
-Variante :
-En étant couché dans shavasana, prenez conscience de la
-main droite détendue. Prenez conscience du poignet droit, du
-coude, des aisselles, de la taille, de la fesse droite, cuisse
-droite, du genou droit, mollet, talon, plante du pied et
-relâchez-les un à un. Répétez ce processus avec le côté gauche
-du corps et toutes les parties de la tête et du tronc.
-Assurez-vous que chaque partie du corps est détendue, sentez
-chaque partie se fondant dans le sol. Répétez ce processus à
+Essayez de ne pas bouger le corps pendant la pratique car le moindre mouvement créera une contraction musculaire.
+Un mantra personnel (une ou plusieurs syllabes vibratoires) peut être répété à chaque inspiration et expiration.
+**Variante :**
+En étant couché dans shavasana, prenez conscience de la main droite détendue. Prenez conscience du poignet droit, du
+coude, des aisselles, de la taille, de la fesse droite, cuisse droite, du genou droit, mollet, talon, plante du pied et
+relâchez-les un à un. Répétez ce processus avec le côté gauche du corps et toutes les parties de la tête et du tronc.
+Assurez-vous que chaque partie du corps est détendue, sentez chaque partie se fondant dans le sol. Répétez ce processus à
 plusieurs reprises et toutes les tensions auront disparu.
 
 :::{note}
@@ -259,9 +245,9 @@ de travail ou juste avant de dormir.
 ```
 ````
 
-### Advasana: la pose de la détente absolue
+### Advasana: Pose de la détente absolue
 
-```{figure} ./images/img-advasana.jpg
+```{figure} ./images/01-02_advasana.jpg
 ---
 figclass: margin
 scale: 50%
@@ -293,9 +279,9 @@ Adonnez-vous à cette posture autant que nécessaire pour soulager vos maux. Que
 
 
 ```{tab-item} Conscience
-**Physique**: Portez votre attention physique sur le va-et-vient de votre respiration et la détente de chaque muscle. 
+- **Physique**: Portez votre attention physique sur le va-et-vient de votre respiration et la détente de chaque muscle. 
 
-**Spirituel**: Spirituellement, laissez votre esprit se focaliser sur ajna ou manipura chakra, des points d'ancrage qui élèvent l'exercice à une méditation en mouvement.
+- **Spirituel**: Spirituellement, laissez votre esprit se focaliser sur ajna ou manipura chakra, des points d'ancrage qui élèvent l'exercice à une méditation en mouvement.
 ```
 
 ```{tab-item} Avantages
@@ -312,6 +298,134 @@ Advasana, bien plus qu'une simple posture, est une invitation à renouer avec le
 
 ````
 
+
+### Jyestikasana: Posture supérieure
+
+```{figure} ./images/01-03_Jyestikasana.jpg
+---
+figclass: margin
+scale: 50%
+height: 150px
+name: Jyestikasana
+---
+Jyestikasana
+```
+
+````{tab-set}
+
+```{tab-item} Pratique
+Allongez-vous sur le ventre avec les jambes tendues et le front reposant sur le sol. Verrouillez les doigts et placez les paumes sur le bas du cou ou de la tête. Laissez les coudes reposés sur le sol. Détendez tout le corps et prenez conscience de la respiration comme décrite pour shavasana.
+```
+
+```{tab-item} Respiration
+Naturelle et rythmée.
+```
+
+```{tab-item} Conscience
+- **Physique** - sur le souffle et la relaxation de tout le corps. Sentez la chaleur apaisante des paumes qui limitent les tensions dans le cou. 
+- **Spirituel** - sur ajna ou manipura chakra.
+```
+
+```{tab-item} Avantages
+Cet asana est préconisé pour les douleurs de la colonne vertébrale en particulier les cervicales et raideur de la nuque ou du haut du dos.
+```
+
+```{tab-item} Variante
+Cet asana peut également être effectué avec les doigts des deux mains imbriquées et placées sous le front, paumes vers le haut.
+```
+````
+
+### Makarasana: posture du crocodile
+```{figure} ./images/01-04_makarasana.jpg
+---
+figclass: margin
+scale: 50%
+height: 150px
+name: Makarasana
+---
+Makarasana
+```
+
+````{tab-set}
+
+```{tab-item} Pratique
+Positionnez-vous allongé sur le ventre. Élevez la tête et les épaules, puis posez le menton dans les paumes de vos mains, coudes touchant le sol. Pour accentuer la courbure de votre dos, gardez les coudes proches. Pour réduire la pression sur le cou, écartez-les légèrement. La posture du crocodile impacte principalement deux zones : le cou et la partie inférieure du dos.
+- Si les coudes sont placés trop en avant, cela crée une tension dans le cou.
+- Si les coudes sont trop proches du corps, la tension se manifeste davantage dans le bas du dos.
+
+Il est conseillé d'ajuster la position des coudes afin d'équilibrer la tension entre ces deux points. L'idéal est d'atteindre un état où l'ensemble de la colonne vertébrale se relâche uniformément. Relaxez totalement votre corps et fermez les yeux.
+```
+
+```{tab-item} Durée
+Maintenez la position aussi longtemps que c'est confortable pour vous.
+```
+
+```{tab-item} Respiration
+Naturelle et rythmée.
+```
+
+```{tab-item} Conscience
+- **Physique** : Concentrez-vous sur la respiration et le bas du dos. Pour ceux ayant des soucis de dos, inspirez en visualisant votre souffle remontant le long de la colonne vertébrale du coccyx jusqu'au cou, et expirez en imaginant le chemin inverse. Cela encourage l'activation des énergies curatives dans cette zone. En cas de tension dans le bas du dos, concentrez-vous sur cette région durant l'inspiration et l'expiration, en prenant note de son expansion et de sa relaxation.
+- **Spirituel** : Focus sur le chakra manipura ou le bout du nez pour pratiquer nasikagra drishti.
+```
+
+```{tab-item} Avantages
+Makarasana s'avère particulièrement bénéfique pour ceux souffrant de déplacement de disques, de sciatique, de douleurs lombaires, ou de problèmes dorsaux en général. Rester longtemps dans cette posture aide la colonne vertébrale à retrouver sa forme naturelle et diminue la compression des nerfs spinaux. Les asthmatiques et les personnes souffrant de problèmes pulmonaires gagneraient à pratiquer régulièrement cet asana, en mettant l'accent sur la respiration, car cela facilite une meilleure oxygénation.
+```
+
+```{tab-item} Variante
+Cet asana peut également être effectué avec les doigts des deux mains imbriquées et placées sous le front, paumes vers le haut.
+```
+````
+
+```{admonition} Contre-indication
+:class: danger
+Les personnes avec des problèmes de dos chroniques devraient éviter cette posture.
+```
+
+### Matsya kridasana: Posture de poisson
+Matsya Kridasana, ou la posture du poisson qui joue, est un peu comme la version yoga de "faire le mort" pour les poissons, sauf que vous êtes sur la terre ferme et il y a zéro chance de gagner un Oscar pour cette performance. Imaginez un poisson qui se dandine sur le rivage, cherchant désespérément son téléphone pour appeler un Uber de retour à l'océan. C'est vous, allongé sur le ventre, une jambe pliée comme si vous essayiez de capter le Wi-Fi avec votre pied. Ce n'est pas la posture la plus gracieuse du répertoire yoga, mais c'est certainement l'une des plus bénéfiques. En plus d'étirer vos intestins jusqu'à ce qu'ils se décident enfin à vous remercier, elle promet de soulager vos maux de dos d'une manière que même la position "affalé sur le canapé" ne pourrait égaler. Préparez-vous à plonger dans une relaxation profonde, à moins que l'idée de ressembler à un poisson hors de l'eau ne vous fasse trop gigoter.
+
+
+```{figure} ./images/01-05_Matsya-kridasana.jpg
+---
+figclass: margin
+scale: 50%
+height: 150px
+name: Matsya kridasana
+---
+Matsya kridasana
+```
+````{tab-set}
+
+```{tab-item} Pratique
+Commencez allongé sur le ventre, les doigts entrelacés sous la tête. Ployez la jambe gauche, ramenant le genou près des côtes tout en gardant la jambe droite étendue. Orientez vos bras vers la gauche, plaçant le coude gauche sur le genou si possible, ou au sol selon votre confort. Reposez le côté droit de votre tête dans le creux du bras droit, ou ajustez pour plus de confort. Restez détendu dans cette position finale, puis changez de côté après un moment, imitant un poisson qui se débat.
+```
+
+```{tab-item} Respiration
+Restez avec une respiration normale et détendue en position statique.
+```
+
+```{tab-item} Durée
+Essayez de maintenir cette posture aussi longtemps que possible des deux côtés. Elle peut aussi servir de position de repos ou de sommeil.
+```
+
+```{tab-item} Conscience
+- **Physique** : Concentrez-vous sur la respiration et la relaxation complète du corps.
+- **Spirituel** : Dirigez votre attention vers le chakra manipura.
+
+```
+
+```{tab-item} Avantages
+Matsya kridasana favorise le péristaltisme intestinal, aidant ainsi à combattre la constipation. Elle est également bénéfique pour soulager les douleurs sciathiques en détendant les nerfs des jambes. Ceux qui souffrent de maux de dos et qui sont conseillés contre les asanas impliquant des flexions peuvent trouver refuge dans cette posture. Parfaite pour la détente, le sommeil ou la pratique du yoga nidra, le genou plié et la tête peuvent être soutenus par un coussin pour plus de confort. En outre, cette posture aide à redistribuer l'excès de poids autour de la taille.
+
+```
+
+```{tab-item} Variante
+Certaines personnes préfèrent plier la jambe opposée à celle du coude. Les deux variations sont valides, mais il est crucial de changer de côté pour maintenir la symétrie corporelle.
+
+```
+````
 
 ## Les Asanas du Pawanmuktasana
 

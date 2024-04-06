@@ -2,7 +2,7 @@
 
 :::{figure} https://filedn.eu/lSSVtdLTd7lBAgFqzGLFDE5/pictures/yoga/cours-yoga/couverture5.png
 ---
-scale: 50%
+scale: 75%
 width: 75%
 align: center
 ---

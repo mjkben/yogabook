@@ -2,10 +2,12 @@
 
 ## Shavasana
 
-```{figure} ./images/img-shavasana.jpg
+```{figure} ./images/01-01_shavasana.jpg
 ---
 figclass: margin
-name: directive-fig
+scale: 50%
+height: 150px
+name: directive-fig3
 ---
 Shavasana
 ```
@@ -14,6 +16,10 @@ Shavasana
 
 ```{tab-item} Pratique
     pratique
+```
+
+```{tab-item} Respiration
+Respiration
 ```
 
 ```{tab-item} Durée
