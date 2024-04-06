@@ -2,34 +2,46 @@
 
 ## Shavasana
 
+```{figure} ./images/img-shavasana.jpg
+---
+figclass: margin
+scale: 50%
+height: 150px
+name: Shavasana
+---
+Shavasana
+
+
 ````{tab-set}
-```{tab-item} Posture
-Posture
+```{tab-item} Pratique
+
 ```
 
-```{tab-item} Pratique
-Pratique
+
+```{tab-item} Respiration
+
 ```
+
 
 ```{tab-item} Durée
-duree
+
 ```
 
 ```{tab-item} Conscience
-Physique 
-Spirituel
+**Physique** : 
+**Spirituel**: 
 ```
 
 ```{tab-item} Avantages
-Avantage
+
 ```
 
-```{tab-item} Note
-Note
+```{tab-item} Note de pratique
+
 ```
 
 ```{tab-item} Remarques
-Remarques
+
 ```
 
 ````
