@@ -5,47 +5,32 @@
 ```{figure} ./images/img-shavasana.jpg
 ---
 figclass: margin
-scale: 50%
-height: 150px
-name: Shavasana
+name: directive-fig
 ---
 Shavasana
-
+```
 
 ````{tab-set}
+
 ```{tab-item} Pratique
-
+    pratique
 ```
-
-
-```{tab-item} Respiration
-
-
-```
-
 
 ```{tab-item} Durée
-
-
+duree
 ```
 
 ```{tab-item} Conscience
-**Physique** : 
-**Spirituel**: 
+conscience
 ```
 
 ```{tab-item} Avantages
-
-```
-
-```{tab-item} Note de pratique
-
+avantge
 ```
 
 ```{tab-item} Remarques
-
+remarques
 ```
-
 ````
 
 ::::{grid}

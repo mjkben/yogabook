@@ -1,5 +1,5 @@
 # §2. La science des postures
-## Introductiopn test
+## Introductiopn 
 ### Les origines
 
 Dans le yoga, lorsqu’on commence à évoquer les postures, elles sont généralement composées en deux ou trois mots et,
