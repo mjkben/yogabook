@@ -169,7 +169,7 @@ L'héritage du yoga est riche et détaillé, offrant un impact profond sur le ph
 
 ## Les Asanas de relaxation
 
-### La relaxation : un art subtil
+### La relaxation : Un art subtil
 
 Au cœur de notre pratique du yoga, il y a les asanas de relaxation, les premières marches sur l'échelle de la tranquillité intérieure. Contrairement aux postures dynamiques, qui sollicitent notre énergie et notre force physique, les asanas de relaxation nous invitent à relâcher, à laisser s'échapper les tensions accumulées. Ne les sous-estimez pas ; ces postures sont les clés pour ouvrir les portes de la détente profonde, à pratiquer sans modération avant et après les asanas prolongés, ou dès que la fatigue pointe son nez.
 
@@ -184,7 +184,7 @@ Ces asanas, véritables balsamiques pour la colonne vertébrale, les muscles et 
 ### Shavasana: Pose du cadavre
 
 
-```{figure} ./images/01-01_shavasana.jpg
+```{figure} ../pictures/01/01-01_shavasana.jpg
 ---
 figclass: margin
 scale: 50%
@@ -247,7 +247,7 @@ de travail ou juste avant de dormir.
 
 ### Advasana: Pose de la détente absolue
 
-```{figure} ./images/01-02_advasana.jpg
+```{figure} ../pictures/01/01-02_advasana.jpg
 ---
 figclass: margin
 scale: 50%
@@ -301,7 +301,7 @@ Advasana, bien plus qu'une simple posture, est une invitation à renouer avec le
 
 ### Jyestikasana: Posture supérieure
 
-```{figure} ./images/01-03_Jyestikasana.jpg
+```{figure} ../pictures/01/01-03_Jyestikasana.jpg
 ---
 figclass: margin
 scale: 50%
@@ -335,8 +335,8 @@ Cet asana peut également être effectué avec les doigts des deux mains imbriqu
 ```
 ````
 
-### Makarasana: posture du crocodile
-```{figure} ./images/01-04_makarasana.jpg
+### Makarasana: Posture du crocodile
+```{figure} ../pictures/01/01-04_makarasana.jpg
 ---
 figclass: margin
 scale: 50%
@@ -387,7 +387,7 @@ Les personnes avec des problèmes de dos chroniques devraient éviter cette post
 Matsya Kridasana, ou la posture du poisson qui joue, est un peu comme la version yoga de "faire le mort" pour les poissons, sauf que vous êtes sur la terre ferme et il y a zéro chance de gagner un Oscar pour cette performance. Imaginez un poisson qui se dandine sur le rivage, cherchant désespérément son téléphone pour appeler un Uber de retour à l'océan. C'est vous, allongé sur le ventre, une jambe pliée comme si vous essayiez de capter le Wi-Fi avec votre pied. Ce n'est pas la posture la plus gracieuse du répertoire yoga, mais c'est certainement l'une des plus bénéfiques. En plus d'étirer vos intestins jusqu'à ce qu'ils se décident enfin à vous remercier, elle promet de soulager vos maux de dos d'une manière que même la position "affalé sur le canapé" ne pourrait égaler. Préparez-vous à plonger dans une relaxation profonde, à moins que l'idée de ressembler à un poisson hors de l'eau ne vous fasse trop gigoter.
 
 
-```{figure} ./images/01-05_Matsya-kridasana.jpg
+```{figure} ../pictures/01/01-05_Matsya-kridasana.jpg
 ---
 figclass: margin
 scale: 50%
@@ -448,7 +448,7 @@ que par ceux en convalescence ou présentant des conditions de maladie.
 Elle ne doit jamais être ignorée ou traitée avec désinvolture simplement
 parce que les pratiques sont simples, douces et confortables.
 
-### Signification
+**Signification**
 
 En sanskrit, ces pratiques sont appelées sukshma vyayama, signifiant
 \'exercice subtil\'. Le mot pawan signifie \'vent\' ou \'prana\'; mukta
@@ -467,7 +467,7 @@ et empêche la formation de nouveaux. De cette manière, elle favorise la
 santé totale, régulant et stabilisant le flux d\'énergie à travers le
 corps.
 
-### Aspect corps-esprit
+**Aspect corps-esprit**
 
 La plupart des maladies modernes sont de nature psychosomatique. Le
 traitement médicamenteux de ces maux est seulement symptomatique et ne
@@ -483,7 +483,7 @@ l\'esprit, accordent les nerfs autonomes, les fonctions hormonales et
 les activités des organes internes. Par conséquent, ces asanas ont une
 grande valeur préventive et curative.
 
-### LEs trois groupes
+**Les trois groupes**
 
 Pawanmuktasana est divisée en trois groupes distincts d\'asanas : 
 

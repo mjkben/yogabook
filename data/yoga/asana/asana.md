@@ -30,7 +30,7 @@ Voilà pourquoi il y a autant de postures de yoga que d’animaux sur terre.
 
 ```{tab-item} Posture
 
-```{figure} ./images/img-shavasana.jpg
+```{figure} ../pictures/01/img-shavasana.jpg
 ---
 height: 150px
 name: directive-fig

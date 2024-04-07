@@ -2,7 +2,7 @@
 
 ## Shavasana
 
-```{figure} ./images/01-01_shavasana.jpg
+```{figure} ../pictures/01/01-01_shavasana.jpg
 ---
 figclass: margin
 scale: 50%
