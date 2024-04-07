@@ -451,37 +451,21 @@ parce que les pratiques sont simples, douces et confortables.
 **Signification**
 
 En sanskrit, ces pratiques sont appelées sukshma vyayama, signifiant
-\'exercice subtil\'. Le mot pawan signifie \'vent\' ou \'prana\'; mukta
-signifie \'libération\' et asana signifie \'posture\'. Ainsi,
-pawanmuktasana signifie également un groupe d\'asanas qui éliminent les
-blocages empêchant la libre circulation de l\'énergie dans le corps et
-l\'esprit. Parfois, en raison d\'une mauvaise posture, de fonctions
-corporelles perturbées, de problèmes psychologiques ou émotionnels ou
-d\'un mode de vie déséquilibré, l\'énergie devient bloquée. Cela résulte
-initialement en raideur, tension musculaire, manque de circulation
-sanguine appropriée et défauts fonctionnels mineurs. Cependant, si ces
-blocages deviennent chroniques, un membre, une articulation ou un organe
-physique peut mal fonctionner, échouer ou tomber malade. La pratique
-régulière de pawanmuktasana élimine les blocages énergétiques du corps
-et empêche la formation de nouveaux. De cette manière, elle favorise la
-santé totale, régulant et stabilisant le flux d\'énergie à travers le
+\'exercice subtil\'. Le mot Pawanmuktasana se découpe en:
+
+**pawan** signifie \'vent\' ou \'prana\'
+
+**mukta** signifie \'libération\'
+
+**asana** signifie \'posture\'. 
+
+Ainsi, pawanmuktasana signifie également un groupe d\'asanas qui éliminent les blocages empêchant la libre circulation de l\'énergie dans le corps et l\'esprit. Parfois, en raison d\'une mauvaise posture, de fonctions corporelles perturbées, de problèmes psychologiques ou émotionnels ou d\'un mode de vie déséquilibré, l\'énergie devient bloquée. Cela résulte initialement en raideur, tension musculaire, manque de circulation sanguine appropriée et défauts fonctionnels mineurs. Cependant, si ces
+blocages deviennent chroniques, un membre, une articulation ou un organe physique peut mal fonctionner, échouer ou tomber malade. La pratique régulière de pawanmuktasana élimine les blocages énergétiques du corpset empêche la formation de nouveaux. De cette manière, elle favorise la santé totale, régulant et stabilisant le flux d\'énergie à travers le
 corps.
 
 **Aspect corps-esprit**
 
-La plupart des maladies modernes sont de nature psychosomatique. Le
-traitement médicamenteux de ces maux est seulement symptomatique et ne
-touche pas les racines de la maladie. Ces asanas, si effectuées
-correctement, dans une atmosphère non compétitive et détendue, non
-seulement détendent les muscles du corps mais ces impulsions relaxantes
-remontent au cerveau et détendent l\'esprit. En intégrant la
-synchronisation de la respiration et la conscience, la faculté attentive
-de l\'esprit est activée et n\'est pas laissée à vagabonder dans la
-tension et le stress. La nature de ces asanas est donc plus mentale que
-physique. Si elles sont exécutées correctement, elles détendent
-l\'esprit, accordent les nerfs autonomes, les fonctions hormonales et
-les activités des organes internes. Par conséquent, ces asanas ont une
-grande valeur préventive et curative.
+La plupart des maladies modernes sont de nature psychosomatique. Le traitement médicamenteux de ces maux est seulement symptomatique et ne touche pas les racines de la maladie. Ces asanas, si effectuées correctement, dans une atmosphère non compétitive et détendue, non seulement détendent les muscles du corps mais ces impulsions relaxantes remontent au cerveau et détendent l\'esprit. En intégrant la synchronisation de la respiration et la conscience, la faculté attentive de l\'esprit est activée et n\'est pas laissée à vagabonder dans la tension et le stress. La nature de ces asanas est donc plus mentale que physique. Si elles sont exécutées correctement, elles détendent l\'esprit, accordent les nerfs autonomes, les fonctions hormonales et les activités des organes internes. Par conséquent, ces asanas ont une grande valeur préventive et curative.
 
 **Les trois groupes**
 
@@ -491,17 +475,17 @@ Pawanmuktasana est divisée en trois groupes distincts d\'asanas :
 2. le groupe digestif/abdominal 
 3. le groupe shakti bandha ou blocage énergétique. 
 
-Les trois groupes se complètent,
-stimulant et encourageant une libre circulation de l\'énergie à travers
-le corps. Il est conseillé aux pratiquants de maîtriser chaque groupe
-avant de tenter les asanas majeurs.
+Les trois groupes se complètent, stimulant et encourageant une libre circulation de l\'énergie à travers le corps. Il est conseillé aux pratiquants de maîtriser chaque groupe avant de tenter les asanas majeurs.
 
-La pratique quotidienne des parties 1, 2 et 3 de pawanmuktasana sur une
-période de mois apporte une relaxation profonde et un tonus de toute la
-structure psycho-physiologique nécessaire à la pratique des techniques
-avancées. Les asanas avancés sont souvent physiquement exigeants et ont
-un effet puissant sur le corps et l\'esprit. Il est essentiel de
+La pratique quotidienne des parties 1, 2 et 3 de pawanmuktasana sur une période de mois apporte une relaxation profonde et un tonus de toute la structure psycho-physiologique nécessaire à la pratique des techniques avancées. Les asanas avancés sont souvent physiquement exigeants et ont un effet puissant sur le corps et l\'esprit. Il est essentiel de
 respecter cela et de se préparer correctement.
 
-Les asanas de chaque groupe doivent être exécutées dans l\'ordre
-indiqué.
+
+```{note}
+Les asanas de chaque groupe doivent être exécutées dans l\'ordre indiqué.
+```
+
+```{warning}
+Les rares contre-indications sur les asanas préparatoires seront précisées au cas par cas
+```
+

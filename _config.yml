@@ -99,15 +99,15 @@ html:
   baseurl                   : ""    # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/ ou "/mon-projet" # le sous-dossier relatif à votre site, si nécessaire
   url                     : ""      # l'URL de votre site
   analytics:
-  extra_navbar: |
-        <div>
-            Crée par <a href="https://perso.univ-lyon1.fr/marc.buffat/">Marc BUFFAT</a><br> avec <a href="https://jupyterbook.org">Jupyter Book</a>
-        </div>
+  #extra_navbar: |
+  #      <div>
+  #          Crée par <a href="https://perso.univ-lyon1.fr/marc.buffat/">Marc BUFFAT</a><br> avec <a href="https://jupyterbook.org">Jupyter Book</a>
+  #      </div>
 
-#  extra_footer: |
-#        <div>
-#            Crée par <a href="https://samkhya.benard.cloud">Marie-jacques BENARd</a>
-#        </div>
+  #extra_footer: |
+  #      <div>
+  #          Crée par <a href="https://samkhya.benard.cloud">Marie-jacques BENARd</a>
+  #      </div>
 
   comments:
     hypothesis              : true

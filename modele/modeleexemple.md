@@ -141,7 +141,12 @@ My second tab with `some code`!
 An "extra credit" exercise is presented here.
 ```
 
+# Heading Level 1
+## Heading Level 2
 ### Heading Level 3
+#### Heading Level 4
+#### Heading Level 5
+##### Heading Level 6
 
 Try changing the number of `#`s to $n$[^math] to change the **depth** of the _heading_.
 
