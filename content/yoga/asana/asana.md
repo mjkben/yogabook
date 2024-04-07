@@ -481,6 +481,15 @@ La pratique quotidienne des parties 1, 2 et 3 de pawanmuktasana sur une période
 respecter cela et de se préparer correctement.
 
 
+**Dans les temps reculés, Pawanmuktasana était souvent considéré comme une série éliminatoire.** Si l'ensemble des exercices n'était pas correctement exécutés, le disciple était purement et simplement renvoyé. C'est vous dire que le yoga le considère comme un pré-requis obligatoire.
+
+**Dans le yoga actuellement enseigné en Inde, le Pawanmuktasana poursuit un double objectif :**
+- Les nombreuses séries d'exercices permettent immédiatement de diagnostiquer des maux ou un problème latent, on dirige dès lors le pratiquant vers d'autres disciplines chargées de comprendre et traiter son mal ;
+- S'assurer de la capacité du pratiquant à ralentir ses fonctions motrices et sa prise de conscience, c'est à dire passer d'une logique sportive vers une logique de détente et de relâchement (figurez-vous que ce n'est pas aussi trivial qu'il n'y paraît).
+
+Lorsque ces deux objectifs ont été atteints, le pratiquant peut alors poursuivre.
+
+
 ```{note}
 Les asanas de chaque groupe doivent être exécutées dans l\'ordre indiqué.
 ```
@@ -488,4 +497,278 @@ Les asanas de chaque groupe doivent être exécutées dans l\'ordre indiqué.
 ```{warning}
 Les rares contre-indications sur les asanas préparatoires seront précisées au cas par cas
 ```
+## Série 1 : Groupe anti-rhumatismal
 
+**Le groupe d’asanas de la première série se focalise sur le relâchement des articulations du corps.** Il est excellent pour ceux qui souffrent de rhumatisme, d’hypertension artérielle, problèmes cardiaques ou des maladies ou un effort physique intense n’est pas conseillé. Il est particulièrement utile pour éliminer les blocages énergétiques dans les articulations et les extrémités extérieures du corps physique, et fonctionne aussi bien sur les corps praniques et mentaux.
+
+**Sur le plan de la conscience, il y a trois approches pour réaliser cette série :**
+- **Conscience du mouvement physique (ex : à la fin d’une épreuve sportive, jogging, marche, natation etc.)** Sentir les interactions entre les différentes composantes du corps : les os, les articulations, les ligaments, les muscles, et les mouvements synchronisés avec le comptage mental de chaque exercice. Cette approche se traduit par une harmonie dans le corps physique.
+- **Conscience de la respiration en plus du mouvement physique** Chaque exercice est synchronisé avec le souffle, ainsi les mouvements deviennent plus lents, ce qui ralentit les ondes cérébrales, entraînant une relaxation plus profonde. Cette approche stimule en plus le niveau pranique et est particulièrement utile pour harmoniser et revitaliser le corps et améliorer la fonction des organes internes.
+- **Conscience du mouvement du prana dans le corps** Cette prise de conscience est la plus intéressante d’un point de vue yogique. Le Prana peut être ressenti comme une sensation de picotement dans le corps auquel on devient sensible par la pratique.
+
+**Dès que vous sentez une fatigue ou une gêne, asseyez-vous tranquillement dans la position de base (description sur la prochaine planche) avec les yeux fermés et soyez conscient du souffle naturel et de la partie ou des parties du corps qui viennent d'être sollicitées.**
+Au bout de 30 secondes, continuez la pratique. Cette pause périodique reposera le corps mais développera également la conscience des schémas énergétiques internes et des processus mental et émotionnel.
+
+**Cette phase de repos est presque aussi importante que les asanas eux-mêmes et ne doit surtout pas être négligée.**
+Si vous ressentez de la fatigue à n'importe quel moment d’un asana, prenez une posture de relaxation, exemple posture shavasana (posture du cadavre) pendant trois à cinq minutes. Dans tous les cas, n'oubliez pas de finir le cycle préparatoire avec une posture de relaxation.
+
+### Prarambhik Sthiti (Position de base)
+
+**Tous les exercices de cette série sont exécutés assis sur le sol en position de base (voir schéma).** Le corps doit être détendu et seuls les muscles associés à l’asana en cours d’exécution doivent être sollicités.
+
+- **Asseyez-vous avec les jambes tendues.**
+- **Placez les paumes des mains sur le sol sur les côtés et juste derrière les fesses, les doigts vers l’arrière.**
+- **Le dos, le cou et la tête doivent être droits.**
+- **Redressez les coudes.**
+- **Penchez-vous légèrement en arrière en prenant appui sur les bras.**
+- **Fermez les yeux et détendez tout le corps dans cette position.**
+
+### Exercice N° 1 : Padanguli Naman (Pliez les orteils)
+
+**Pratique : Position de base - répétition conseillée : 10 fois**
+Bougez lentement les orteils des deux pieds en arrière et en avant, en gardant les pieds en position verticale et les chevilles détendues et immobiles.
+
+**Respiration :**
+- **Inspirez** lorsque les orteils reculent.
+- **Expirez** pendant que les orteils avancent.
+
+**Conscience :**
+Sur le souffle, le comptage mental et la sensation d'étirement produite par le mouvement.
+
+### Exercice N° 2: Goolf Naman (Pliez Les Chevilles)
+
+**Pratique : Position de base - répétition conseillée : 10 fois**
+Déplacez lentement les deux pieds en arrière et en avant. Essayez d'étirer les pieds en avant jusqu'à toucher le sol puis les ramener vers les genoux.
+
+**Respiration :**
+- **Inspirez** lorsque les pieds reculent.
+- **Expirez** pendant que les pieds avancent.
+
+**Conscience :**
+Sur le souffle, le comptage mental et l'étirement dans les muscles ou les articulations du pied, de la cheville, du mollet et de la jambe.
+
+
+### Exercice N° 3 : Goolf Chakra (Rotation De La Cheville)
+
+**Pratique : Position de base - répétition conseillée : 10 fois**
+Sur l’axe de la cheville, faites lentement tourner le pied droit dans le sens des aiguilles d'une montre, puis dans le sens inverse. Répétez avec le pied gauche.
+
+**Variante A :** Idem avec cette fois-ci les pieds joints.
+
+**Variante B :** Idem avec pieds séparés, rotation de l’ensemble mais en sens opposé, de telle sorte que les orteils se touchent lors de la course intérieure.
+
+**Respiration :**
+- **Inspirez** sur le mouvement ascendant.
+- **Expirez** sur le mouvement descendant.
+
+**Conscience :**
+Sur le souffle, le comptage mental et l'étirement.
+
+
+```{note}
+Bénéfices des asanas sur les pieds et mollets
+Tous les asanas aux pieds et aux mollets contribuent au retour veineux et font circuler la lymphe stagnante.
+Ils soulagent donc fatigue et crampes, et préviennent la thrombose veineuse.
+```
+
+### Exercice N° 5 : Janufalak Akarshan (Contraction De La Rotule)
+
+**Pratique : Position de base - répétition conseillée : 5 fois**
+Contractez le muscle entourant le genou droit en ramenant la rotule en arrière vers la cuisse. Tenez la contraction pendant 3 à 5 secondes, en comptant mentalement. Relâchez la contraction et laissez la rotule revenir à sa position initiale. Répétez avec la rotule gauche.
+
+**Variante A :** Avec les deux rotules ensemble.
+
+**Respiration :**
+- **Inspirez** sur le mouvement ascendant.
+- **Expirez** sur le mouvement descendant.
+
+**Conscience :**
+Sur le souffle, le comptage mental et la contraction des muscles du genou.
+
+
+### Exercice N° 6 : Janu Naman (Pliage Du Genou)
+
+**Pratique : Position de base - répétition conseillée : 10 fois**
+Pliez la jambe droite pour que la cuisse vienne près de la poitrine et le talon près des fesses. Dépliez la jambe droite en soulevant la rotule, gardez les mains sous la cuisse mais redressez les bras. Ne laissez pas le talon ou les orteils toucher le sol. Gardez la tête et la colonne vertébrale droites. Répétez la séquence avec l’autre jambe.
+
+**Respiration :**
+- **Inspirez** en allongeant la jambe.
+- **Expirez** en pliant la jambe.
+
+**Conscience :**
+Sur le souffle, le comptage mental, l'étirement et la synchronisation du mouvement.
+
+
+### Exercice N° 7 : Dwi Janu Naman (Double Pliage Du Genou)
+
+**Pratique : Position de base - répétition conseillée : 5 fois**
+Placez les deux paumes à plat sur le sol sur le côté et légèrement en avant des fesses. Pliez les deux genoux ensemble et placez les pieds sur le sol devant les fesses. Redressez les jambes et soulevez les pieds afin qu'ils soient environ 8 cm au-dessus du sol dans la position finale. Pointez les orteils en avant. Les mains et les bras doivent soutenir et maintenir la stabilité du corps. Essayez de garder la tête et la colonne vertébrale droites. Restez en position pendant une seconde. Pliez les genoux et ramenez les jambes à la position de départ tout en gardant les talons légèrement au-dessus du sol.
+
+**Respiration :**
+- **Inspirez** en allongeant les jambes.
+- **Expirez** en pliant les jambes.
+
+**Conscience :**
+Sur le souffle, le comptage mental, l'étirement et l’équilibre.
+
+**Contre-indications :**
+Pratique contre-indiquée pour les personnes ayant une faiblesse des muscles abdominaux, maux de dos, hypertension artérielle, problèmes cardiaques.
+
+
+### Exercice N° 8 : Janu Chakra (Maniveller Le Genou)
+
+**Pratique : Position de base - répétition conseillée : 10 fois**
+Pliez la jambe droite et posez la main sous la cuisse comme décrit dans l’exercice n° 6. Faites pivoter la jambe à partir du genou dans un grand mouvement circulaire. La cuisse et le tronc doivent être immobiles. Tournez dans le sens des aiguilles d'une montre, puis dans le sens inverse des aiguilles d'une montre. Répétez avec la jambe gauche.
+
+**Respiration :**
+- **Inspirez** sur le mouvement ascendant.
+- **Expirez** sur le mouvement descendant.
+
+**Conscience :**
+Sur le souffle, le comptage mental, le mouvement, et la perfection de la rotation circulaire.
+
+
+```{note}
+**Le genou porte tout le poids du corps et n'a pas de muscles forts pour le soutenir, il est donc plus vulnérable aux blessures, aux entorses et à l'arthrose.** Tous les asanas du genou renforcent le muscle quadriceps et les ligaments autour du genou.
+
+```
+
+### Exercice N° 9 : Ardha Titali Asana (Demi-Papillon)
+
+**Pratique : Position de base - répétition conseillée : 10 fois**
+Pliez la jambe gauche et placez le pied gauche aussi haut que possible sur la cuisse droite. Placez la main gauche sur le genou gauche plié. Tenez les orteils du pied gauche avec la main droite. En inspirant, déplacez doucement le genou gauche vers le haut. En expirant, abaissez doucement le genou au sol. Le tronc ne doit pas bouger. Restez sur vos limites et surtout ne forcez pas sur le mouvement. Les muscles des jambes doivent être passifs, le mouvement étant réalisé par l’effort du bras droit. Effectuez la même séquence avec l’autre jambe.
+
+**Variante :** Effectuez le même exercice sans les bras, uniquement avec la force de vos cuisses.
+
+**Respiration :**
+- **Inspirez** en remontant la jambe.
+- **Expirez** en descendant la jambe.
+
+**Conscience :** Sur les muscles de la cuisse.
+
+**C’est une excellente pratique qui facilite les poses méditatives, notamment pour s'asseoir en lotus ou demi-lotus.**
+
+
+### Exercice 10 : Shroni Chakra (Rotation De La Hanche)
+
+**Pratique : Position de base - répétition conseillée : 10 fois**
+Prenez la posture de l’exercice 9, utilisez votre main pour décrire un cercle sur le genou en effectuant un mouvement circulaire le plus large possible. Redressez la jambe et le genou lentement puis répétez avec l’autre jambe.
+
+**Respiration :**
+- **Inspirez** en remontant la jambe.
+- **Expirez** en descendant la jambe.
+
+**Conscience :**
+Sur la respiration, le comptage mental et la rotation de l'articulation de la hanche.
+
+
+### Exercice 11 : Poorna Titali Asana (Posture Du Papillon)
+
+**Pratique : Position de base - répétition conseillée : 10 fois**
+Pliez les genoux et rapprochez la plante des pieds, gardez les talons aussi près que possible du pubis. Détendez complètement les muscles intérieurs de cuisse et tenez vos pieds avec vos mains.
+
+**Variante A :** Faites descendre doucement les genoux vers le sol (aidez-vous en utilisant les coudes), puis laissez remonter le genou.
+
+**Variante B :** Placez les mains sur les genoux. À l'aide des paumes, poussez doucement les genoux vers le bas puis laissez remonter.
+
+**Respiration :** Respirez normalement.
+
+**Conscience :** Le comptage mental, le mouvement et la détente musculaire.
+
+**Évitez cet asana pour les personnes souffrant de sciatique chronique et de douleurs au niveau du sacrum.**
+
+
+### Exercice 12 : Mushtika Bandhana (Serrage Des Mains)
+
+**Pratique : Position de base - répétition conseillée : 10 fois**
+Tenez les bras bien droits devant le corps au niveau des épaules. Ouvrez les mains, et étirez les doigts aussi éloignés que possible. Fermez les doigts pour faire un poing serré avec les pouces à l'intérieur. La variante pouce à l’extérieur est réalisable aussi. Recommencer la séquence.
+
+**Respiration :**
+- **Inspirez** en ouvrant les mains.
+- **Expirez** en fermant les mains.
+
+**Conscience :** Sur la respiration, le comptage mental, le mouvement et la sensation.
+
+
+### Exercice 13 : Manibandha Naman (Flexion Du Poignet)
+
+**Pratique : Position de base - répétition conseillée : 10 fois**
+Départ identique à l'exercice 12. Pliez les mains en arrière comme si vous appuyiez les paumes contre un mur avec les doigts pointés vers le plafond. Pliez les mains en avant à partir des poignets afin que les doigts pointent vers le sol. Gardez les coudes droits tout au long de la pratique. Ne pliez pas les articulations ni les doigts.
+
+**Respiration :**
+- **Inspirez** avec le mouvement en arrière.
+- **Expirez** avec le mouvement en avant.
+
+**Conscience :** Sur la respiration, le comptage mental, le mouvement et l'articulation du poignet et l'étirement des muscles de l'avant-bras.
+
+
+### Pratique 14 : Manibandha Chakra (Rotation De L'Articulation Du Poignet)
+
+**Pratique : Position de base - répétition conseillée : 10 fois**
+Tendez le bras, poing serré avec le pouce à l'intérieur.
+
+**Variante A :** Un poing à la fois. Faites un cercle aussi grand que possible autour du poignet. Dans un sens puis dans l’autre. Répétez avec l’autre main.
+
+**Variante B :** Tournez les poings ensemble dans le même sens.
+
+**Variante C :** Tournez les poings ensemble dans une direction opposée.
+
+**Respiration :** Sans objet.
+
+**Conscience :** Sans objet.
+
+**Les asanas de la main et du poignet sont bénéfiques pour l'arthrite des articulations liées.** Ils soulagent également la tension causée par l’écriture prolongée, la saisie informatique, etc.
+
+
+### Exercice 15 : Kehuni Naman (Pliage Du Coude)
+
+**Pratique : Position de base - répétition conseillée : 10 fois**
+Les jambes croisées, bras parallèles au sol et coudes à la hauteur des épaules.
+
+**Variante A :** Étirez les bras devant. Pliez les bras aux coudes et touchez les épaules avec le doigt. Redressez les bras à nouveau.
+
+**Variante B :** Étirez les bras latéralement (sur les côtés). Même séquence.
+
+**Variante C :** Étirez les bras vers le haut. Même séquence. Cette fois, inspirez en pliant les bras et expirez en les redressant.
+
+**Respiration :**
+- **Inspirez** en redressant les bras.
+- **Expirez** en pliant les bras.
+
+**Conscience :** Sur la respiration, le comptage mental et le mouvement.
+
+### Exercice 16 : Skandha Chakra (Rotation De L'Épaule)
+
+**Pratique : Position de base - répétition conseillée : 10 fois**
+
+**Variante A :** Un coude à la fois. Placez les doigts de la main droite sur l'épaule droite. Gardez la main gauche sur le genou gauche et le dos droit. Tournez le coude dans un sens, puis le sens contraire. Répétez la séquence avec l’épaule gauche.
+
+**Variante B :** Les deux coudes en même temps. Placez les doigts comme sur la figure. Faites pivoter complètement les deux coudes en même temps en formant un grand cercle. Essayez de toucher les coudes devant la poitrine à l'avant et les oreilles avec les coudes en mouvement arrière. Cycle dans un sens, puis le sens contraire.
+
+**Respiration :**
+- **Inspirez** sur le mouvement ascendant.
+- **Expirez** sur le mouvement descendant.
+
+**Les asanas soulagent les épaules en cas de posture statique (conduite, au bureau...), et sont utiles pour lutter contre le raidissement des épaules et des cervicales.** Ils contribuent aussi à maintenir une bonne stature aux épaules.
+
+### Exercice 17 : Greeva Sanchalana (Mouvements Du Cou)
+
+**Pratique : Position de base - répétition conseillée : 10 fois**
+
+**Variante A :** Tête droite, les mains posées sur les genoux. Fermez les yeux, touchez la poitrine avec le menton puis retour à la position initiale.
+
+**Variante B :** Yeux fermés, épaules fixes et détendues. Bougez lentement la tête vers la droite et essayez de toucher l'oreille droite sur l'épaule droite. Déplacez la tête vers la gauche et essayez de toucher l'oreille gauche sur l'épaule gauche.
+
+**Variante C :** Tête droite, yeux fermés. Tournez doucement la tête vers la droite pour que le menton soit aligné à l'épaule. Tournez lentement la tête vers la gauche, menton et épaule alignés.
+
+**Variante D :** Tournez lentement la tête vers le bas, vers la droite, vers l'arrière puis sur le côté gauche de manière détendue, suivant un mouvement circulaire en douceur.
+
+**Respiration :**
+- Variante A : **Inspirez** sur le mouvement arrière. **Expirez** sur le mouvement avant.
+- Variante B : **Inspirez** sur le mouvement ascendant. **Expirez** sur le mouvement descendant.
+- Variante C : **Inspirez** en revenant vers le centre. **Expirez** en vous tournant vers le côté.
+- Variante D : **Inspirez** sur le mouvement ascendant. **Expirez** sur le mouvement descendant.
+
+**Avantages :** Les nerfs reliant les organes et les membres passent à travers le cou. Par conséquent, les muscles du cou et des épaules accumulent toutes les tensions. Ces 4 asanas relâchent la tension, la lourdeur et la raideur dans la tête, le cou et les épaules.
+
+**Contre-indications :** Ces quatre mouvements du cou ne doivent pas être exécutés par des personnes âgées et les personnes souffrant d’hypotension ou d’hypertension artérielle extrême. Dans ce cas, l'avis du corps médical devrait être recherché avant l'exécution de ces mouvements.
