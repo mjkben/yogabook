@@ -2,14 +2,13 @@
 
 ## Shavasana
 
-```{figure} ../00pictures/01/01-01_shavasana.jpg
+```{figure} ../content/yoga/00pictures/01/01-01_SHAVASANA.jpg
 ---
 figclass: margin
-scale: 50%
-height: 150px
-name: directive-fig3
+
+name: shvasana-model
 ---
-Shavasana
+Shavasana-model
 ```
 
 ````{tab-set}

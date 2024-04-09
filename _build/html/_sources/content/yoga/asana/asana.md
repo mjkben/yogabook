@@ -593,7 +593,7 @@ Sur l’axe de la cheville, faites lentement tourner le pied droit dans le sens 
 Sur le souffle, le comptage mental et l'étirement.
 
 
-### Exercice n° 4 : Goolf ghoornan (maniveller la cheville)
+### Exercice n° 4 : Goolf ghoornan (Maniveller la cheville)
 ```{figure} ../00pictures/01/01-10_GOOLF-GHOORNAN.jpg
 ---
 figclass: margin
@@ -799,7 +799,7 @@ Départ identique à l'exercice 12. Pliez les mains en arrière comme si vous ap
 **Conscience :** Sur la respiration, le comptage mental, le mouvement et l'articulation du poignet et l'étirement des muscles de l'avant-bras.
 
 
-### Pratique 14 : Manibandha Chakra (Rotation De L'articulation Du poignet)
+### Pratique 14 : Manibandha Chakra (Rotation De L'articulation du poignet)
 ```{figure} ../00pictures/01/01-20_MANIBANDHA-CHAKRA.jpg
 ---
 figclass: margin
@@ -846,7 +846,7 @@ Les jambes croisées, bras parallèles au sol et coudes à la hauteur des épaul
 
 **Conscience :** Sur la respiration, le comptage mental et le mouvement.
 
-### Exercice 16 : Skandha Chakra (Rotation De L'epaule)
+### Exercice 16 : Skandha Chakra (Rotation de L'épaule)
 ```{figure} ../00pictures/01/01-22_SKANDHA-CHAKRA.jpg
 ---
 figclass: margin
@@ -866,7 +866,7 @@ SKANDHA CHAKRA
 
 **Les asanas soulagent les épaules en cas de posture statique (conduite, au bureau...), et sont utiles pour lutter contre le raidissement des épaules et des cervicales.** Ils contribuent aussi à maintenir une bonne stature aux épaules.
 
-### Exercice 17 : Greeva Sanchalana (Mouvements Du Cou)
+### Exercice 17 : Greeva Sanchalana (Mouvements du cou)
 
 **Pratique : Position de base - répétition conseillée : 10 fois**
 
