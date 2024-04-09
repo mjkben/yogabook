@@ -78,7 +78,7 @@ En abordant ces idées reçues, j'espére éclaircir certaines confusions et enc
 
 ## Les origines et la philosophie
 
-```{figure} ../pictures/00/00_01-mohenjo-daro.png
+```{figure} ../00pictures/00/00_01-mohenjo-daro.png
 ---
 figclass: margin
 alt: mohenjodaro
@@ -251,7 +251,7 @@ Après une séance, si vous ne vous sentez pas apaisé, heureux, calme, et en ac
 ## Le corps: une poupée russe
 ### Les fonctions du corps physique
 
-```{figure} ../pictures/00/00_03-fonction-corps-physique.png
+```{figure} ../00pictures/00/00_03-fonction-corps-physique.png
 ---
 figclass: margin
 alt: fct-corps-physique
@@ -322,7 +322,7 @@ Il est intéressant de noter que le corps physique ne représente que 10% de not
 Le yoga nous offre une gamme complète d'outils destinés à faciliter cette quête. Contrairement à une idée reçue, l'objectif du yoga ne se limite pas à accroître la flexibilité et la malléabilité du corps physique. Bien que ces aspects soient visibles et bénéfiques, l'impact le plus significatif du yoga s'opère dans les autres dimensions, principalement sur la dimension astrale. C'est la raison pour laquelle le processus est souvent décrit comme un « travail subtil », soulignant ainsi l'importance de s'engager dans cette pratique avec une compréhension approfondie de ses effets multidimensionnels.
 
 ### La connexion des corps 
-```{figure} ../pictures/00/00_04-corps-sept-canaux-energie.png
+```{figure} ../00pictures/00/00_04-corps-sept-canaux-energie.png
 ---
 figclass: margin
 alt: sept-canaux energie
@@ -335,7 +335,7 @@ Après avoir exploré le *comment* et le *domaine d'action*, une question se pos
 
 Chaque couche de notre être est en lien direct avec un centre d'énergie majeur, connu sous le nom de **chakra**, un terme sanskrit signifiant *roue*. Bien que notre structure énergétique comprenne des centaines de chakras, sept d'entre eux se démarquent particulièrement. Ils sont alignés le long de la colonne vertébrale et agissent comme des hubs énergétiques majeurs. Ces chakras majeurs sont connectés à des milliers de canaux énergétiques, appelés **nadis**, qui s'étendent à travers tout le corps. C'est à travers ces nadis que circule le **prana**, ou souffle vital, essentiel à notre bien-être et à notre vitalité.
 
-```{figure} ../pictures/00/00_05-sept-chakra.png
+```{figure} ../00pictures/00/00_05-sept-chakra.png
 ---
 figclass: margin
 alt: sept-chakra
@@ -371,7 +371,7 @@ Examinons ces centres énergétiques en détail.
 
 ### Mooladhara Chakra
 
-```{figure} ../pictures/00/00_06-mooladhara.png
+```{figure} ../00pictures/00/00_06-mooladhara.png
 ---
 figclass: margin
 alt: Mooladhara-chakra
@@ -409,7 +409,7 @@ La pratique ultime du yoga vise à réveiller l'énergie kundalini présente dan
 
 ### Svadhisthana Chakra
 
-```{figure} ../pictures/00/00_07-svadhisthana.png
+```{figure} ../00pictures/00/00_07-svadhisthana.png
 ---
 figclass: margin
 alt: Svadhisthana-chakra
@@ -440,7 +440,7 @@ Localisé dans l'axe de la colonne vertébrale, ce chakra se trouve précisémen
 
 
 ### Manipura Chakra
-```{figure} ../pictures/00/00_08-manipura.png
+```{figure} ../00pictures/00/00_08-manipura.png
 ---
 figclass: margin
 alt: Manipura-chakra
@@ -475,7 +475,7 @@ La réflexion sur les réactions corporelles à la peur souligne l'importance du
 ```
 
 ### Anahata Chakra
-```{figure} ../pictures/00/00_09-anahata.png
+```{figure} ../00pictures/00/00_09-anahata.png
 ---
 figclass: margin
 alt: Anahata-chakra
@@ -509,7 +509,7 @@ L'Anahata joue un rôle essentiel dans le développement des qualités d'amour, 
 
 
 ### Vishuddha Chakra
-```{figure} ../pictures/00/00_10-vishuddha.png
+```{figure} ../00pictures/00/00_10-vishuddha.png
 ---
 figclass: margin
 alt: Vishuddha-chakra
@@ -542,7 +542,7 @@ Le Chakra Vishuddha joue un rôle fondamental dans notre capacité à communique
 
 
 ### Ajna Chakra
-```{figure} ../pictures/00/00_11-ajna.png
+```{figure} ../00pictures/00/00_11-ajna.png
 ---
 figclass: margin
 alt: Ajna-chakra
@@ -576,7 +576,7 @@ Le Chakra Ajna est essentiel pour développer une compréhension profonde de soi
 ```
 
 ### Sahasrara Chakra
-```{figure} ../pictures/00/00_12-sahasrara.png
+```{figure} ../00pictures/00/00_12-sahasrara.png
 ---
 figclass: margin
 alt: Sahasrara-chakra
@@ -615,7 +615,7 @@ Le Chakra Sahasrara symbolise le point culminant de la quête spirituelle, où l
 ### Tableau de correspondance
 Chaque chakra principal, au nombre de sept, est en correspondance avec une tonalité musicale distincte, un élément naturel, un sens humain spécifique et une glande endocrine déterminée, en plus d'être connecté à des organes particuliers dans notre corps. Ces centres énergétiques sont aussi associés à des actions exprimées par des verbes, qui reflètent les aspects psychologiques et émotionnels régis par ces chakras.
 
-```{figure} ../pictures/00/00_13-tableauchakra.png
+```{figure} ../00pictures/00/00_13-tableauchakra.png
 ---
 alt: Tableauchakra-chakra
 name: Tableauchakra-chakra
@@ -642,7 +642,7 @@ Les dysfonctionnements chakriques mettent en lumière l'importance de maintenir 
 ```
 
 ### Relation chakras-corps-energie
-```{figure} ../pictures/00/00_14-relationchakracorpsenergie.png
+```{figure} ../00pictures/00/00_14-relationchakracorpsenergie.png
 ---
 figclass: margin
 alt: Relationchakracorpsenergie
@@ -705,7 +705,7 @@ La compréhension de ces concepts clés ouvre la porte à une exploration plus p
 
 Dans le contexte des enseignements yogiques, l'activation des nadis Sushumna, Ida, et Pingala joue un rôle crucial dans la circulation de l'énergie Kundalini. Lorsque le canal Sushumna est inactif, les nadis Ida et Pingala prennent le relais, guidant les deux manifestations de la Kundalini à travers des parcours distincts.
 
-```{figure} ../pictures/00/00_15-idapingala.png
+```{figure} ../00pictures/00/00_15-idapingala.png
 ---
 figclass: margin
 alt: Ida-pingala

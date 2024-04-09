@@ -11,7 +11,7 @@
 
 
 
-```{figure} pictures/namaste4.png
+```{figure} 00pictures/namaste4.png
 ---
 width: 50%
 alt: Namaste4
@@ -19,7 +19,7 @@ name: Namaste4
 align: center
 ---
 ```
-```{figure} pictures/namaste1.png
+```{figure} 00pictures/namaste1.png
 ---
 alt: Namaste1
 name: Namaste1

@@ -1,4 +1,8 @@
 # §2. La science des postures
+```{contents}
+:local:
+:depth: 2
+```
 ## Introduction 
 ### Les origines
 
@@ -184,14 +188,14 @@ Ces asanas, véritables balsamiques pour la colonne vertébrale, les muscles et 
 ### Shavasana: Pose du cadavre
 
 
-```{figure} ../pictures/01/01-01_shavasana.jpg
+```{figure} ../00pictures/01/01-01_SHAVASANA.jpg
 ---
 figclass: margin
 scale: 50%
-height: 150px
-name: directive-fig
+height: 160px
+name: SHAVASANA
 ---
-Shavasana
+SHAVASANA
 ```
 Shavasana, aussi connu sous le nom de "la posture du cadavre", est cette partie du cours de yoga où vous pouvez enfin prouver à tous que oui, vous pouvez vous allonger au sol sans dormir (ou du moins, essayer). Cette posture, bien qu’elle semble être l’excuse parfaite pour une sieste rapide, est en réalité un moment crucial pour intégrer tous les bienfaits de votre pratique. C’est un peu comme appuyer sur "sauvegarder" après avoir travaillé pendant des heures sur un document important, sauf que là, ce sont vos muscles et votre esprit que vous sauvegardez. Shavasana est votre chance de vous étendre là, immobile, en essayant de ne penser à rien, tout en combattant l’envie irrépressible de planifier votre dîner ou de composer mentalement des emails. Alors oui, même si ça ressemble à une pause bien méritée, c’est en fait un exercice de haute voltige pour l’esprit. Mais ne vous inquiétez pas, avec un peu de pratique, vous pourriez même réussir à ne pas ronfler devant tout le monde.
 
@@ -247,14 +251,14 @@ de travail ou juste avant de dormir.
 
 ### Advasana: Pose de la détente absolue
 
-```{figure} ../pictures/01/01-02_advasana.jpg
+```{figure} ../00pictures/01/01-02_ADVASANA.jpg
 ---
 figclass: margin
 scale: 50%
-height: 150px
-name: Advasana
+height: 160px
+name: ADVASANA
 ---
-Advasana
+ADVASANA
 ```
 
 
@@ -301,14 +305,14 @@ Advasana, bien plus qu'une simple posture, est une invitation à renouer avec le
 
 ### Jyestikasana: Posture supérieure
 
-```{figure} ../pictures/01/01-03_Jyestikasana.jpg
+```{figure} ../00pictures/01/01-03_JYESTIKASANA.jpg
 ---
 figclass: margin
 scale: 50%
-height: 150px
-name: Jyestikasana
+height: 160px
+name: JYESTIKASANA
 ---
-Jyestikasana
+JYESTIKASANA
 ```
 
 ````{tab-set}
@@ -336,14 +340,14 @@ Cet asana peut également être effectué avec les doigts des deux mains imbriqu
 ````
 
 ### Makarasana: Posture du crocodile
-```{figure} ../pictures/01/01-04_makarasana.jpg
+```{figure} ../00pictures/01/01-04_MAKARASANA.jpg
 ---
 figclass: margin
 scale: 50%
-height: 150px
-name: Makarasana
+height: 160px
+name: MAKARASANA
 ---
-Makarasana
+MAKARASANA
 ```
 
 ````{tab-set}
@@ -387,14 +391,14 @@ Les personnes avec des problèmes de dos chroniques devraient éviter cette post
 Matsya Kridasana, ou la posture du poisson qui joue, est un peu comme la version yoga de "faire le mort" pour les poissons, sauf que vous êtes sur la terre ferme et il y a zéro chance de gagner un Oscar pour cette performance. Imaginez un poisson qui se dandine sur le rivage, cherchant désespérément son téléphone pour appeler un Uber de retour à l'océan. C'est vous, allongé sur le ventre, une jambe pliée comme si vous essayiez de capter le Wi-Fi avec votre pied. Ce n'est pas la posture la plus gracieuse du répertoire yoga, mais c'est certainement l'une des plus bénéfiques. En plus d'étirer vos intestins jusqu'à ce qu'ils se décident enfin à vous remercier, elle promet de soulager vos maux de dos d'une manière que même la position "affalé sur le canapé" ne pourrait égaler. Préparez-vous à plonger dans une relaxation profonde, à moins que l'idée de ressembler à un poisson hors de l'eau ne vous fasse trop gigoter.
 
 
-```{figure} ../pictures/01/01-05_Matsya-kridasana.jpg
+```{figure} ../00pictures/01/01-05_MATSYA-KRIDASANA.jpg
 ---
 figclass: margin
 scale: 50%
-height: 150px
-name: Matsya kridasana
+height: 160px
+name: MATSYA KRIDASANA
 ---
-Matsya kridasana
+MATSYA KRIDASANA
 ```
 ````{tab-set}
 
@@ -513,7 +517,13 @@ Au bout de 30 secondes, continuez la pratique. Cette pause périodique reposera 
 Si vous ressentez de la fatigue à n'importe quel moment d’un asana, prenez une posture de relaxation, exemple posture shavasana (posture du cadavre) pendant trois à cinq minutes. Dans tous les cas, n'oubliez pas de finir le cycle préparatoire avec une posture de relaxation.
 
 ### Prarambhik Sthiti (Position de base)
-
+```{figure} ../00pictures/01/01-06_PRARAMBHIK-STHITI.jpg
+---
+figclass: margin
+name: PRARAMBHIK STHITI
+---
+PRARAMBHIK STHITI
+```
 **Tous les exercices de cette série sont exécutés assis sur le sol en position de base (voir schéma).** Le corps doit être détendu et seuls les muscles associés à l’asana en cours d’exécution doivent être sollicités.
 
 - **Asseyez-vous avec les jambes tendues.**
@@ -524,7 +534,13 @@ Si vous ressentez de la fatigue à n'importe quel moment d’un asana, prenez un
 - **Fermez les yeux et détendez tout le corps dans cette position.**
 
 ### Exercice N° 1 : Padanguli Naman (Pliez les orteils)
-
+```{figure} ../00pictures/01/01-07_PADANGULI-NAMAN.jpg
+---
+figclass: margin
+name: PADANGULI NAMAN
+---
+PADANGULI NAMAN
+```
 **Pratique : Position de base - répétition conseillée : 10 fois**
 Bougez lentement les orteils des deux pieds en arrière et en avant, en gardant les pieds en position verticale et les chevilles détendues et immobiles.
 
@@ -535,8 +551,14 @@ Bougez lentement les orteils des deux pieds en arrière et en avant, en gardant 
 **Conscience :**
 Sur le souffle, le comptage mental et la sensation d'étirement produite par le mouvement.
 
-### Exercice N° 2: Goolf Naman (Pliez Les Chevilles)
-
+### Exercice N° 2: Goolf Naman (Pliez les chevilles)
+```{figure} ../00pictures/01/01-08_GOOLF-NAMAN.jpg
+---
+figclass: margin
+name: GOOLF NAMAN
+---
+GOOLF NAMAN
+```
 **Pratique : Position de base - répétition conseillée : 10 fois**
 Déplacez lentement les deux pieds en arrière et en avant. Essayez d'étirer les pieds en avant jusqu'à toucher le sol puis les ramener vers les genoux.
 
@@ -548,8 +570,14 @@ Déplacez lentement les deux pieds en arrière et en avant. Essayez d'étirer le
 Sur le souffle, le comptage mental et l'étirement dans les muscles ou les articulations du pied, de la cheville, du mollet et de la jambe.
 
 
-### Exercice N° 3 : Goolf Chakra (Rotation De La Cheville)
-
+### Exercice N° 3 : Goolf Chakra (Rotation de la cheville)
+```{figure} ../00pictures/01/01-09_GOOLF-CHAKRA.jpg
+---
+figclass: margin
+name: GOOLF CHAKRA
+---
+GOOLF CHAKRA
+```
 **Pratique : Position de base - répétition conseillée : 10 fois**
 Sur l’axe de la cheville, faites lentement tourner le pied droit dans le sens des aiguilles d'une montre, puis dans le sens inverse. Répétez avec le pied gauche.
 
@@ -565,14 +593,41 @@ Sur l’axe de la cheville, faites lentement tourner le pied droit dans le sens 
 Sur le souffle, le comptage mental et l'étirement.
 
 
+### Exercice n° 4 : Goolf ghoornan (maniveller la cheville)
+```{figure} ../00pictures/01/01-10_GOOLF-GHOORNAN.jpg
+---
+figclass: margin
+name: GOOLF GHOORNAN
+---
+GOOLF GHOORNAN
+```
+**Pratique : position de base - répétition conseillée : 10 fois**
+
+Amenez le pied droit sur la cuisse gauche, tenez la cheville droite avec la main droite, tenez les orteils avec la main gauche. Faites pivoter lentement le pied droit dans le sens des aiguilles d'une montre, puis dans le sens inverse. Répétez la séquence avec le pied gauche sur la cuisse droite.
+
+**Respiration**
+
+Inspirez sur le mouvement ascendant. Expirez sur le mouvement descendant.
+
+**Conscience**
+
+Sur le souffle, le comptage mental et l'étirement.
+
+
 ```{note}
 Bénéfices des asanas sur les pieds et mollets
 Tous les asanas aux pieds et aux mollets contribuent au retour veineux et font circuler la lymphe stagnante.
 Ils soulagent donc fatigue et crampes, et préviennent la thrombose veineuse.
 ```
 
-### Exercice N° 5 : Janufalak Akarshan (Contraction De La Rotule)
-
+### Exercice N° 5 : Janufalak Akarshan (Contraction de la rotule)
+```{figure} ../00pictures/01/01-11_JANUFALAK-AKARSHAN.jpg
+---
+figclass: margin
+name: JANUFALAK AKARSHAN
+---
+JANUFALAK AKARSHAN
+```
 **Pratique : Position de base - répétition conseillée : 5 fois**
 Contractez le muscle entourant le genou droit en ramenant la rotule en arrière vers la cuisse. Tenez la contraction pendant 3 à 5 secondes, en comptant mentalement. Relâchez la contraction et laissez la rotule revenir à sa position initiale. Répétez avec la rotule gauche.
 
@@ -586,8 +641,14 @@ Contractez le muscle entourant le genou droit en ramenant la rotule en arrière 
 Sur le souffle, le comptage mental et la contraction des muscles du genou.
 
 
-### Exercice N° 6 : Janu Naman (Pliage Du Genou)
-
+### Exercice N° 6 : Janu Naman (Pliage du genou)
+```{figure} ../00pictures/01/01-12_JANU-NAMAN.jpg
+---
+figclass: margin
+name: JANU NAMAN
+---
+JANU NAMAN
+```
 **Pratique : Position de base - répétition conseillée : 10 fois**
 Pliez la jambe droite pour que la cuisse vienne près de la poitrine et le talon près des fesses. Dépliez la jambe droite en soulevant la rotule, gardez les mains sous la cuisse mais redressez les bras. Ne laissez pas le talon ou les orteils toucher le sol. Gardez la tête et la colonne vertébrale droites. Répétez la séquence avec l’autre jambe.
 
@@ -599,7 +660,7 @@ Pliez la jambe droite pour que la cuisse vienne près de la poitrine et le talon
 Sur le souffle, le comptage mental, l'étirement et la synchronisation du mouvement.
 
 
-### Exercice N° 7 : Dwi Janu Naman (Double Pliage Du Genou)
+### Exercice N° 7 : Dwi Janu Naman (Double pliage Du genou)
 
 **Pratique : Position de base - répétition conseillée : 5 fois**
 Placez les deux paumes à plat sur le sol sur le côté et légèrement en avant des fesses. Pliez les deux genoux ensemble et placez les pieds sur le sol devant les fesses. Redressez les jambes et soulevez les pieds afin qu'ils soient environ 8 cm au-dessus du sol dans la position finale. Pointez les orteils en avant. Les mains et les bras doivent soutenir et maintenir la stabilité du corps. Essayez de garder la tête et la colonne vertébrale droites. Restez en position pendant une seconde. Pliez les genoux et ramenez les jambes à la position de départ tout en gardant les talons légèrement au-dessus du sol.
@@ -615,8 +676,14 @@ Sur le souffle, le comptage mental, l'étirement et l’équilibre.
 Pratique contre-indiquée pour les personnes ayant une faiblesse des muscles abdominaux, maux de dos, hypertension artérielle, problèmes cardiaques.
 
 
-### Exercice N° 8 : Janu Chakra (Maniveller Le Genou)
-
+### Exercice N° 8 : Janu Chakra (Maniveller le genou)
+```{figure} ../00pictures/01/01-14_JANU-CHAKRA.jpg
+---
+figclass: margin
+name: JANU CHAKRA
+---
+JANU CHAKRA
+```
 **Pratique : Position de base - répétition conseillée : 10 fois**
 Pliez la jambe droite et posez la main sous la cuisse comme décrit dans l’exercice n° 6. Faites pivoter la jambe à partir du genou dans un grand mouvement circulaire. La cuisse et le tronc doivent être immobiles. Tournez dans le sens des aiguilles d'une montre, puis dans le sens inverse des aiguilles d'une montre. Répétez avec la jambe gauche.
 
@@ -633,8 +700,14 @@ Sur le souffle, le comptage mental, le mouvement, et la perfection de la rotatio
 
 ```
 
-### Exercice N° 9 : Ardha Titali Asana (Demi-Papillon)
-
+### Exercice N° 9 : Ardha Titali Asana (Demi-papillon)
+```{figure} ../00pictures/01/01-15_ARDHA-TITALI-ASANA.jpg
+---
+figclass: margin
+name: ARDHA TITALI ASANA
+---
+ARDHA TITALI ASANA
+```
 **Pratique : Position de base - répétition conseillée : 10 fois**
 Pliez la jambe gauche et placez le pied gauche aussi haut que possible sur la cuisse droite. Placez la main gauche sur le genou gauche plié. Tenez les orteils du pied gauche avec la main droite. En inspirant, déplacez doucement le genou gauche vers le haut. En expirant, abaissez doucement le genou au sol. Le tronc ne doit pas bouger. Restez sur vos limites et surtout ne forcez pas sur le mouvement. Les muscles des jambes doivent être passifs, le mouvement étant réalisé par l’effort du bras droit. Effectuez la même séquence avec l’autre jambe.
 
@@ -649,8 +722,14 @@ Pliez la jambe gauche et placez le pied gauche aussi haut que possible sur la cu
 **C’est une excellente pratique qui facilite les poses méditatives, notamment pour s'asseoir en lotus ou demi-lotus.**
 
 
-### Exercice 10 : Shroni Chakra (Rotation De La Hanche)
-
+### Exercice 10 : Shroni Chakra (Rotation de la manche)
+```{figure} ../00pictures/01/01-16_SHRONI-CHAKRA.jpg
+---
+figclass: margin
+name: SHRONI CHAKRA
+---
+SHRONI CHAKRA
+```
 **Pratique : Position de base - répétition conseillée : 10 fois**
 Prenez la posture de l’exercice 9, utilisez votre main pour décrire un cercle sur le genou en effectuant un mouvement circulaire le plus large possible. Redressez la jambe et le genou lentement puis répétez avec l’autre jambe.
 
@@ -662,8 +741,14 @@ Prenez la posture de l’exercice 9, utilisez votre main pour décrire un cercle
 Sur la respiration, le comptage mental et la rotation de l'articulation de la hanche.
 
 
-### Exercice 11 : Poorna Titali Asana (Posture Du Papillon)
-
+### Exercice 11 : Poorna Titali Asana (Posture du papillon)
+```{figure} ../00pictures/01/01-17_POORNA-TITALI-ASANA.jpg
+---
+figclass: margin
+name: POORNA TITALI ASANA
+---
+POORNA TITALI ASANA
+```
 **Pratique : Position de base - répétition conseillée : 10 fois**
 Pliez les genoux et rapprochez la plante des pieds, gardez les talons aussi près que possible du pubis. Détendez complètement les muscles intérieurs de cuisse et tenez vos pieds avec vos mains.
 
@@ -678,8 +763,14 @@ Pliez les genoux et rapprochez la plante des pieds, gardez les talons aussi prè
 **Évitez cet asana pour les personnes souffrant de sciatique chronique et de douleurs au niveau du sacrum.**
 
 
-### Exercice 12 : Mushtika Bandhana (Serrage Des Mains)
-
+### Exercice 12 : Mushtika Bandhana (Serrage des mains)
+```{figure} ../00pictures/01/01-18_MUSHTIKA-BANDHANA..jpg
+---
+figclass: margin
+name: MUSHTIKA BANDHANA.
+---
+MUSHTIKA BANDHANA.
+```
 **Pratique : Position de base - répétition conseillée : 10 fois**
 Tenez les bras bien droits devant le corps au niveau des épaules. Ouvrez les mains, et étirez les doigts aussi éloignés que possible. Fermez les doigts pour faire un poing serré avec les pouces à l'intérieur. La variante pouce à l’extérieur est réalisable aussi. Recommencer la séquence.
 
@@ -690,8 +781,14 @@ Tenez les bras bien droits devant le corps au niveau des épaules. Ouvrez les ma
 **Conscience :** Sur la respiration, le comptage mental, le mouvement et la sensation.
 
 
-### Exercice 13 : Manibandha Naman (Flexion Du Poignet)
-
+### Exercice 13 : Manibandha Naman (Flexion du poignet)
+```{figure} ../00pictures/01/01-19_MANIBANDHA-NAMAN.jpg
+---
+figclass: margin
+name: MANIBANDHA NAMAN
+---
+MANIBANDHA NAMAN
+```
 **Pratique : Position de base - répétition conseillée : 10 fois**
 Départ identique à l'exercice 12. Pliez les mains en arrière comme si vous appuyiez les paumes contre un mur avec les doigts pointés vers le plafond. Pliez les mains en avant à partir des poignets afin que les doigts pointent vers le sol. Gardez les coudes droits tout au long de la pratique. Ne pliez pas les articulations ni les doigts.
 
@@ -702,8 +799,14 @@ Départ identique à l'exercice 12. Pliez les mains en arrière comme si vous ap
 **Conscience :** Sur la respiration, le comptage mental, le mouvement et l'articulation du poignet et l'étirement des muscles de l'avant-bras.
 
 
-### Pratique 14 : Manibandha Chakra (Rotation De L'Articulation Du Poignet)
-
+### Pratique 14 : Manibandha Chakra (Rotation De L'articulation Du poignet)
+```{figure} ../00pictures/01/01-20_MANIBANDHA-CHAKRA.jpg
+---
+figclass: margin
+name: MANIBANDHA CHAKRA
+---
+MANIBANDHA CHAKRA
+```
 **Pratique : Position de base - répétition conseillée : 10 fois**
 Tendez le bras, poing serré avec le pouce à l'intérieur.
 
@@ -720,8 +823,14 @@ Tendez le bras, poing serré avec le pouce à l'intérieur.
 **Les asanas de la main et du poignet sont bénéfiques pour l'arthrite des articulations liées.** Ils soulagent également la tension causée par l’écriture prolongée, la saisie informatique, etc.
 
 
-### Exercice 15 : Kehuni Naman (Pliage Du Coude)
-
+### Exercice 15 : Kehuni Naman (Pliage Du coude)
+```{figure} ../00pictures/01/01-21_KEHUNI-NAMAN.jpg
+---
+figclass: margin
+name: KEHUNI NAMAN
+---
+KEHUNI NAMAN
+```
 **Pratique : Position de base - répétition conseillée : 10 fois**
 Les jambes croisées, bras parallèles au sol et coudes à la hauteur des épaules.
 
@@ -737,8 +846,14 @@ Les jambes croisées, bras parallèles au sol et coudes à la hauteur des épaul
 
 **Conscience :** Sur la respiration, le comptage mental et le mouvement.
 
-### Exercice 16 : Skandha Chakra (Rotation De L'Épaule)
-
+### Exercice 16 : Skandha Chakra (Rotation De L'epaule)
+```{figure} ../00pictures/01/01-22_SKANDHA-CHAKRA.jpg
+---
+figclass: margin
+name: SKANDHA CHAKRA
+---
+SKANDHA CHAKRA
+```
 **Pratique : Position de base - répétition conseillée : 10 fois**
 
 **Variante A :** Un coude à la fois. Placez les doigts de la main droite sur l'épaule droite. Gardez la main gauche sur le genou gauche et le dos droit. Tournez le coude dans un sens, puis le sens contraire. Répétez la séquence avec l’épaule gauche.
