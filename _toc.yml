@@ -7,7 +7,7 @@ defaults:  # The defaults key will be applied to all chapters and sub-sections
   titlesonly: true
 
 parts: 
-- caption: Préface
+- caption: Liminaire
   chapters:
  # - file: content/yoga/frontmatter
   - file: content/yoga/remerciements

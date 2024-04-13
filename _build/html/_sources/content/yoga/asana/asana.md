@@ -1026,6 +1026,44 @@ Les asanas soulagent les épaules en cas de posture statique (conduite, au burea
 ### 17-Greeva Sanchalana
 #### Mouvements du cou
 
+
+
+```{figure} ../00pictures/01/01-23_GREEVA-SANCHALANA_A.jpg
+---
+scale:  50%
+figclass: margin
+name: Variante-A
+---
+Variante A
+```
+
+```{figure} ../00pictures/01/01-23_GREEVA-SANCHALANA_B.jpg
+---
+scale:  50%
+figclass: margin
+name: Variante-B
+---
+Variante B
+```
+
+```{figure} ../00pictures/01/01-23_GREEVA-SANCHALANA_C.jpg
+---
+scale:  50%
+figclass: margin
+name: Variante-C
+---
+Variante C
+```
+
+```{figure} ../00pictures/01/01-23_GREEVA-SANCHALANA_D.jpg
+---
+scale:  50%
+figclass: margin
+name: Variante-D
+---
+Variante D
+```
+
 **Pratique :**
 
 **Position de base - répétition conseillée : 10 fois**

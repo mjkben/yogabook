@@ -126,6 +126,7 @@ latex:
 #######################################################################################
 # Advanced and power-user settings
 sphinx:
+  use_sidenotes       : true
   extra_extensions    :       # A list of extra extensions to load by Sphinx (added to those already used by JB).
   local_extensions    :       # A list of local extensions to load by sphinx specified by "name: path" items
   recursive_update    : false # A boolean indicating whether to overwrite the Sphinx config (true) or recursively update (false)
@@ -134,8 +135,9 @@ sphinx:
 parse_with_myst: true
 exclude_patterns    :   [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints","CONDUCT.md", "markdown-notebooks.md", "notebooks.ipynb"]
 
+
 html_show_copyright: false
-use_sidenotes: true
+
 myst_amsmath_enable: true
 html_theme: sizzle
 

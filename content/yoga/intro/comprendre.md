@@ -17,19 +17,23 @@ tags:
 
 Le yoga est intimement lié à la langue sanskrite, le berceau de toute la littérature philosophique et spirituelle de l'Inde. Cette section vise à vous familiariser avec certains termes clés que vous rencontrerez tout au long de ce document et dans d'autres ressources sur le yoga. Bien que je m'efforce de traduire la plupart des termes au fur et à mesure, connaître ces termes vous enrichira et facilitera votre pratique et votre étude du yoga.
 
-- **Asana**  
+- <font color='green'>**Asana**</font> 
+
   **Traduction littérale** : posture.  
   **Définition** : Désigne une posture physique pouvant être maintenue de manière confortable et détendue pendant une période prolongée. Ce terme est souvent utilisé pour nommer les différentes postures de yoga.
 
-- **Chakra**  
+- <font color='green'>**Chakra**</font> 
+
   **Traduction littérale** : roue.  
   **Définition** : Points du corps immatériel où l'énergie vitale (prana) se concentre.
 
-- **Prana**  
+- <font color='green'>**Prana**</font>  
+  
   **Traduction littérale** : énergie vitale.  
   **Définition** : La force omniprésente dans toute chose, animée ou inanimée, souvent comparée aux vagues qui sont des extensions de la mer.
 
-- **Nadis**  
+- <font color='green'>**Nadis**</font> 
+  
   **Traduction littérale** : mouvement, vibration.  
   **Définition** : Canaux astraux, au nombre d'environ 72 000 dans le corps, par lesquels l'énergie vitale (prana) circule, inondant tous les aspects de notre être.
 
@@ -93,7 +97,7 @@ Mohenjo Daro
 Le tantrisme est une tradition spirituelle riche et complexe qui utilise des rituels, des mantras, et des méditations pour explorer les dimensions profondes de la conscience et atteindre l'éveil spirituel.
 :::
 
-Le yoga que nous connaissons aujourd'hui a été développé à partir de la **civilisation tantrique** qui a existé en Inde il y a 10000 ans. Les fouilles archéologiques effectuées dans la vallée de l'Indus ont permis d’exhumer de nombreuses statues de divinités ressemblant à Shiva et Parvati (son épouse) en train de jouer aux divers asanas (postures de yoga) et pratiques de la méditation. Selon la tradition mythique, Shiva est considéré comme le fondateur du yoga et Parvati, son premier disciple.
+Le yoga que nous connaissons aujourd'hui a été développé à partir de la <font color='green'>**civilisation tantrique**</font> qui a existé en Inde il y a 10000 ans. Les fouilles archéologiques effectuées dans la vallée de l'Indus ont permis d’exhumer de nombreuses statues de divinités ressemblant à Shiva et Parvati (son épouse) en train de jouer aux divers asanas (postures de yoga) et pratiques de la méditation. Selon la tradition mythique, Shiva est considéré comme le fondateur du yoga et Parvati, son premier disciple.
 
 
 :::{admonition} Rishis
@@ -101,7 +105,7 @@ Le yoga que nous connaissons aujourd'hui a été développé à partir de la **c
 Les rishis sont des sages védiques de l'ancienne Inde, crédités de la réception et de la transmission des hymnes védiques, agissant comme ponts entre le divin et l'humain.
 :::
 
-La civilisation de l'Indus considère le yoga non seulement comme un héritage précieux mais comme un don sacré, révélé aux sages ancestraux, ou **Rishis**, de l'époque pré-védique. Cette révélation avait pour but ultime de permettre à l'humanité d'atteindre la compréhension de sa véritable essence divine.
+La civilisation de l'Indus considère le yoga non seulement comme un héritage précieux mais comme un don sacré, révélé aux sages ancestraux, ou <font color='green'>**Rishis**</font> , de l'époque pré-védique. Cette révélation avait pour but ultime de permettre à l'humanité d'atteindre la compréhension de sa véritable essence divine.
 
 ### Transmission des techniques
 
@@ -113,7 +117,7 @@ Initialement, l'enseignement et les pratiques du yoga étaient enveloppés d'un 
 Le védisme est l'ancienne religion de l'Inde basée sur les Védas, privilégiant les rituels et sacrifices pour harmoniser l'ordre cosmique, précurseur direct de l'hindouisme.
 :::
 
-Les tantras anciens, suivis par les textes **védiques** découverts dans la vallée de l'Indus, constituent les premières références écrites mentionnant le yoga. Ces textes sont aujourd'hui reconnus comme les fondements de l'hindouisme.
+Les tantras anciens, suivis par les textes <font color='green'>**védiques**</font> découverts dans la vallée de l'Indus, constituent les premières références écrites mentionnant le yoga. Ces textes sont aujourd'hui reconnus comme les fondements de l'hindouisme.
 
 Ce n'est qu'au début de notre ère que le sage Patanjali, après une vie dédiée à l'étude des textes sacrés, rédige les Yoga Sutras. Ces versets marquent la première tentative de systématisation du yoga, offrant un cadre définitif, unifié et complet pour la pratique. Les Yoga Sutras introduisent notamment le concept du chemin des huit voies, une approche holistique du yoga qui sera développée plus en détail ultérieurement.
 

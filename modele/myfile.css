@@ -60,3 +60,14 @@ body {
     outline-offset: 3px;
   }
   
+
+div.admonition-extra-credit {
+    border-left-color: rgba(0, 246, 16, 1);
+}
+div.admonition-extra-credit .admonition-title {
+    background-color: rgba(0, 246, 16, .1);
+}
+div.admonition-extra-credit .admonition-title:before {
+    color: rgba(0, 246, 16, 1);
+    content: '\f19d';
+}
