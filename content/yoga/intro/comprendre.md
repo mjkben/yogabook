@@ -258,7 +258,7 @@ alt: fct-corps-physique
 name: fct-corps-physique
 align: right
 ---
-Les 4 fonctions du corps physique
+Les 4 fonctions du corps
 ```
 
 Notre corps est une merveille de la nature, orchestré autour de quatre fonctions vitales essentielles. Parmi celles-ci, l'alimentation et la respiration se distinguent par leur capacité à être influencées directement par notre volonté. Ces domaines cruciaux ont été au cœur de recherches approfondies, donnant naissance à deux sciences complémentaires, l'Ayurveda et le Yoga, qui partagent une philosophie commune et se concentrent respectivement sur :
@@ -615,6 +615,8 @@ Le Chakra Sahasrara symbolise le point culminant de la quête spirituelle, où l
 ### Tableau de correspondance
 Chaque chakra principal, au nombre de sept, est en correspondance avec une tonalité musicale distincte, un élément naturel, un sens humain spécifique et une glande endocrine déterminée, en plus d'être connecté à des organes particuliers dans notre corps. Ces centres énergétiques sont aussi associés à des actions exprimées par des verbes, qui reflètent les aspects psychologiques et émotionnels régis par ces chakras.
 
+
+
 ```{figure} ../00pictures/00/00_13-tableauchakra.png
 ---
 alt: Tableauchakra-chakra
@@ -624,7 +626,7 @@ align: center
 ```
 
 
-### Dysfonctionnement des Chakras
+### Dysfonctionnement des chakrass
 
 Les chakras, peuvent parfois fonctionner de manière suboptimale, affectant notre bien-être physique et émotionnel. Deux principales causes de dysfonctionnement sont identifiées :
 
@@ -652,7 +654,7 @@ align: right
 ```
 Il est essentiel de comprendre que les chakras ne sont pas seulement connectés à notre physiologie organique ; ils sont également intimement liés aux divers corps subtils que nous avons explorés précédemment. La corrélation entre les chakras et ces corps peut être visualisée à travers un schéma de couleurs spécifique.
 
-**Autres traits des Chakras**
+**Autres traits des chakrass**
 
 - **Taille, rayonnement, et vitesse de rotation**: Ces aspects d'un chakra reflètent la santé des organes correspondants et, par extension, l'état vibratoire du corps subtil associé (émotionnel, causal, mental, etc.).
 
@@ -844,12 +846,12 @@ La pratique du yoga est ainsi une invitation à une exploration profonde de l'es
 
 ## Comment réussir mon Yoga ?
 
-La pratique du yoga requiert une sensibilité accrue et une prise de conscience profonde pour naviguer dans les territoires subtils des chakras et des nadis. L'objectif principal des techniques yogiques réside dans la purification et l'équilibrage de ces systèmes énergétiques, facilitant ainsi l'éveil de la Kundalini.
+La pratique du yoga requiert une sensibilité accrue et une prise de conscience profonde pour naviguer dans les territoires subtils des chakrass et des nadis. L'objectif principal des techniques yogiques réside dans la purification et l'équilibrage de ces systèmes énergétiques, facilitant ainsi l'éveil de la Kundalini.
 
 **Clés de la pratique yogique**
 
-- **Localisation des Chakras et Nadis**: La première étape vers une pratique yogique fructueuse implique le développement de la sensibilité pour identifier les centres énergétiques et les canaux dans le corps subtil.
-- **Purification et équilibrage**: Les exercices et méditations ciblent la purification des chakras et nadis, préparant le terrain pour l'ascension de la Kundalini.
+- **Localisation des chakrass et Nadis**: La première étape vers une pratique yogique fructueuse implique le développement de la sensibilité pour identifier les centres énergétiques et les canaux dans le corps subtil.
+- **Purification et équilibrage**: Les exercices et méditations ciblent la purification des chakrass et nadis, préparant le terrain pour l'ascension de la Kundalini.
 - **Éveil de la conscience subtile**: En régulant ces dimensions subtiles, la pratique yogique ouvre la voie à une conscience élargie et à des perceptions spirituelles profondes, conformément aux expériences vécues par les yogis à travers les âges.
 
 **L'importance de la régularité**

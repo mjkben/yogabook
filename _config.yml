@@ -135,6 +135,7 @@ parse_with_myst: true
 exclude_patterns    :   [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints","CONDUCT.md", "markdown-notebooks.md", "notebooks.ipynb"]
 
 html_show_copyright: false
+use_sidenotes: true
 myst_amsmath_enable: true
 html_theme: sizzle
 

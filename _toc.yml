@@ -10,9 +10,9 @@ parts:
 - caption: Préface
   chapters:
  # - file: content/yoga/frontmatter
-  - file: content/yoga/remerciements  
-  - file: content/yoga/liminaire
-
+  - file: content/yoga/remerciements
+  - file: content/yoga/note-auteur  
+  - file: content/yoga/note-lecteur
 
 - caption: Mon expérience du Yoga
   

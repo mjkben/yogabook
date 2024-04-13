@@ -115,11 +115,11 @@ La tension nerveuse
 
 **Asanas** :
 
-Général - Pawanmuktasana partie 1, surya namaskara, shashankasana,
+_Général_ - Pawanmuktasana partie 1, surya namaskara, shashankasana,
 yogamudrasana, ananda madirasana, paschimottanasana, bhujangasana,
 shalabhasana, sarvangasana, halasana, shavasana.
 
-Avancé - Garbhasana, koormasana.
+_Avancé_ - Garbhasana, koormasana.
 
 **Pranayama** : Nadi shodhana, kapalbhati, bhastrika, bhramari,
 sheetali, seetkari.

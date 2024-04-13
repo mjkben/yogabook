@@ -1,6 +1,6 @@
 #  <p align="center">Yoga: La science du bien-être</p> 
 
-:::{figure} ./content/yoga/00pictures/couverture.png
+:::{figure} ./content/yoga/00pictures/couverture_livre_03.png
 ---
 scale: 50%
 align: center

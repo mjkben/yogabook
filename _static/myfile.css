@@ -3,6 +3,7 @@
   --color-primary: #4a7c59; /* Vert doux */
   --color-secondary: #f4eed8; /* Crème */
   --color-text: #333; /* Gris foncé pour un contraste doux */
+  --color-textimg: #e9e9e8; /* ligne claire */
   --color-background: #fffaf3; /* Blanc cassé pour le fond */ 
 }
 
@@ -56,8 +57,8 @@ a:hover {
 
 /* Images et éléments interactifs */
 img {
-  border: 1px solid var(--color-text);
-  padding: 5px;
+  border: 1px solid var(--color-textimg);
+  padding: 1px;
   background-color: var(--color-background);
 }
 
